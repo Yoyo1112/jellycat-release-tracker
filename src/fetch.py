@@ -21,6 +21,7 @@ The fields we care about, per result:
 
 from __future__ import annotations
 
+import html
 import json
 import time
 import urllib.error
@@ -102,10 +103,12 @@ def _normalise(store: Store, result: dict) -> tuple[str, dict] | None:
         return None
 
     # uids are only unique within a store, so the snapshot key carries the store.
+    # Searchspring hands back HTML-escaped names ("Black &amp; Cream Puppy"),
+    # which would otherwise be escaped a second time in the mail.
     return f"{store.key}:{uid}", {
         "store": store.key,
-        "name": (result.get("name") or "").strip(),
-        "sku": (result.get("sku") or "").strip(),
+        "name": html.unescape(result.get("name") or "").strip(),
+        "sku": html.unescape(result.get("sku") or "").strip(),
         "url": slug,
         "price": str(result.get("price") or "").strip(),
         "in_stock": str(result.get("ss_in_stock") or "") == "1",

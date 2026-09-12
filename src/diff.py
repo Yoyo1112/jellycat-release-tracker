@@ -23,6 +23,12 @@ import re
 
 COMING_SOON = "Coming Soon"
 
+# The site tags recently-restocked products itself, and the tag outlives the
+# restock by a while.  With infrequent polling a product can restock and sell
+# out again between two runs -- invisible to a plain in-stock comparison, but
+# the badge still catches it.
+BACK_IN_STOCK_BADGE = "Back in Stock"
+
 SITE_WIDE_KINDS = (
     "launched",
     "new_product",
@@ -126,8 +132,16 @@ def diff(previous: dict[str, dict], current: dict[str, dict]) -> list[dict]:
         # A launch already says whether the thing is buyable, so don't also
         # report it as a restock -- one product, one headline.
         if not status_changed:
-            if not before.get("in_stock") and now.get("in_stock") and not is_coming_soon:
-                events.append(_event("restock", uid, now))
+            came_back = not before.get("in_stock") and now.get("in_stock")
+            newly_badged = (
+                now.get("badge") == BACK_IN_STOCK_BADGE
+                and before.get("badge") != BACK_IN_STOCK_BADGE
+                and now.get("in_stock")
+            )
+            if (came_back or newly_badged) and not is_coming_soon:
+                events.append(
+                    _event("restock", uid, now, via_badge=newly_badged and not came_back)
+                )
             elif before.get("in_stock") and not now.get("in_stock"):
                 events.append(_event("sold_out", uid, now))
 

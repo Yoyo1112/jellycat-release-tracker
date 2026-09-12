@@ -151,6 +151,8 @@ def _card_html(event: dict) -> str:
 
     if event["kind"] in ("launched", "new_product", "restock"):
         notes.append("有貨" if product.get("in_stock") else "目前缺貨")
+    if event.get("via_badge"):
+        notes.append("官網標記補貨")
 
     note_html = (
         f'<div style="margin-top:4px;font-size:12px;color:{MUTED};">'
