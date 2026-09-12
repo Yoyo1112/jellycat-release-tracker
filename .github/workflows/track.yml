@@ -1,0 +1,46 @@
+name: Jellycat Tracker
+
+on:
+  schedule:
+    # GitHub cron is UTC. Taiwan is UTC+8.
+    - cron: "0 1 * * *"   # 09:00 台北時間
+    - cron: "0 9 * * *"   # 17:00 台北時間 (= 英國上午的上架尖峰)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Two runs writing the snapshot at once would clobber each other.
+concurrency:
+  group: jellycat-tracker
+  cancel-in-progress: false
+
+jobs:
+  track:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # No dependencies to install: the tracker is standard library only.
+      - name: Check for releases
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python -m src.main
+
+      - name: Commit snapshot
+        run: |
+          if [ -z "$(git status --porcelain data)" ]; then
+            echo "No snapshot change to commit."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "chore: update catalogue snapshot [skip ci]"
+          git push
