@@ -12,7 +12,7 @@ import datetime as dt
 import html
 import zoneinfo
 
-from .diff import KIND_LABELS, SITE_WIDE_KINDS, WATCHLIST_ONLY_KINDS
+from .diff import COMING_SOON, KIND_LABELS, SITE_WIDE_KINDS, WATCHLIST_ONLY_KINDS, parse_release_date
 from .fetch import price_label, product_url, store_of
 
 TAIPEI = zoneinfo.ZoneInfo("Asia/Taipei")
@@ -70,7 +70,7 @@ def build_subject(events: list[dict]) -> str:
         if len(parts) == 2:
             break
 
-    headline = "、".join(parts) if parts else "目錄有更新"
+    headline = "、".join(parts) if parts else "今日追蹤回報"
     star = "⭐ " if starred else ""
     return f"{star}🧸 Jellycat：{headline}"
 
@@ -78,6 +78,59 @@ def build_subject(events: list[dict]) -> str:
 # --------------------------------------------------------------------------- #
 # HTML
 # --------------------------------------------------------------------------- #
+
+GOOD = "#2e7d4f"
+BAD = "#9a9a9a"
+
+
+def status_label(product: dict, today: dt.date | None = None) -> tuple[str, str]:
+    """Plain-language state of one product, as (text, colour).
+
+    This is what answers "has the thing I'm waiting for gone on sale yet?", so
+    it has to be readable at a glance and never blank.
+    """
+    if product.get("status") == COMING_SOON:
+        release = parse_release_date(product.get("badge", ""), today)
+        if release:
+            days = (release - (today or dt.date.today())).days
+            when = "今天上架！" if days == 0 else f"還有 {days} 天" if days > 0 else "應已上架"
+            return f"尚未上架 · {release.strftime('%m/%d')} {when}", ACCENT
+        return "尚未上架 · 官網尚未公告日期", ACCENT
+    if product.get("in_stock"):
+        return "已上架 · 有貨", GOOD
+    return "已上架 · 目前缺貨", BAD
+
+
+def _watchlist_rows(watched: list[dict]) -> list[dict]:
+    return sorted(watched, key=lambda p: (p.get("name", ""), p.get("store", "")))
+
+
+def _watchlist_html(watched: list[dict]) -> str:
+    """Always-present block: every product on the watchlist and its state."""
+    if not watched:
+        return ""
+
+    items = []
+    for product in _watchlist_rows(watched):
+        text, colour = status_label(product)
+        items.append(
+            f'<tr><td style="padding:8px 0;border-bottom:1px solid {LINE};">'
+            f'<a href="{_esc(product_url(product))}" style="color:{INK};font-size:14px;'
+            f'font-weight:600;text-decoration:none;">{_flag(product)} '
+            f'{_esc(product.get("name", ""))}</a>'
+            f'<span style="color:{MUTED};font-size:13px;"> — {_price(product)}</span>'
+            f'<div style="font-size:12px;color:{colour};font-weight:600;margin-top:2px;">'
+            f'{_esc(text)}</div></td></tr>'
+        )
+
+    return f"""
+    <tr><td style="padding:18px 0 4px;">
+      <div style="font-size:16px;font-weight:700;color:{INK};">⭐ 我的追蹤清單</div>
+      <div style="font-size:11px;color:{MUTED};margin-top:2px;">每封信都會附上，不管有沒有變化</div>
+    </td></tr>
+    <tr><td><table role="presentation" width="100%" cellpadding="0" cellspacing="0"
+      border="0">{"".join(items)}</table></td></tr>"""
+
 
 def _card_html(event: dict) -> str:
     product = event["product"]
@@ -174,7 +227,8 @@ def _countdown_html(rows: list[dict]) -> str:
       border="0">{"".join(items)}</table></td></tr>"""
 
 
-def render_html(events: list[dict], countdown: list[dict], total: int) -> str:
+def render_html(events: list[dict], countdown: list[dict], total: int,
+                watched: list[dict] | None = None) -> str:
     grouped = {kind: [] for kind in SITE_WIDE_KINDS + WATCHLIST_ONLY_KINDS}
     for event in events:
         grouped[event["kind"]].append(event)
@@ -205,6 +259,7 @@ def render_html(events: list[dict], countdown: list[dict], total: int) -> str:
         🇬🇧 jellycat.com（英鎊）　🇺🇸 us.jellycat.com（美元）</div>
     </td></tr>
 
+    {_watchlist_html(watched or [])}
     {_countdown_html(countdown)}
     {sections}
 
@@ -223,12 +278,22 @@ def render_html(events: list[dict], countdown: list[dict], total: int) -> str:
 # plain text
 # --------------------------------------------------------------------------- #
 
-def render_text(events: list[dict], countdown: list[dict], total: int) -> str:
+def render_text(events: list[dict], countdown: list[dict], total: int,
+                watched: list[dict] | None = None) -> str:
     lines = [
         "🧸 Jellycat 上架追蹤",
         f"{_now().strftime('%Y/%m/%d %H:%M')}（台北時間） · 本次掃描 {total} 件",
         "🇬🇧 jellycat.com（英鎊）  🇺🇸 us.jellycat.com（美元）",
     ]
+
+    if watched:
+        lines += ["", "⭐ 我的追蹤清單"]
+        for product in _watchlist_rows(watched):
+            text, _colour = status_label(product)
+            lines.append(
+                f"  {_flag(product)} {product.get('name', '')} — {_price(product)} · {text}"
+            )
+            lines.append(f"    {product_url(product)}")
 
     if countdown:
         lines += ["", "⏰ 上架倒數"]

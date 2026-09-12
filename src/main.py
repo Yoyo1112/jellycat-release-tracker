@@ -104,11 +104,24 @@ def print_events(events: list[dict], countdown: list[dict]) -> None:
               f"({product.get('badge') or product.get('status', '')})")
 
 
-def build_digest(events: list[dict], countdown: list[dict], total: int):
+def print_status(watched: list[dict]) -> None:
+    if not watched:
+        print("\n追蹤清單目前沒有命中任何商品。")
+        return
+
+    print(f"\n⭐ 我的追蹤清單（{len(watched)} 筆）")
+    for product in sorted(watched, key=lambda p: (p.get("name", ""), p.get("store", ""))):
+        text, _colour = render.status_label(product)
+        print(f"  {store_of(product).flag} {product.get('name', '')} — "
+              f"{price_label(product)} · {text}")
+        print(f"     {product_url(product)}")
+
+
+def build_digest(events: list[dict], countdown: list[dict], total: int, watched: list[dict]):
     return (
         render.build_subject(events),
-        render.render_text(events, countdown, total),
-        render.render_html(events, countdown, total),
+        render.render_text(events, countdown, total, watched),
+        render.render_html(events, countdown, total, watched),
     )
 
 
@@ -131,6 +144,10 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--seed", action="store_true", help="只建立基準快照，不寄信")
     parser.add_argument("--dry-run", action="store_true", help="印出事件並輸出信件預覽，不寄信、不寫檔")
     parser.add_argument("--send-test", action="store_true", help="用當前目錄寄一封示範信")
+    parser.add_argument("--status", action="store_true",
+                        help="只印出追蹤清單目前狀態，不比對、不寄信、不寫檔")
+    parser.add_argument("--always-send", action="store_true",
+                        help="就算沒有變化也寄一封狀態回報（也可用 ALWAYS_SEND=1）")
     parser.add_argument("--snapshot", default=SNAPSHOT_PATH)
     parser.add_argument("--events", default=EVENTS_PATH)
     parser.add_argument("--watchlist", default=watchlist.DEFAULT_PATH)
@@ -147,6 +164,14 @@ def main(argv: list[str] | None = None) -> int:
     print(f"抓到 {len(current)} 件商品：" + "、".join(
         f"{store.flag} {store.label} {_store_count(current, store.key)}" for store in STORES
     ))
+
+    watched = [product for product in current.values() if watchlist.matches(product, rules)]
+    if rules and not watched:
+        print("提醒：追蹤清單有規則，但目錄裡沒有任何商品命中。", file=sys.stderr)
+
+    if args.status:
+        print_status(watched)
+        return 0
 
     previous_snapshot = load_snapshot(args.snapshot)
     previous = (previous_snapshot or {}).get("products") or {}
@@ -184,7 +209,7 @@ def main(argv: list[str] | None = None) -> int:
                 sample.append({"kind": kind, "uid": uid, "product": product})
         for event in sample:
             event["starred"] = watchlist.matches(event["product"], rules)
-        subject, text_body, html_body = build_digest(sample, countdown, len(current))
+        subject, text_body, html_body = build_digest(sample, countdown, len(current), watched)
         subject = "[測試] " + subject
         try:
             recipients = mailer.send(subject, text_body, html_body)
@@ -215,18 +240,21 @@ def main(argv: list[str] | None = None) -> int:
         if event["kind"] in diff_mod.SITE_WIDE_KINDS or event.get("starred")
     ]
 
+    print_status(watched)
     print_events(events, countdown)
 
     if args.dry_run:
-        subject, _text_body, html_body = build_digest(events, countdown, len(current))
+        subject, _text_body, html_body = build_digest(events, countdown, len(current), watched)
         preview = dump_preview(html_body)
         print(f"\n主旨：{subject}")
         print(f"信件預覽：{preview}")
         print("（--dry-run：未寄信、未寫入快照）")
         return 0
 
-    if events:
-        subject, text_body, html_body = build_digest(events, countdown, len(current))
+    always_send = args.always_send or os.environ.get("ALWAYS_SEND", "").strip() not in ("", "0")
+
+    if events or (always_send and watched):
+        subject, text_body, html_body = build_digest(events, countdown, len(current), watched)
         try:
             recipients = mailer.send(subject, text_body, html_body)
         except mailer.MailConfigError as error:
@@ -234,6 +262,8 @@ def main(argv: list[str] | None = None) -> int:
             return 2
         print(f"已寄出：{subject} → {len(recipients)} 位收件人")
         append_events(args.events, events)
+    elif always_send:
+        print("沒有變化，且追蹤清單是空的，不寄信。")
     else:
         print("沒有變化，不寄信。")
 

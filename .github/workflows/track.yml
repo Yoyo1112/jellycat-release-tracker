@@ -31,6 +31,11 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
+          # The morning run, and any run you trigger by hand, always reports the
+          # watchlist state even when nothing changed -- otherwise "is my thing
+          # out yet?" has no answer. The evening run stays quiet unless there is
+          # real news. Set this to '' on both to only ever mail on changes.
+          ALWAYS_SEND: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '0 1 * * *') && '1' || '' }}
         run: python -m src.main
 
       - name: Commit snapshot

@@ -60,7 +60,25 @@ https://api.searchspring.net/api/search/search.json?siteId=<siteId>&resultsPerPa
 | 💷 價格變動 | 價格改變 |
 | 👋 已下架 | 商品從目錄消失 |
 
-沒有任何事件時**完全不寄信**。
+### 每封信都會附「我的追蹤清單」
+
+信的最上方固定列出 `watchlist.txt` 命中的每一件商品和**目前狀態**，不管這輪有沒有變化：
+
+- `尚未上架 · 官網尚未公告日期`
+- `尚未上架 · 09/16 還有 4 天`
+- `已上架 · 有貨` / `已上架 · 目前缺貨`
+
+這樣「我等的那件到底上架了沒」永遠有答案，不用等它剛好在這一輪發生變化。
+
+### 什麼時候會寄信
+
+| 觸發 | 行為 |
+| --- | --- |
+| 早上 09:00 排程 | **一定寄**，當作每日狀態回報 |
+| 下午 17:00 排程 | 只有偵測到變化才寄 |
+| 手動 Run workflow | **一定寄**（不然按了按鈕沒反應很難確認有沒有設對） |
+
+要改成「只有變化才寄」，把 [`track.yml`](.github/workflows/track.yml) 裡的 `ALWAYS_SEND` 那行改成 `ALWAYS_SEND: ''` 即可。追蹤清單是空的時候，沒變化就一樣不寄。
 
 ## 設定追蹤清單
 
@@ -117,8 +135,17 @@ amuseables-birthday-cake-bag-charm
 不需要安裝任何套件，Python 3.11+ 即可（只用標準函式庫）。
 
 ```bash
+python3 -m src.main --status    # 只問「我追的那幾件現在怎樣」，最快
 python3 -m src.main --seed      # 建立基準快照，不寄信
 python3 -m src.main --dry-run   # 印出事件、輸出信件 HTML 預覽，不寄信也不寫檔
+```
+
+`--status` 的輸出長這樣：
+
+```
+⭐ 我的追蹤清單（2 筆）
+  🇬🇧 Amuseables Birthday Cake Bag Charm — £28 · 尚未上架 · 官網尚未公告日期
+  🇺🇸 Amuseables Birthday Cake Bag Charm — $35 · 尚未上架 · 官網尚未公告日期
 ```
 
 想驗證寄信管道有沒有通，用當下目錄寄一封示範信：
