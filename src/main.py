@@ -17,7 +17,7 @@ import tempfile
 
 from . import diff as diff_mod
 from . import mailer, render, watchlist
-from .fetch import FetchError, fetch_catalogue, product_url
+from .fetch import STORES, FetchError, fetch_catalogue, price_label, product_url, store_of
 
 SNAPSHOT_PATH = os.path.join("data", "snapshot.json")
 EVENTS_PATH = os.path.join("data", "events.jsonl")
@@ -28,6 +28,10 @@ EVENTS_PATH = os.path.join("data", "events.jsonl")
 MIN_COUNT_RATIO = 0.8
 
 COUNTDOWN_DAYS = 3
+
+
+def _store_count(products: dict[str, dict], store_key: str) -> int:
+    return sum(1 for product in products.values() if product.get("store") == store_key)
 
 
 def load_snapshot(path: str) -> dict | None:
@@ -61,6 +65,7 @@ def append_events(path: str, events: list[dict]) -> None:
                     {
                         "at": stamp,
                         "kind": event["kind"],
+                        "store": event["product"].get("store", ""),
                         "name": event["product"].get("name", ""),
                         "url": product_url(event["product"]),
                         "price": event["product"].get("price", ""),
@@ -79,7 +84,8 @@ def print_events(events: list[dict], countdown: list[dict]) -> None:
         print(f"\n⏰ 上架倒數（{COUNTDOWN_DAYS} 天內）")
         for row in countdown:
             star = "*" if row.get("starred") else " "
-            print(f"  {star} D-{row['days']} {row['release']}  {row['product'].get('name', '')}")
+            print(f"  {star} D-{row['days']} {row['release']}  "
+                  f"{store_of(row['product']).flag} {row['product'].get('name', '')}")
 
     if not events:
         print("\n沒有偵測到變化。")
@@ -93,7 +99,8 @@ def print_events(events: list[dict], countdown: list[dict]) -> None:
             print(f"\n  [{diff_mod.KIND_LABELS[current_kind]}]")
         star = "*" if event.get("starred") else " "
         product = event["product"]
-        print(f"    {star} {product.get('name', '')} — £{product.get('price', '')} "
+        print(f"    {star} {store_of(product).flag} {product.get('name', '')} "
+              f"— {price_label(product)} "
               f"({product.get('badge') or product.get('status', '')})")
 
 
@@ -137,18 +144,25 @@ def main(argv: list[str] | None = None) -> int:
     except FetchError as error:
         print(f"抓取失敗，這次不做任何變更：{error}", file=sys.stderr)
         return 1
-    print(f"抓到 {len(current)} 件商品。")
+    print(f"抓到 {len(current)} 件商品：" + "、".join(
+        f"{store.flag} {store.label} {_store_count(current, store.key)}" for store in STORES
+    ))
 
     previous_snapshot = load_snapshot(args.snapshot)
     previous = (previous_snapshot or {}).get("products") or {}
 
-    if previous and len(current) < len(previous) * MIN_COUNT_RATIO:
-        print(
-            f"商品數異常下滑（{len(previous)} → {len(current)}），視為抓取異常；"
-            "保留舊快照且不寄信。",
-            file=sys.stderr,
-        )
-        return 1
+    # Guard each store separately: a shortfall in one would otherwise be masked
+    # by the other store's products in the total.
+    for store in STORES:
+        was = _store_count(previous, store.key)
+        now = _store_count(current, store.key)
+        if was and now < was * MIN_COUNT_RATIO:
+            print(
+                f"{store.label}商品數異常下滑（{was} → {now}），視為抓取異常；"
+                "保留舊快照且不寄信。",
+                file=sys.stderr,
+            )
+            return 1
 
     countdown = diff_mod.upcoming(current, COUNTDOWN_DAYS)
     for row in countdown:
@@ -158,13 +172,16 @@ def main(argv: list[str] | None = None) -> int:
     # --send-test pretends every Coming Soon item just launched, purely so the
     # mail path can be exercised without waiting for a real drop.
     if args.send_test:
-        sample = [
-            {"kind": "launched", "uid": uid, "product": product}
-            for uid, product in list(current.items())[:3]
-        ] + [
-            {"kind": "restock", "uid": uid, "product": product}
-            for uid, product in list(current.items())[3:5]
-        ]
+        sample = []
+        for store in STORES:
+            rows = [
+                (uid, product)
+                for uid, product in current.items()
+                if product.get("store") == store.key
+            ][:3]
+            for index, (uid, product) in enumerate(rows):
+                kind = "launched" if index < 2 else "restock"
+                sample.append({"kind": kind, "uid": uid, "product": product})
         for event in sample:
             event["starred"] = watchlist.matches(event["product"], rules)
         subject, text_body, html_body = build_digest(sample, countdown, len(current))

@@ -13,7 +13,7 @@ import html
 import zoneinfo
 
 from .diff import KIND_LABELS, SITE_WIDE_KINDS, WATCHLIST_ONLY_KINDS
-from .fetch import product_url
+from .fetch import price_label, product_url, store_of
 
 TAIPEI = zoneinfo.ZoneInfo("Asia/Taipei")
 
@@ -40,8 +40,12 @@ def _now() -> dt.datetime:
 
 
 def _price(product: dict) -> str:
-    price = product.get("price")
-    return f"£{price}" if price else ""
+    return price_label(product)
+
+
+def _flag(product: dict) -> str:
+    """Storefront marker, so a UK and a US row are never confused."""
+    return store_of(product).flag
 
 
 def _esc(text: str) -> str:
@@ -81,8 +85,11 @@ def _card_html(event: dict) -> str:
     star = "⭐ " if event.get("starred") else ""
 
     notes = []
+    symbol = store_of(product).symbol
     if event["kind"] == "price_change":
-        notes.append(f"£{_esc(event.get('was', ''))} → £{_esc(product.get('price', ''))}")
+        notes.append(
+            f"{symbol}{_esc(event.get('was', ''))} → {symbol}{_esc(product.get('price', ''))}"
+        )
     elif event["kind"] == "release_date_set":
         was = event.get("was") or "（原本沒有日期）"
         notes.append(f"{_esc(was)} → {_esc(product.get('badge', ''))}")
@@ -115,7 +122,7 @@ def _card_html(event: dict) -> str:
           {image_cell}
           <td valign="top">
             <a href="{_esc(url)}" style="color:{INK};font-size:15px;font-weight:600;
-               text-decoration:none;line-height:1.35;">{star}{_esc(product.get("name", ""))}</a>
+               text-decoration:none;line-height:1.35;">{star}{_flag(product)} {_esc(product.get("name", ""))}</a>
             <div style="margin-top:3px;font-size:14px;color:{ACCENT};font-weight:600;">
               {_price(product)}</div>
             {note_html}
@@ -152,7 +159,8 @@ def _countdown_html(rows: list[dict]) -> str:
         items.append(
             f'<tr><td style="padding:6px 0;border-bottom:1px solid {LINE};">'
             f'<a href="{_esc(product_url(product))}" style="color:{INK};font-size:14px;'
-            f'font-weight:600;text-decoration:none;">{star}{_esc(product.get("name", ""))}</a>'
+            f'font-weight:600;text-decoration:none;">{star}{_flag(product)} '
+            f'{_esc(product.get("name", ""))}</a>'
             f'<span style="color:{MUTED};font-size:13px;"> — {_price(product)}</span>'
             f'<div style="font-size:12px;color:{ACCENT};font-weight:600;margin-top:2px;">'
             f'{row["release"].strftime("%m/%d")} · {label}</div></td></tr>'
@@ -193,7 +201,8 @@ def render_html(events: list[dict], countdown: list[dict], total: int) -> str:
     <tr><td style="padding-bottom:6px;">
       <div style="font-size:20px;font-weight:800;color:{INK};">🧸 Jellycat 上架追蹤</div>
       <div style="font-size:12px;color:{MUTED};margin-top:4px;">
-        {stamp}（台北時間） · 本次掃描 {total} 件商品 · 價格為英鎊 GBP</div>
+        {stamp}（台北時間） · 本次掃描 {total} 件商品<br>
+        🇬🇧 jellycat.com（英鎊）　🇺🇸 us.jellycat.com（美元）</div>
     </td></tr>
 
     {_countdown_html(countdown)}
@@ -202,7 +211,7 @@ def render_html(events: list[dict], countdown: list[dict], total: int) -> str:
     <tr><td style="padding-top:24px;border-top:1px solid {LINE};">
       <div style="font-size:11px;color:{MUTED};line-height:1.6;">
         資料來自 jellycat.com 公開商品目錄，僅在偵測到變化時寄信。<br>
-        ⭐ 代表命中你的追蹤清單（watchlist.txt）。
+        ⭐ 代表命中你的追蹤清單（watchlist.txt）。同一件商品在兩站是分開追蹤的。
       </div>
     </td></tr>
 
@@ -217,7 +226,8 @@ def render_html(events: list[dict], countdown: list[dict], total: int) -> str:
 def render_text(events: list[dict], countdown: list[dict], total: int) -> str:
     lines = [
         "🧸 Jellycat 上架追蹤",
-        f"{_now().strftime('%Y/%m/%d %H:%M')}（台北時間） · 本次掃描 {total} 件 · 價格為英鎊 GBP",
+        f"{_now().strftime('%Y/%m/%d %H:%M')}（台北時間） · 本次掃描 {total} 件",
+        "🇬🇧 jellycat.com（英鎊）  🇺🇸 us.jellycat.com（美元）",
     ]
 
     if countdown:
@@ -226,8 +236,8 @@ def render_text(events: list[dict], countdown: list[dict], total: int) -> str:
             star = "⭐ " if row.get("starred") else ""
             label = "今天上架！" if row["days"] == 0 else f"還有 {row['days']} 天"
             lines.append(
-                f"  {star}{row['product'].get('name', '')} — {_price(row['product'])}"
-                f" · {row['release'].strftime('%m/%d')} {label}"
+                f"  {star}{_flag(row['product'])} {row['product'].get('name', '')}"
+                f" — {_price(row['product'])} · {row['release'].strftime('%m/%d')} {label}"
             )
             lines.append(f"    {product_url(row['product'])}")
 
@@ -245,10 +255,13 @@ def render_text(events: list[dict], countdown: list[dict], total: int) -> str:
             star = "⭐ " if event.get("starred") else ""
             extra = ""
             if kind == "price_change":
-                extra = f" · £{event.get('was', '')} → £{product.get('price', '')}"
+                symbol = store_of(product).symbol
+                extra = f" · {symbol}{event.get('was', '')} → {symbol}{product.get('price', '')}"
             elif product.get("badge"):
                 extra = f" · {product['badge']}"
-            lines.append(f"  {star}{product.get('name', '')} — {_price(product)}{extra}")
+            lines.append(
+                f"  {star}{_flag(product)} {product.get('name', '')} — {_price(product)}{extra}"
+            )
             lines.append(f"    {product_url(product)}")
 
     lines += ["", "⭐ 代表命中 watchlist.txt 的追蹤清單。"]

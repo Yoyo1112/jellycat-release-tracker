@@ -1,24 +1,36 @@
 # Jellycat 上架追蹤器
 
-定時抓取 jellycat.com 的商品目錄，偵測到**上架、補貨、新品、價格變動**時寄 Gmail 通知一份名單。跑在 GitHub Actions 上，不需要自己的伺服器。
+定時抓取 Jellycat 官網的商品目錄，偵測到**上架、補貨、新品、價格變動**時寄 Gmail 通知一份名單。跑在 GitHub Actions 上，不需要自己的伺服器。
+
+**同時追蹤英國站和美國站**，這兩個是獨立的商店，庫存、價格、上架時間都可能不一樣：
+
+| | 🇬🇧 jellycat.com | 🇺🇸 us.jellycat.com |
+| --- | --- | --- |
+| Searchspring siteId | `d3slzq` | `bmcyq0` |
+| 目錄件數 | 約 575 | 約 711 |
+| 幣別 | 英鎊 GBP | 美元 USD |
+
+同一件商品在兩站是**分開追蹤**的，所以你會分別收到「英國站上架」和「美國站上架」的通知。
 
 最重要的事件是 **Coming Soon → 正式上架**：官網會先把未發售商品標成 `Coming Soon`，而且常常直接公告日期（例如 `Available 16th September`）。追蹤器會在信裡先做上架倒數，真的開賣的那一輪再發出「🎉 正式上架」通知。
 
 ## 運作方式
 
-jellycat.com 是 BigCommerce 商店，站內搜尋由 Searchspring 提供。它的公開 JSON 端點一次就能拿到整份可購買目錄（目前約 575 件），所以這個專案**不需要解析 HTML、不需要瀏覽器**：
+Jellycat 官網是 BigCommerce 商店，站內搜尋由 Searchspring 提供。它的公開 JSON 端點一次就能拿到整份可購買目錄，所以這個專案**不需要解析 HTML、不需要瀏覽器**：
 
 ```
-https://api.searchspring.net/api/search/search.json?siteId=d3slzq&resultsPerPage=100&page=N&resultsFormat=native
+https://api.searchspring.net/api/search/search.json?siteId=<siteId>&resultsPerPage=100&page=N&resultsFormat=native
 ```
 
-每次執行 = 6 個請求。每天兩次 = 一天 12 個請求。
+每次執行 = 兩站合計約 14 個請求。每天兩次 = 一天不到 30 個請求。
+
+要增減追蹤的商店，改 [`src/fetch.py`](src/fetch.py) 裡的 `STORES` 清單即可。
 
 用到的欄位：
 
 | 欄位 | 用途 |
 | --- | --- |
-| `uid` | 快照的主鍵（商品改網址也不會被誤判成新品） |
+| `uid` | 快照主鍵的一半（實際是 `<店別>:<uid>`，商品改網址也不會被誤判成新品） |
 | `ss_product_status` | `Live` / `Coming Soon` — 上架偵測的核心 |
 | `ss_in_stock` | `1` / `0` — 補貨、售罄偵測 |
 | `ss_badge_title` | `New In` / `Back in Stock` / `Available 16th September` … |
@@ -26,7 +38,7 @@ https://api.searchspring.net/api/search/search.json?siteId=d3slzq&resultsPerPage
 
 每次抓完的結果存進 [`data/snapshot.json`](data/snapshot.json)，由 Actions 自己 commit 回 repo；下一次拿新資料跟它比對就得到事件。歷史事件會附加到 `data/events.jsonl`。
 
-> 價格是**英鎊 GBP** —— 台灣 IP 連 jellycat.com 看到的就是英鎊站。
+> 信件裡每一列都會標 🇬🇧 或 🇺🇸，價格也會用該站的幣別顯示。
 
 ## 通知的事件
 
@@ -57,8 +69,10 @@ https://api.searchspring.net/api/search/search.json?siteId=d3slzq&resultsPerPage
 ```
 ulrich wolf
 bartholomew bear
-bag charm
+amuseables-birthday-cake-bag-charm
 ```
+
+從商品網址取一段當關鍵字最準（例如 `us.jellycat.com/amuseables-birthday-cake-bag-charm/` 就填 `amuseables-birthday-cake-bag-charm`），這樣兩站的同一件商品會一起命中。
 
 大小寫不拘，會比對商品的**名稱 / SKU / 網址**，包含就算命中。命中的商品在信裡標 ⭐ 並排在最前面。清單留空也能用，只是收不到上面那三種「清單限定」的通知。
 
@@ -119,7 +133,7 @@ GMAIL_USER=you@gmail.com GMAIL_APP_PASSWORD='xxxx xxxx xxxx xxxx' MAIL_TO=you@gm
 ## 穩健性
 
 - 任何一頁抓三次都失敗 → 整場中止，**不覆蓋快照也不寄信**
-- 這次抓到的商品數少於上次的 80% → 視為抓取異常，中止並保留舊快照（避免產生幾百筆假的「已下架」）
+- 任一店的商品數少於上次的 80% → 視為抓取異常，中止並保留舊快照（避免產生幾百筆假的「已下架」）。分店檢查，才不會被另一店的數量蓋過去
 - 寄信失敗時**故意不更新快照**，這樣下一輪會重新偵測到同一批事件，不會漏掉
 - `concurrency` 群組確保兩輪不會同時寫快照
 
@@ -127,5 +141,5 @@ GMAIL_USER=you@gmail.com GMAIL_APP_PASSWORD='xxxx xxxx xxxx xxxx' MAIL_TO=you@gm
 
 - **GitHub 排程會延遲**，通常 5–20 分鐘，尖峰時段更久。不保證準時。
 - GitHub 會停用**連續 60 天無活動**的 repo 排程。本專案每次執行都會 commit 快照，正常情況不會被停用。
-- 價格是英鎊，不是台幣。
-- 目錄只涵蓋 jellycat.com 上架販售的商品，不含實體門市限定或其他區域站。
+- 價格是英鎊或美元，不是台幣。
+- 目錄只涵蓋這兩個官網上架販售的商品，不含實體門市限定或其他區域站。

@@ -26,10 +26,33 @@ import time
 import urllib.error
 import urllib.request
 
-SITE_ID = "d3slzq"
 API = "https://api.searchspring.net/api/search/search.json"
-BASE_URL = "https://jellycat.com"
 PER_PAGE = 100
+
+
+class Store:
+    """One Jellycat storefront.
+
+    The UK and US sites are separate BigCommerce stores with separate
+    Searchspring indexes, separate stock and separate prices, so a product can
+    be on sale in one and still Coming Soon in the other.
+    """
+
+    def __init__(self, key: str, label: str, flag: str, site_id: str, base_url: str, symbol: str):
+        self.key = key
+        self.label = label
+        self.flag = flag
+        self.site_id = site_id
+        self.base_url = base_url
+        self.symbol = symbol
+
+
+STORES = [
+    Store("uk", "英國站", "🇬🇧", "d3slzq", "https://jellycat.com", "£"),
+    Store("us", "美國站", "🇺🇸", "bmcyq0", "https://us.jellycat.com", "$"),
+]
+
+STORES_BY_KEY = {store.key: store for store in STORES}
 
 # Identify ourselves honestly rather than pretending to be a browser; this is a
 # low-volume personal tracker (12 requests a day).
@@ -47,13 +70,13 @@ class FetchError(RuntimeError):
     """Raised when the catalogue could not be retrieved in full."""
 
 
-def _get_page(page: int, timeout: int = 30) -> dict:
+def _get_page(store: Store, page: int, timeout: int = 30) -> dict:
     url = (
-        f"{API}?siteId={SITE_ID}&resultsPerPage={PER_PAGE}"
+        f"{API}?siteId={store.site_id}&resultsPerPage={PER_PAGE}"
         f"&page={page}&resultsFormat=native"
     )
     request = urllib.request.Request(
-        url, headers={"User-Agent": USER_AGENT, "Referer": f"{BASE_URL}/"}
+        url, headers={"User-Agent": USER_AGENT, "Referer": f"{store.base_url}/"}
     )
 
     last_error: Exception | None = None
@@ -66,17 +89,21 @@ def _get_page(page: int, timeout: int = 30) -> dict:
             if attempt < MAX_ATTEMPTS:
                 time.sleep(2**attempt)  # 2s, then 4s
 
-    raise FetchError(f"page {page} failed after {MAX_ATTEMPTS} attempts: {last_error}")
+    raise FetchError(
+        f"{store.key} page {page} failed after {MAX_ATTEMPTS} attempts: {last_error}"
+    )
 
 
-def _normalise(result: dict) -> tuple[str, dict] | None:
+def _normalise(store: Store, result: dict) -> tuple[str, dict] | None:
     """Reduce a Searchspring result to the handful of fields we track."""
     uid = str(result.get("uid") or "").strip()
     slug = (result.get("custom_url") or "").strip()
     if not uid or not slug:
         return None
 
-    return uid, {
+    # uids are only unique within a store, so the snapshot key carries the store.
+    return f"{store.key}:{uid}", {
+        "store": store.key,
         "name": (result.get("name") or "").strip(),
         "sku": (result.get("sku") or "").strip(),
         "url": slug,
@@ -88,27 +115,23 @@ def _normalise(result: dict) -> tuple[str, dict] | None:
     }
 
 
-def fetch_catalogue() -> dict[str, dict]:
-    """Return every catalogue product keyed by Searchspring uid.
-
-    Raises FetchError if any page cannot be retrieved, so that a partial
-    catalogue never reaches the diff (which would look like mass delisting).
-    """
+def fetch_store(store: Store) -> dict[str, dict]:
+    """Return one store's catalogue, keyed "<store>:<uid>"."""
     products: dict[str, dict] = {}
     page = 1
     total_pages = 1
 
     while page <= total_pages and page <= MAX_PAGES:
-        payload = _get_page(page)
+        payload = _get_page(store, page)
         pagination = payload.get("pagination") or {}
         total_pages = int(pagination.get("totalPages") or 1)
 
         results = payload.get("results") or []
         if not results:
-            raise FetchError(f"page {page} of {total_pages} returned no results")
+            raise FetchError(f"{store.key} page {page} of {total_pages} returned no results")
 
         for result in results:
-            entry = _normalise(result)
+            entry = _normalise(store, result)
             if entry:
                 products[entry[0]] = entry[1]
 
@@ -117,14 +140,36 @@ def fetch_catalogue() -> dict[str, dict]:
             time.sleep(PAGE_DELAY)
 
     if not products:
-        raise FetchError("catalogue came back empty")
+        raise FetchError(f"{store.key} catalogue came back empty")
 
     return products
 
 
+def fetch_catalogue(stores: list[Store] | None = None) -> dict[str, dict]:
+    """Fetch every configured store into one `{key: product}` map.
+
+    Raises FetchError if any store fails, so that a partial catalogue never
+    reaches the diff (which would look like mass delisting).
+    """
+    products: dict[str, dict] = {}
+    for store in stores or STORES:
+        products.update(fetch_store(store))
+    return products
+
+
+def store_of(product: dict) -> Store:
+    return STORES_BY_KEY.get(product.get("store") or "", STORES[0])
+
+
 def product_url(product: dict) -> str:
-    """Absolute URL for a tracked product."""
+    """Absolute URL for a tracked product, on its own storefront."""
     slug = product.get("url") or ""
     if slug.startswith("http"):
         return slug
-    return f"{BASE_URL}{slug}"
+    return f"{store_of(product).base_url}{slug}"
+
+
+def price_label(product: dict) -> str:
+    """Price with the right symbol for the product's store, e.g. "$35"."""
+    price = product.get("price")
+    return f"{store_of(product).symbol}{price}" if price else ""
