@@ -94,6 +94,29 @@ amuseables-birthday-cake-bag-charm
 
 從商品網址取一段當關鍵字最準（例如 `us.jellycat.com/amuseables-birthday-cake-bag-charm/` 就填 `amuseables-birthday-cake-bag-charm`），這樣兩站的同一件商品會一起命中。
 
+### 加一個新商品
+
+**先試打，確認關鍵字會中什麼**（不會改到任何檔案）：
+
+```bash
+python3 -m src.main --status "ulrich wolf"
+```
+
+```
+⭐ 我的追蹤清單（2 筆）
+  🇬🇧 Ulrich Wolf — £60 · 尚未上架 · 09/16 還有 4 天
+  🇺🇸 Ulrich Wolf — $83 · 已上架 · 有貨
+```
+
+命中數太多會警告你 —— 例如 `bunny` 會中 374 件，那些全部都會出現在每封信裡。打錯字則會直接說沒命中。
+
+**確認沒問題後，把那行加進 `watchlist.txt`。** 兩種方式都行：
+
+- **GitHub 網頁**（不用開終端機）：打開 [watchlist.txt](../../edit/main/watchlist.txt) → 右上鉛筆圖示 → 加一行 → **Commit changes**。下一輪排程就生效。
+- **本機**：編輯 `watchlist.txt`，然後 `git add watchlist.txt && git commit -m "追蹤 XXX" && git push`
+
+改完想馬上確認，到 Actions 分頁按 **Run workflow** 手動跑一次 —— 手動觸發一定會寄信，信裡就會看到新加的商品。
+
 大小寫不拘，會比對商品的**名稱 / SKU / 網址**，包含就算命中。命中的商品在信裡標 ⭐ 並排在最前面。清單留空也能用，只是收不到上面那三種「清單限定」的通知。
 
 ## 一次性設定

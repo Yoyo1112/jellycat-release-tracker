@@ -104,17 +104,27 @@ def print_events(events: list[dict], countdown: list[dict]) -> None:
               f"({product.get('badge') or product.get('status', '')})")
 
 
-def print_status(watched: list[dict]) -> None:
+MANY_MATCHES = 20
+
+
+def print_status(watched: list[dict], limit: int | None = None) -> None:
     if not watched:
-        print("\n追蹤清單目前沒有命中任何商品。")
+        print("\n目前沒有命中任何商品。關鍵字可能拼錯，或這件商品不在目錄裡。")
         return
 
     print(f"\n⭐ 我的追蹤清單（{len(watched)} 筆）")
-    for product in sorted(watched, key=lambda p: (p.get("name", ""), p.get("store", ""))):
+    if len(watched) >= MANY_MATCHES:
+        print(f"   ⚠️  命中 {len(watched)} 件，關鍵字可能太寬鬆 —— 這些全部都會出現在每封信裡。")
+
+    rows = sorted(watched, key=lambda p: (p.get("name", ""), p.get("store", "")))
+    shown = rows[:limit] if limit else rows
+    for product in shown:
         text, _colour = render.status_label(product)
         print(f"  {store_of(product).flag} {product.get('name', '')} — "
               f"{price_label(product)} · {text}")
         print(f"     {product_url(product)}")
+    if limit and len(rows) > limit:
+        print(f"   …另外還有 {len(rows) - limit} 筆")
 
 
 def build_digest(events: list[dict], countdown: list[dict], total: int, watched: list[dict]):
@@ -146,6 +156,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--send-test", action="store_true", help="用當前目錄寄一封示範信")
     parser.add_argument("--status", action="store_true",
                         help="只印出追蹤清單目前狀態，不比對、不寄信、不寫檔")
+    parser.add_argument("keywords", nargs="*", metavar="關鍵字",
+                        help="搭配 --status 使用：改用這些關鍵字試算，不動 watchlist.txt")
     parser.add_argument("--always-send", action="store_true",
                         help="就算沒有變化也寄一封狀態回報（也可用 ALWAYS_SEND=1）")
     parser.add_argument("--snapshot", default=SNAPSHOT_PATH)
@@ -153,8 +165,15 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--watchlist", default=watchlist.DEFAULT_PATH)
     args = parser.parse_args(argv)
 
-    rules = watchlist.load_rules(args.watchlist)
-    print(f"追蹤清單：{len(rules)} 條規則" + (f" {rules}" if rules else "（空）"))
+    if args.keywords and not args.status:
+        parser.error("關鍵字只能搭配 --status 使用（試算用，不會寫進 watchlist.txt）")
+
+    if args.keywords:
+        rules = [keyword.strip().lower() for keyword in args.keywords if keyword.strip()]
+        print(f"試算關鍵字（不會寫入 {args.watchlist}）：{rules}")
+    else:
+        rules = watchlist.load_rules(args.watchlist)
+        print(f"追蹤清單：{len(rules)} 條規則" + (f" {rules}" if rules else "（空）"))
 
     try:
         current = fetch_catalogue()
@@ -170,7 +189,7 @@ def main(argv: list[str] | None = None) -> int:
         print("提醒：追蹤清單有規則，但目錄裡沒有任何商品命中。", file=sys.stderr)
 
     if args.status:
-        print_status(watched)
+        print_status(watched, limit=MANY_MATCHES)
         return 0
 
     previous_snapshot = load_snapshot(args.snapshot)
