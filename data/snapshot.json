@@ -1,6 +1,6 @@
 {
  "count": 1286,
- "fetched_at": "2026-09-13T13:40:26+00:00",
+ "fetched_at": "2026-09-14T01:32:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5382,9 +5382,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "uk:407": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/407/16817/BB444T__21795.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Tiger Board Book",
    "price": "10",
    "sku": "BB444T",
@@ -13027,9 +13027,9 @@
    "url": "/smudge-the-littlest-elephant-book/"
   },
   "us:511": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/511/42462/BK4TSD__67016.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "The Sky Dragon Book",
    "price": "18",
    "sku": "BK4TSD",
