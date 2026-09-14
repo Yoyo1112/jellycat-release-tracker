@@ -1,6 +1,6 @@
 {
  "count": 1286,
- "fetched_at": "2026-09-14T01:32:48+00:00",
+ "fetched_at": "2026-09-14T02:44:38+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -344,9 +344,9 @@
    "url": "/personalised-bashful-luxe-bunny-rosa-blankie/"
   },
   "uk:1116": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1116/19715/PERSBLNK4WIL__84635.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Willow Blankie",
    "price": "95",
    "sku": "PERSBLNK4WIL",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1609,9 +1609,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1631,9 +1631,9 @@
    "url": "/personalised-bashful-giraffe-blankie/"
   },
   "uk:1645": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1645/23741/JUMPCJELC3M__13484.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Jellycat Jack with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCJELC3M",
@@ -2313,9 +2313,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -5382,9 +5382,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "uk:407": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/407/16817/BB444T__21795.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Tiger Board Book",
    "price": "10",
    "sku": "BB444T",
