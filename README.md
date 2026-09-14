@@ -76,8 +76,8 @@ https://api.searchspring.net/api/search/search.json?siteId=<siteId>&resultsPerPa
 
 | 觸發 | 行為 |
 | --- | --- |
-| 早上 09:00 排程 | **一定寄**，當作每日狀態回報 |
-| 下午 17:00 排程 | 只有偵測到變化才寄 |
+| 早上 09:00（外部觸發，`always_send: true`） | **一定寄**，當作每日狀態回報 |
+| 下午 17:00（外部觸發，`always_send: false`） | 只有偵測到變化才寄 |
 | 手動 Run workflow | **一定寄**（不然按了按鈕沒反應很難確認有沒有設對） |
 
 要改成「只有變化才寄」，把 [`track.yml`](.github/workflows/track.yml) 裡的 `ALWAYS_SEND` 那行改成 `ALWAYS_SEND: ''` 即可。追蹤清單是空的時候，沒變化就一樣不寄。
@@ -154,6 +154,46 @@ python3 -m src.main --status "ulrich wolf"
 - **台北時間 17:00**（UTC 09:00）—— 對應英國上午的上架尖峰
 
 要改頻率就改 workflow 裡的 `cron`（**注意 GitHub 用的是 UTC**，台灣要減 8 小時）。
+
+## 讓信準時寄（外部觸發）
+
+GitHub 內建排程**不準時**：實測每次都晚 3.5–5 小時（09:00 的排程 13:50 才寄）。這是 GitHub 排程本身「盡力而為」的設計，不是程式問題。但用 API 觸發（`workflow_dispatch`）會在 **20 秒內**跑完，所以做法是讓一個準時的外部鬧鐘在指定時間呼叫 API。
+
+### 1. 建立只能觸發這個 repo 的 token
+
+到 [Fine-grained tokens](https://github.com/settings/personal-access-tokens/new)：
+
+- **Repository access** → Only select repositories → `jellycat-release-tracker`
+- **Permissions** → Repository permissions → **Actions: Read and write**（其他全部保持 No access）
+- **Expiration** 最長一年，到期要回來換
+
+這個 token 就算外洩，也只能觸發這個 repo 的 workflow，讀不到你其他東西。
+
+### 2. 在 [cron-job.org](https://cron-job.org)（免費）建兩個排程
+
+兩個共用設定：
+
+| 欄位 | 值 |
+| --- | --- |
+| URL | `https://api.github.com/repos/Yoyo1112/jellycat-release-tracker/actions/workflows/track.yml/dispatches` |
+| Request method | `POST` |
+| Headers | `Authorization: Bearer <你的 token>`<br>`Accept: application/vnd.github+json`<br>`X-GitHub-Api-Version: 2022-11-28` |
+| Time zone | `Asia/Taipei` |
+
+各自不同的地方：
+
+| 排程 | 時間 | Request body |
+| --- | --- | --- |
+| 早上回報 | 每天 09:00 | `{"ref":"main","inputs":{"always_send":"true"}}` |
+| 下午檢查 | 每天 17:00 | `{"ref":"main","inputs":{"always_send":"false"}}` |
+
+成功時 GitHub 會回 **HTTP 204**（沒有內容是正常的）。
+
+### 3. 關掉備援排程的每日回報
+
+到 repo 的 **Settings → Secrets and variables → Actions → Variables** 分頁，新增變數 `EXTERNAL_TRIGGER` = `true`。
+
+內建排程會繼續當備援（萬一外部服務掛了），但設了這個變數後它只在**有變化時**才寄，不會跟外部觸發各寄一封每日回報。
 
 ## 本機測試
 
