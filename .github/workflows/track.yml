@@ -1,11 +1,22 @@
 name: Jellycat Tracker
 
 on:
+  # GitHub's scheduler is best-effort and routinely starts these runs hours
+  # late (measured 3.5-5h here). workflow_dispatch, by contrast, starts within
+  # seconds -- so the punctual path is an external cron calling the dispatch
+  # API (see README), and these schedules are only a safety net.
+  #
+  # GitHub cron is UTC; Taiwan is UTC+8. Minute 23 rather than :00, because
+  # the top of the hour is when the whole world's schedules pile up.
   schedule:
-    # GitHub cron is UTC. Taiwan is UTC+8.
-    - cron: "0 1 * * *"   # 09:00 台北時間
-    - cron: "0 9 * * *"   # 17:00 台北時間 (= 英國上午的上架尖峰)
-  workflow_dispatch: {}
+    - cron: "23 0 * * *"   # 08:23 台北時間
+    - cron: "23 8 * * *"   # 16:23 台北時間
+  workflow_dispatch:
+    inputs:
+      always_send:
+        description: "沒有變化也寄一封狀態回報"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -31,11 +42,13 @@ jobs:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           MAIL_TO: ${{ secrets.MAIL_TO }}
-          # The morning run, and any run you trigger by hand, always reports the
-          # watchlist state even when nothing changed -- otherwise "is my thing
-          # out yet?" has no answer. The evening run stays quiet unless there is
-          # real news. Set this to '' on both to only ever mail on changes.
-          ALWAYS_SEND: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '0 1 * * *') && '1' || '' }}
+          # Whether to mail a status report even when nothing changed:
+          #   - dispatch (by hand or external cron): the always_send input
+          #   - morning schedule: yes, unless the repo variable EXTERNAL_TRIGGER
+          #     is 'true' -- then the external cron owns the daily report and the
+          #     schedules only speak up about real changes, so no duplicates
+          #   - evening schedule: only on changes
+          ALWAYS_SEND: ${{ ((github.event_name == 'workflow_dispatch' && inputs.always_send) || (github.event.schedule == '23 0 * * *' && vars.EXTERNAL_TRIGGER != 'true')) && '1' || '' }}
         run: python -m src.main
 
       - name: Commit snapshot
