@@ -1,6 +1,6 @@
 {
- "count": 1286,
- "fetched_at": "2026-09-14T09:00:50+00:00",
+ "count": 1288,
+ "fetched_at": "2026-09-14T15:05:05+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -630,7 +630,7 @@
    "url": "/smudge-bear/"
   },
   "uk:1282": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1282/20469/SMG2EL__51618.1.jpg",
    "in_stock": true,
    "name": "Smudge Elephant",
@@ -949,7 +949,7 @@
    "url": "/personalised-smudge-elephant-blankie/"
   },
   "uk:1443": {
-   "badge": "Back in Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1443/21334/PERSSMG4SE__86103.1.jpg",
    "in_stock": true,
    "name": "Personalised Smudge Elephant Soother",
@@ -1906,7 +1906,7 @@
    "url": "/amuseables-collette-tarte-au-citron/"
   },
   "uk:1715": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1715/24291/A2PAN__07996.1.jpg",
    "in_stock": true,
    "name": "Amuseables Fran Pancakes",
@@ -4810,7 +4810,7 @@
    "url": "/amuseables-pink-and-white-marshmallows/"
   },
   "uk:233": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/233/15825/A6PACHOC__44437.1.jpg",
    "in_stock": true,
    "name": "Amuseables Pain Au Chocolat",
@@ -7735,6 +7735,17 @@
    "store": "us",
    "url": "/amuseables-peanut-bag-charm/"
   },
+  "us:1490": {
+   "badge": "Out of Stock",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1490/48756/AS2SKG__43010.1.jpg",
+   "in_stock": false,
+   "name": "Amuseables Sports Ski Goggles",
+   "price": "55",
+   "sku": "AS2SKG",
+   "status": "Live",
+   "store": "us",
+   "url": "/amuseables-sports-ski-goggles/"
+  },
   "us:1494": {
    "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1494/45774/SMG2BBP__51612.1.jpg",
@@ -10276,6 +10287,17 @@
    "store": "us",
    "url": "/amuseables-peanut-apres-ski/"
   },
+  "us:1881": {
+   "badge": "Out of Stock",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1881/51277/BAS3BSKI__88877.1.png",
+   "in_stock": false,
+   "name": "Bashful Bunny 'Snow Suit'",
+   "price": "65",
+   "sku": "BAS3BSKI",
+   "status": "Live",
+   "store": "us",
+   "url": "/bashful-beige-bunny-snow-suit/"
+  },
   "us:1882": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1882/51343/A4LTS__39038.1.png",
@@ -12444,7 +12466,7 @@
    "url": "/amuseables-sports-tennis-ball/"
   },
   "us:294": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/294/41548/BAS3B__06287.1.jpg",
    "in_stock": true,
    "name": "Bashful Beige Bunny",
