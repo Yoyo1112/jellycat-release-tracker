@@ -1,6 +1,6 @@
 {
  "count": 1288,
- "fetched_at": "2026-09-14T15:05:05+00:00",
+ "fetched_at": "2026-09-15T01:00:40+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -4766,7 +4766,7 @@
    "url": "/amuseables-boiled-egg-groom/"
   },
   "uk:217": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/217/23398/A6CB__44229.1.jpg",
    "in_stock": true,
    "name": "Amuseables Coffee Bean",
@@ -10299,9 +10299,9 @@
    "url": "/bashful-beige-bunny-snow-suit/"
   },
   "us:1882": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1882/51343/A4LTS__39038.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Letter to Santa",
    "price": "55",
    "sku": "A4LTS",
@@ -10310,9 +10310,9 @@
    "url": "/amuseables-letter-to-santa/"
   },
   "us:1884": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1884/51178/JELC6D__12029.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Jellycat Jack Decoration",
    "price": "25",
    "sku": "JELC6D",
@@ -10321,9 +10321,9 @@
    "url": "/jellycat-jack-decoration/"
   },
   "us:1885": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1885/51337/A4SG__09489.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Snow Globe",
    "price": "40",
    "sku": "A4SG",
