@@ -1,6 +1,6 @@
 {
  "count": 1288,
- "fetched_at": "2026-09-15T05:03:27+00:00",
+ "fetched_at": "2026-09-15T09:00:53+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -6416,9 +6416,9 @@
    "url": "/munro-scottie-dog-bag/"
   },
   "us:1040": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1040/44655/OD2OC__39803.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Odell Octopus",
    "price": "33",
    "sku": "OCTOPUS_ODELL",
@@ -6702,9 +6702,9 @@
    "url": "/personalised-bashful-luxe-bunny-luna-blankie/"
   },
   "us:1116": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1116/44999/PERSBLNK4ROS__78640.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Bashful Luxe Bunny Rosa Blankie",
    "price": "108",
    "sku": "PERSBLNK4ROS",
@@ -7329,9 +7329,9 @@
    "url": "/tilly-golden-retriever/"
   },
   "us:1375": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1375/46185/TM6SD__20548.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Tumblie Sheep Dog",
    "price": "35",
    "sku": "TM6SD",
@@ -13049,9 +13049,9 @@
    "url": "/smudge-the-littlest-elephant-book/"
   },
   "us:511": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/511/42462/BK4TSD__67016.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "The Sky Dragon Book",
    "price": "18",
    "sku": "BK4TSD",
@@ -13214,9 +13214,9 @@
    "url": "/cecile-chicken/"
   },
   "us:597": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/597/42868/CHP3SG__57026.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Chip Seagull",
    "price": "35",
    "sku": "CHP3SG",
