@@ -1,6 +1,6 @@
 {
  "count": 1288,
- "fetched_at": "2026-09-15T09:00:53+00:00",
+ "fetched_at": "2026-09-15T13:40:28+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1015,9 +1015,9 @@
    "url": "/bartholomew-bear-backpack/"
   },
   "uk:1454": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1454/23636/BAS3JUN__40899.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper",
    "price": "40",
    "sku": "BAS3JUN",
@@ -1290,9 +1290,9 @@
    "url": "/amuseables-mia-macaron/"
   },
   "uk:1537": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1537/18422/JUMPCBAS3JUN__62697.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3JUN",
@@ -1301,9 +1301,9 @@
    "url": "/bashful-luxe-bunny-juniper-with-personalised-cream-jumper/"
   },
   "uk:1540": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1540/18639/JUMPNBAS3JUN__75799.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3JUN",
@@ -1312,9 +1312,9 @@
    "url": "/bashful-luxe-bunny-juniper-with-personalised-navy-jumper/"
   },
   "uk:1543": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1543/18847/JUMPRBAS3JUN__44527.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3JUN",
@@ -1334,9 +1334,9 @@
    "url": "/bashful-luxe-bunny-nimbus-with-personalised-red-jumper/"
   },
   "uk:1547": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1547/19600/PERSBAS3JUN__75937.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Luxe Bunny Juniper",
    "price": "45",
    "sku": "PERSBAS3JUN",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -2071,9 +2071,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -2720,9 +2720,9 @@
    "url": "/blossom-cream-bunny-berry-with-personalised-red-jumper/"
   },
   "uk:1841": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1841/25458/JUMPRBPM3BM__69980.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Beige Bunny 'Petal' with Personalised Red Jumper",
    "price": "39",
    "sku": "JUMPRBPM3BM",
@@ -3831,9 +3831,9 @@
    "url": "/personalised-bashful-bunny-graduation-outfit/"
   },
   "uk:2018": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2018/27613/PERSBB3PLA__27177.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Cream Bunny with Plant",
    "price": "45",
    "sku": "PERSBB3PLA",
@@ -4581,7 +4581,7 @@
   "uk:2093": {
    "badge": "Available 16th September",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2093/28545/A6STA__32277.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Silver Star",
    "price": "25",
    "sku": "A6STA",
@@ -4625,7 +4625,7 @@
   "uk:2097": {
    "badge": "Available 16th September",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2097/28575/WOL1W__74138.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ulrich Wolf",
    "price": "60",
    "sku": "WOL1W",
@@ -13214,9 +13214,9 @@
    "url": "/cecile-chicken/"
   },
   "us:597": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/597/42868/CHP3SG__57026.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Chip Seagull",
    "price": "35",
    "sku": "CHP3SG",
