@@ -1,6 +1,6 @@
 {
  "count": 1288,
- "fetched_at": "2026-09-15T01:00:40+00:00",
+ "fetched_at": "2026-09-15T05:03:27+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -927,9 +927,9 @@
    "url": "/yummy-duckling/"
   },
   "uk:1436": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1436/20852/TIM3TUR__21393.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Timmy Turtle",
    "price": "40",
    "sku": "TIMMY_TURTLE",
@@ -1015,9 +1015,9 @@
    "url": "/bartholomew-bear-backpack/"
   },
   "uk:1454": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1454/23636/BAS3JUN__40899.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Juniper",
    "price": "40",
    "sku": "BAS3JUN",
@@ -1290,9 +1290,9 @@
    "url": "/amuseables-mia-macaron/"
   },
   "uk:1537": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1537/18422/JUMPCBAS3JUN__62697.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Juniper with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3JUN",
@@ -1301,9 +1301,9 @@
    "url": "/bashful-luxe-bunny-juniper-with-personalised-cream-jumper/"
   },
   "uk:1540": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1540/18639/JUMPNBAS3JUN__75799.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Juniper with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3JUN",
@@ -1312,9 +1312,9 @@
    "url": "/bashful-luxe-bunny-juniper-with-personalised-navy-jumper/"
   },
   "uk:1543": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1543/18847/JUMPRBAS3JUN__44527.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Juniper with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3JUN",
@@ -1334,9 +1334,9 @@
    "url": "/bashful-luxe-bunny-nimbus-with-personalised-red-jumper/"
   },
   "uk:1547": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1547/19600/PERSBAS3JUN__75937.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Juniper",
    "price": "45",
    "sku": "PERSBAS3JUN",
@@ -1609,9 +1609,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -7329,9 +7329,9 @@
    "url": "/tilly-golden-retriever/"
   },
   "us:1375": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1375/46185/TM6SD__20548.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Tumblie Sheep Dog",
    "price": "35",
    "sku": "TM6SD",
