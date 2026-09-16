@@ -1,6 +1,6 @@
 {
  "count": 1288,
- "fetched_at": "2026-09-16T01:00:40+00:00",
+ "fetched_at": "2026-09-16T04:58:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -322,9 +322,9 @@
    "url": "/personalised-bashful-silver-bunny-blankie/"
   },
   "uk:1114": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1114/19705/PERSBLNK4LUN__78021.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Luna Blankie",
    "price": "95",
    "sku": "PERSBLNK4LUN",
@@ -344,9 +344,9 @@
    "url": "/personalised-bashful-luxe-bunny-rosa-blankie/"
   },
   "uk:1116": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1116/19715/PERSBLNK4WIL__84635.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Willow Blankie",
    "price": "95",
    "sku": "PERSBLNK4WIL",
@@ -1609,9 +1609,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -2302,9 +2302,9 @@
    "url": "/budgeby-parrot/"
   },
   "uk:1788": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1788/24587/WHL3SH__07023.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Gobfrey Whale Shark",
    "price": "33",
    "sku": "WHL3SH",
@@ -2313,9 +2313,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -2412,9 +2412,9 @@
    "url": "/amuseables-sardine-tin/"
   },
   "uk:1803": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1803/25638/A4SUNPP__23635.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Sun Pouch",
    "price": "30",
    "sku": "A4SUNPP",
@@ -3149,9 +3149,9 @@
    "url": "/hoppleston-luxe-bunny-original/"
   },
   "uk:1948": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1948/28505/RR4P__47151.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ricky Rain Frog Pouch",
    "price": "30",
    "sku": "RR4P",
@@ -3424,9 +3424,9 @@
    "url": "/thistlepop-blossom-bunny-bag-charm/"
   },
   "uk:1974": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1974/27037/BP4ROSE__73345.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blushkin Blossom Bunny Bag Charm",
    "price": "25",
    "sku": "BP4ROSE",
