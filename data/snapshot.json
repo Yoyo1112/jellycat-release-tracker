@@ -1,6 +1,6 @@
 {
- "count": 1288,
- "fetched_at": "2026-09-16T09:00:44+00:00",
+ "count": 1289,
+ "fetched_at": "2026-09-16T13:34:39+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -476,7 +476,7 @@
    "url": "/personalised-bashful-silver-bunny-soother/"
   },
   "uk:1149": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1149/19857/PNM3PN__14406.1.jpg",
    "in_stock": true,
    "name": "Peanut Penguin",
@@ -762,9 +762,9 @@
    "url": "/bashful-black-cream-puppy-soother/"
   },
   "uk:1369": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1369/20870/TM6SD__28999.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Tumblie Sheep Dog",
    "price": "28",
    "sku": "TM6SD",
@@ -2796,6 +2796,17 @@
    "store": "uk",
    "url": "/bartholomew-bear-snow-suit/"
   },
+  "uk:1877": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1877/26091/A4LTS__40472.1.png",
+   "in_stock": true,
+   "name": "Amuseables Letter to Santa",
+   "price": "40",
+   "sku": "A4LTS",
+   "status": "Live",
+   "store": "uk",
+   "url": "/amuseables-letter-to-santa/"
+  },
   "uk:1881": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1881/25996/BK4SAC__97660.1.png",
@@ -4700,7 +4711,7 @@
    "url": "/rufferty-puppy-pouch/"
   },
   "uk:2103": {
-   "badge": "Available 16th September",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2103/28559/BCP4TB__09167.1.jpg",
    "in_stock": true,
    "name": "Rufferty Puppy Handbag",
@@ -7879,9 +7890,9 @@
    "url": "/bartholomew-bear-tote-bag/"
   },
   "us:1515": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1515/48914/BAS3UC__17256.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Unicorn",
    "price": "23",
    "sku": "BASHFUL_UNICORN_UC",
