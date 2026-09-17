@@ -1,6 +1,6 @@
 {
  "count": 1289,
- "fetched_at": "2026-09-17T09:00:40+00:00",
+ "fetched_at": "2026-09-17T13:35:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -322,9 +322,9 @@
    "url": "/personalised-bashful-silver-bunny-blankie/"
   },
   "uk:1114": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1114/19705/PERSBLNK4LUN__78021.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Luxe Bunny Luna Blankie",
    "price": "95",
    "sku": "PERSBLNK4LUN",
@@ -344,9 +344,9 @@
    "url": "/personalised-bashful-luxe-bunny-rosa-blankie/"
   },
   "uk:1116": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1116/19715/PERSBLNK4WIL__84635.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Willow Blankie",
    "price": "95",
    "sku": "PERSBLNK4WIL",
@@ -565,7 +565,7 @@
   },
   "uk:125": {
    "badge": "Best Seller",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/125/28301/A2BC__94341.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/125/28685/A2BC__61634.1.jpg",
    "in_stock": true,
    "name": "Amuseables Birthday Cake",
    "price": "30",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1609,9 +1609,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -2313,9 +2313,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -4613,7 +4613,7 @@
   },
   "uk:2095": {
    "badge": "Coming Soon",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2095/28572/GRU3WL__33660.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2095/28683/GRU3WL__24969.1.jpg",
    "in_stock": false,
    "name": "Tawoola Owl",
    "price": "48",
@@ -6955,9 +6955,9 @@
    "url": "/ricky-rain-frog-bag-charm/"
   },
   "us:119": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/119/53704/A2RBC__54437.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "38",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -7055,7 +7055,7 @@
   },
   "us:126": {
    "badge": "Back in Stock",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/126/53550/A2BC__85468.1.png",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/126/53897/A2BC__75820.1.jpg",
    "in_stock": true,
    "name": "Amuseables Birthday Cake",
    "price": "38",
@@ -10959,9 +10959,9 @@
    "url": "/thistlepop-blossom-bunny-bag-charm/"
   },
   "us:1983": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1983/52261/BP4ROSE__17120.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blushkin Blossom Bunny Bag Charm",
    "price": "30",
    "sku": "BP4ROSE",
@@ -12104,7 +12104,7 @@
   },
   "us:2098": {
    "badge": "Coming Soon",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2098/53740/GRU3WL__86481.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2098/53896/GRU3WL__93178.1.jpg",
    "in_stock": false,
    "name": "Tawoola Owl",
    "price": "62",
