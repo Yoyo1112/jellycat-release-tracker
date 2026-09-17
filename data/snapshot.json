@@ -1,6 +1,6 @@
 {
  "count": 1289,
- "fetched_at": "2026-09-16T13:34:39+00:00",
+ "fetched_at": "2026-09-17T01:00:39+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -842,7 +842,7 @@
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1393/20954/VV6BEET__15855.1.jpg",
    "in_stock": false,
-   "name": "Vivacious Vegetable Beetroot",
+   "name": "Amuseables Beetroot",
    "price": "14",
    "sku": "VV6BEET",
    "status": "Live",
@@ -875,7 +875,7 @@
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1400/20975/VV6PEA__89978.1.jpg",
    "in_stock": false,
-   "name": "Vivacious Vegetable Pea",
+   "name": "Amuseables Pea",
    "price": "14",
    "sku": "VV6PEA",
    "status": "Live",
@@ -5327,9 +5327,9 @@
    "url": "/if-i-were-a-hedgehog-book/"
   },
   "uk:395": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/395/21255/BB444HEDGN__10035.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Hedgehog Board Book",
    "price": "10",
    "sku": "BB444HEDGN",
@@ -6273,9 +6273,9 @@
    "url": "/little-goat/"
   },
   "uk:959": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/959/19040/L3P__81705.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Little Pig",
    "price": "20",
    "sku": "L3P",
@@ -6955,9 +6955,9 @@
    "url": "/ricky-rain-frog-bag-charm/"
   },
   "us:119": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/119/53704/A2RBC__54437.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "38",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -7340,9 +7340,9 @@
    "url": "/tilly-golden-retriever/"
   },
   "us:1375": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1375/46185/TM6SD__20548.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Tumblie Sheep Dog",
    "price": "35",
    "sku": "TM6SD",
@@ -7659,9 +7659,9 @@
    "url": "/persimmon-dragon/"
   },
   "us:1475": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1475/52316/SKY2DD__70361.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Sky Dragon",
    "price": "70",
    "sku": "SKY_DRAGON",
@@ -9584,9 +9584,9 @@
    "url": "/budgeby-parrot/"
   },
   "us:1798": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1798/49813/WHL3SH__60321.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Gobfrey Whale Shark",
    "price": "38",
    "sku": "WHL3SH",
