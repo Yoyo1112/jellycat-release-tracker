@@ -1,6 +1,6 @@
 {
  "count": 1290,
- "fetched_at": "2026-09-18T09:00:41+00:00",
+ "fetched_at": "2026-09-18T13:01:06+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -80,7 +80,7 @@
    "url": "/munro-scottie-dog-bag-charm/"
   },
   "uk:1039": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1039/19366/OD2OC__35790.1.jpg",
    "in_stock": true,
    "name": "Odell Octopus",
@@ -5833,7 +5833,7 @@
    "url": "/fuddlewuddle-dragon/"
   },
   "uk:723": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/723/18060/FW6LN__66620.1.jpg",
    "in_stock": true,
    "name": "Fuddlewuddle Lion",
@@ -11784,9 +11784,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "us:2067": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2067/53253/YEN2YET__06443.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bretti Yeti",
    "price": "65",
    "sku": "YEN2YET",
@@ -13390,7 +13390,7 @@
    "url": "/gordy-guinea-pig/"
   },
   "us:784": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/784/50154/JELC3M__66939.1.jpg",
    "in_stock": true,
    "name": "Jellycat Jack",
