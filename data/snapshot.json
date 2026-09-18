@@ -1,6 +1,6 @@
 {
- "count": 1289,
- "fetched_at": "2026-09-17T13:35:45+00:00",
+ "count": 1290,
+ "fetched_at": "2026-09-18T01:00:41+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1355,6 +1355,17 @@
    "store": "uk",
    "url": "/personalised-bashful-luxe-bunny-nimbus/"
   },
+  "uk:1554": {
+   "badge": "Back in Stock",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1554/26029/A1LPRD__05038.1.png",
+   "in_stock": true,
+   "name": "Amuseables Peanut Reindeer",
+   "price": "20",
+   "sku": "PEANUT_REINDEER",
+   "status": "Live",
+   "store": "uk",
+   "url": "/amuseables-peanut-reindeer/"
+  },
   "uk:158": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/158/15520/A2RB__36251.1.jpg",
@@ -1774,7 +1785,7 @@
    "url": "/bashful-beige-bunny-petal/"
   },
   "uk:1676": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1676/23995/BPS3EC__70501.1.jpg",
    "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry'",
@@ -4964,7 +4975,7 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
    "in_stock": true,
    "name": "Bashful Tulip Pink Bunny",
@@ -4975,7 +4986,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "uk:296": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/296/23613/BAS3BC__36889.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -5008,7 +5019,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "uk:301": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/301/26367/BAS3BLU__26275.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
@@ -5019,7 +5030,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "uk:302": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/302/16326/BAS3BS__22358.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
@@ -9221,7 +9232,7 @@
    "url": "/ewert-sheepdog/"
   },
   "us:1756": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1756/49607/BAS3ELE__32363.1.jpg",
    "in_stock": true,
    "name": "Bashful Luxe Elephant Thuddeus",
@@ -9639,9 +9650,9 @@
    "url": "/personalised-bashful-duckling-soother/"
   },
   "us:1803": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1803/49895/A2MOZZ__68638.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Mozzarella",
    "price": "25",
    "sku": "A2MOZZ",
@@ -9859,9 +9870,9 @@
    "url": "/allexi-alligator/"
   },
   "us:1823": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1823/49950/BK4AKG__59423.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "All Kinds of Grumpy Book",
    "price": "18",
    "sku": "BK4AKG",
@@ -11773,9 +11784,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "us:2067": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2067/53253/YEN2YET__06443.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bretti Yeti",
    "price": "65",
    "sku": "YEN2YET",
@@ -12554,7 +12565,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "us:302": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/302/51606/BAS3BLU__38288.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
@@ -12598,7 +12609,7 @@
    "url": "/bashful-dino/"
   },
   "us:306": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/306/41629/BAS3FXC__35561.1.jpg",
    "in_stock": true,
    "name": "Bashful Fox Cub",
@@ -13159,9 +13170,9 @@
    "url": "/bashful-luxe-bunny-blankie/"
   },
   "us:555": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/555/42700/BP4PAN__23383.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Backpack Panda",
    "price": "35",
    "sku": "BP4PAN",
