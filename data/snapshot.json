@@ -1,6 +1,6 @@
 {
  "count": 1290,
- "fetched_at": "2026-09-19T09:00:39+00:00",
+ "fetched_at": "2026-09-19T12:34:09+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -11784,9 +11784,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "us:2067": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2067/53253/YEN2YET__06443.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bretti Yeti",
    "price": "65",
    "sku": "YEN2YET",
@@ -12356,9 +12356,9 @@
    "url": "/amuseables-potato/"
   },
   "us:246": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/246/48724/A6TR__36291.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Toilet Roll",
    "price": "33",
    "sku": "A6TR",
