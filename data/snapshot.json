@@ -1,6 +1,6 @@
 {
  "count": 1290,
- "fetched_at": "2026-09-18T13:01:06+00:00",
+ "fetched_at": "2026-09-19T01:00:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -80,7 +80,7 @@
    "url": "/munro-scottie-dog-bag-charm/"
   },
   "uk:1039": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1039/19366/OD2OC__35790.1.jpg",
    "in_stock": true,
    "name": "Odell Octopus",
@@ -95,7 +95,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1051/19417/ONYX2DD__06929.1.jpg",
    "in_stock": false,
    "name": "Onyx Dragon",
-   "price": "28",
+   "price": "58",
    "sku": "DRAGONS_ONYX",
    "status": "Live",
    "store": "uk",
@@ -359,7 +359,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/112/24329/A2A__51820.1.jpg",
    "in_stock": false,
    "name": "Amuseables Avocado",
-   "price": "18",
+   "price": "28",
    "sku": "AMUSEABLE_AVOCADO",
    "status": "Live",
    "store": "uk",
@@ -476,7 +476,7 @@
    "url": "/personalised-bashful-silver-bunny-soother/"
   },
   "uk:1149": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1149/19857/PNM3PN__14406.1.jpg",
    "in_stock": true,
    "name": "Peanut Penguin",
@@ -630,7 +630,7 @@
    "url": "/smudge-bear/"
   },
   "uk:1282": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1282/20469/SMG2EL__51618.1.jpg",
    "in_stock": true,
    "name": "Smudge Elephant",
@@ -641,9 +641,9 @@
    "url": "/smudge-elephant/"
   },
   "uk:1286": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1286/20484/SMG2R__18967.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Rabbit",
    "price": "18",
    "sku": "SMUDGE_RABBIT",
@@ -799,14 +799,14 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/138/15743/A6CLEM__38933.1.jpg",
    "in_stock": false,
    "name": "Amuseables Clementine",
-   "price": "20",
+   "price": "26",
    "sku": "AMUSEABLE_CLEMENTINE",
    "status": "Live",
    "store": "uk",
    "url": "/amuseables-clementine/"
   },
   "uk:1389": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1389/20945/VV6A__77731.1.jpg",
    "in_stock": true,
    "name": "Amuseables Aubergine",
@@ -1360,7 +1360,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1554/26029/A1LPRD__05038.1.png",
    "in_stock": true,
    "name": "Amuseables Peanut Reindeer",
-   "price": "20",
+   "price": "50",
    "sku": "PEANUT_REINDEER",
    "status": "Live",
    "store": "uk",
@@ -4975,7 +4975,7 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
    "in_stock": true,
    "name": "Bashful Tulip Pink Bunny",
@@ -4986,7 +4986,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "uk:296": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/296/23613/BAS3BC__36889.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -5019,7 +5019,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "uk:301": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/301/26367/BAS3BLU__26275.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
@@ -5030,7 +5030,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "uk:302": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/302/16326/BAS3BS__22358.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
@@ -5045,7 +5045,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/303/23624/BAS3DGN__76023.1.jpg",
    "in_stock": false,
    "name": "Bashful Dragon",
-   "price": "18",
+   "price": "26",
    "sku": "BASHFUL_DRAGON",
    "status": "Live",
    "store": "uk",
@@ -5056,7 +5056,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/304/16356/BAS3DNO__65504.1.jpg",
    "in_stock": false,
    "name": "Bashful Dino",
-   "price": "18",
+   "price": "26",
    "sku": "BASHFUL_DINO",
    "status": "Live",
    "store": "uk",
@@ -5166,7 +5166,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/327/16305/BAS3BAP__02115.1.jpg",
    "in_stock": false,
    "name": "Bashful Apple Bunny",
-   "price": "16",
+   "price": "23",
    "sku": "BASHFUL_BUNNY_APPLE",
    "status": "Live",
    "store": "uk",
@@ -5177,7 +5177,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/329/16317/BAS3BHP__35451.1.jpg",
    "in_stock": false,
    "name": "Bashful Hot Pink Bunny",
-   "price": "17",
+   "price": "25",
    "sku": "BASHFUL_BUNNY_HOT_PINK",
    "status": "Live",
    "store": "uk",
@@ -5199,7 +5199,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/345/16392/BAS3HYUS__09922.1.jpg",
    "in_stock": false,
    "name": "Bashful Lilac Bunny",
-   "price": "25",
+   "price": "17",
    "sku": "BASHFUL_BUNNY_LILAC",
    "status": "Live",
    "store": "uk",
@@ -5243,7 +5243,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/383/24332/BB3LOVE__24778.1.jpg",
    "in_stock": false,
    "name": "Bashful Red Love Heart Bunny",
-   "price": "25",
+   "price": "33",
    "sku": "BASHFUL_RED_LOVE_HEART_BUNNY",
    "status": "Live",
    "store": "uk",
@@ -5727,7 +5727,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/585/17548/CC2C__82130.1.jpg",
    "in_stock": false,
    "name": "Crispin Crab",
-   "price": "22",
+   "price": "30",
    "sku": "CRISPIN_CRAB",
    "status": "Live",
    "store": "uk",
@@ -5793,7 +5793,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/633/24312/DEX6DDL__47087.1.jpg",
    "in_stock": false,
    "name": "Dexter Dragon",
-   "price": "27",
+   "price": "58",
    "sku": "DEXTER_DRAGON",
    "status": "Live",
    "store": "uk",
@@ -6343,7 +6343,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/985/19133/LOB2L__58159.1.jpg",
    "in_stock": false,
    "name": "Larry Lobster",
-   "price": "22",
+   "price": "30",
    "sku": "LARRY_LOBSTER",
    "status": "Live",
    "store": "uk",
@@ -6405,7 +6405,7 @@
    "url": "/amuseables-sun-musical-pull/"
   },
   "us:1014": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1014/48384/MUN3SD__02746.1.jpg",
    "in_stock": true,
    "name": "Munro Scottie Dog",
@@ -6449,9 +6449,9 @@
    "url": "/odell-octopus/"
   },
   "us:1059": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1059/48401/OT3SD__62145.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Otto Sausage Dog",
    "price": "28",
    "sku": "OTTO_SAUSAGE_DOG",
@@ -7307,7 +7307,7 @@
    "url": "/amuseables-burger/"
   },
   "us:1360": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1360/46079/STH4B__94333.1.jpg",
    "in_stock": true,
    "name": "Bashful Bunny Soother",
@@ -12356,9 +12356,9 @@
    "url": "/amuseables-potato/"
   },
   "us:246": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/246/48724/A6TR__36291.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Toilet Roll",
    "price": "33",
    "sku": "A6TR",
@@ -12488,7 +12488,7 @@
    "url": "/amuseables-sports-tennis-ball/"
   },
   "us:294": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/294/41548/BAS3B__06287.1.jpg",
    "in_stock": true,
    "name": "Bashful Beige Bunny",
