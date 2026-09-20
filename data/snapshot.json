@@ -1,6 +1,6 @@
 {
  "count": 1290,
- "fetched_at": "2026-09-19T12:34:09+00:00",
+ "fetched_at": "2026-09-20T01:00:38+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -6669,9 +6669,9 @@
    "url": "/personalised-bashful-beige-bunny-blankie/"
   },
   "us:1111": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1111/44978/PERSBLNK4BAR__25050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Bartholomew Bear Blankie",
    "price": "88",
    "sku": "PERSBLNK4BAR",
@@ -9870,9 +9870,9 @@
    "url": "/allexi-alligator/"
   },
   "us:1823": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1823/49950/BK4AKG__59423.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "All Kinds of Grumpy Book",
    "price": "18",
    "sku": "BK4AKG",
@@ -13137,9 +13137,9 @@
    "url": "/bashful-bunny-blankies/"
   },
   "us:537": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/537/42606/BLNK4BAR__95335.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear Blankie",
    "price": "80",
    "sku": "BLNK4BAR",
