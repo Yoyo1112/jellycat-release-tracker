@@ -1,6 +1,6 @@
 {
  "count": 1290,
- "fetched_at": "2026-09-20T13:06:10+00:00",
+ "fetched_at": "2026-09-21T01:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -4612,9 +4612,9 @@
    "url": "/amuseables-silver-star/"
   },
   "uk:2094": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2094/28550/ASP1B__03456.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bizzlestomp Bear",
    "price": "90",
    "sku": "ASP1B",
