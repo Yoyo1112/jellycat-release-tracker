@@ -1,6 +1,6 @@
 {
- "count": 1290,
- "fetched_at": "2026-09-21T09:00:42+00:00",
+ "count": 1300,
+ "fetched_at": "2026-09-21T15:10:18+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -322,9 +322,9 @@
    "url": "/personalised-bashful-silver-bunny-blankie/"
   },
   "uk:1114": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1114/19705/PERSBLNK4LUN__78021.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Luna Blankie",
    "price": "95",
    "sku": "PERSBLNK4LUN",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -4392,7 +4392,7 @@
    "url": "/amuseables-peanut-key-chain-bag-charm/"
   },
   "uk:2070": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2070/28156/AMS4W__58121.1.png",
    "in_stock": true,
    "name": "Amuseables Sports Walston Whistle",
@@ -4403,7 +4403,7 @@
    "url": "/amuseables-sports-walston-whistle/"
   },
   "uk:2071": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2071/28314/AS6RC__43910.1.png",
    "in_stock": true,
    "name": "Amuseables Sports Fowla Red Card",
@@ -4414,7 +4414,7 @@
    "url": "/amuseables-sports-fowla-red-card/"
   },
   "uk:2072": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2072/28335/AS6YC__24942.1.png",
    "in_stock": true,
    "name": "Amuseables Sports Warni Yellow Card",
@@ -4612,9 +4612,9 @@
    "url": "/amuseables-silver-star/"
   },
   "uk:2094": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2094/28550/ASP1B__03456.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bizzlestomp Bear",
    "price": "90",
    "sku": "ASP1B",
@@ -4753,6 +4753,61 @@
    "status": "Live",
    "store": "uk",
    "url": "/amuseables-boiled-egg-bride/"
+  },
+  "uk:2111": {
+   "badge": "Available 5th October",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2111/28703/MP4BARL__66014.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Musical Pull",
+   "price": "38",
+   "sku": "MP4BARL",
+   "status": "Coming Soon",
+   "store": "uk",
+   "url": "/leola-bear-musical-pull/"
+  },
+  "uk:2112": {
+   "badge": "Available 5th October",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2112/28697/BLNK4BARL__29589.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Blankie",
+   "price": "70",
+   "sku": "BLNK4BARL",
+   "status": "Coming Soon",
+   "store": "uk",
+   "url": "/leola-bear-blankie/"
+  },
+  "uk:2113": {
+   "badge": "Available 5th October",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2113/28715/BARL4RR__08188.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Ring Rattle",
+   "price": "18",
+   "sku": "BARL4RR",
+   "status": "Coming Soon",
+   "store": "uk",
+   "url": "/leola-bear-ring-rattle/"
+  },
+  "uk:2114": {
+   "badge": "Available 5th October",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2114/28692/CMF4BARL__19741.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Comforter",
+   "price": "23",
+   "sku": "CMF4BARL",
+   "status": "Coming Soon",
+   "store": "uk",
+   "url": "/leola-bear-comforter/"
+  },
+  "uk:2115": {
+   "badge": "Available 5th October",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2115/28708/STH4BARL__23112.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Soother",
+   "price": "28",
+   "sku": "STH4BARL",
+   "status": "Coming Soon",
+   "store": "uk",
+   "url": "/leola-bear-soother/"
   },
   "uk:213": {
    "badge": "Out of Stock",
@@ -12168,6 +12223,28 @@
    "store": "us",
    "url": "/amuseables-sports-ski-club-goggles/"
   },
+  "us:2108": {
+   "badge": "Available October 5th",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2108/53929/CMF4BARL__33702.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Comforter",
+   "price": "30",
+   "sku": "CMF4BARL",
+   "status": "Coming Soon",
+   "store": "us",
+   "url": "/leola-bear-comforter/"
+  },
+  "us:2109": {
+   "badge": "Available October 5th",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2109/53911/BLNK4BARL__42534.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Blankie",
+   "price": "85",
+   "sku": "BLNK4BARL",
+   "status": "Coming Soon",
+   "store": "us",
+   "url": "/leola-bear-blankie/"
+  },
   "us:211": {
    "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/211/48612/A6B__29915.1.jpg",
@@ -12178,6 +12255,39 @@
    "status": "Live",
    "store": "us",
    "url": "/amuseables-bean/"
+  },
+  "us:2110": {
+   "badge": "Available October 5th",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2110/53917/BARL4RR__87435.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Ring Rattle",
+   "price": "25",
+   "sku": "BARL4RR",
+   "status": "Coming Soon",
+   "store": "us",
+   "url": "/leola-bear-ring-rattle/"
+  },
+  "us:2111": {
+   "badge": "Available October 5th",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2111/53922/STH4BARL__11274.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Soother",
+   "price": "35",
+   "sku": "STH4BARL",
+   "status": "Coming Soon",
+   "store": "us",
+   "url": "/leola-bear-soother/"
+  },
+  "us:2112": {
+   "badge": "Available October 5th",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2112/53906/MP4BARL__89659.1.png",
+   "in_stock": false,
+   "name": "Leola Bear Musical Pull",
+   "price": "50",
+   "sku": "MP4BARL",
+   "status": "Coming Soon",
+   "store": "us",
+   "url": "/leola-bear-musical-pull/"
   },
   "us:212": {
    "badge": "Out of Stock",
