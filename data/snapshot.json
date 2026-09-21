@@ -1,6 +1,6 @@
 {
  "count": 1290,
- "fetched_at": "2026-09-21T01:00:45+00:00",
+ "fetched_at": "2026-09-21T05:08:24+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -322,9 +322,9 @@
    "url": "/personalised-bashful-silver-bunny-blankie/"
   },
   "uk:1114": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1114/19705/PERSBLNK4LUN__78021.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Luxe Bunny Luna Blankie",
    "price": "95",
    "sku": "PERSBLNK4LUN",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -2324,9 +2324,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
