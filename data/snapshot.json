@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-22T09:00:39+00:00",
+ "fetched_at": "2026-09-22T13:29:05+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -718,9 +718,9 @@
    "url": "/amuseables-sun-soother/"
   },
   "uk:132": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/132/15412/A2BSXMAS__45678.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Blue Spruce Christmas Tree",
    "price": "200",
    "sku": "AMUSEABLE_BLUE_SPRUCE_CHRISTMAS_TREE",
@@ -1356,7 +1356,7 @@
    "url": "/personalised-bashful-luxe-bunny-nimbus/"
   },
   "uk:1554": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1554/26029/A1LPRD__05038.1.png",
    "in_stock": true,
    "name": "Amuseables Peanut Reindeer",
@@ -5316,9 +5316,9 @@
    "url": "/if-i-were-a-bunny-board-book/"
   },
   "uk:385": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/385/16745/BB444BEE__41642.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Bee Board Book",
    "price": "10",
    "sku": "BB444BEE",
@@ -5393,9 +5393,9 @@
    "url": "/if-i-were-a-hedgehog-book/"
   },
   "uk:395": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/395/21255/BB444HEDGN__10035.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Hedgehog Board Book",
    "price": "10",
    "sku": "BB444HEDGN",
@@ -5459,9 +5459,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "uk:407": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/407/16817/BB444T__21795.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Tiger Board Book",
    "price": "10",
    "sku": "BB444T",
@@ -5470,9 +5470,9 @@
    "url": "/if-i-were-a-tiger-board-book/"
   },
   "uk:414": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/414/16843/BB4ELUS__67203.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were An Elephant Board Book",
    "price": "10",
    "sku": "BB4ELUS",
