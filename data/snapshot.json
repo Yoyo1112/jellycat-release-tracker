@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-23T09:00:47+00:00",
+ "fetched_at": "2026-09-23T13:43:10+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -520,7 +520,7 @@
    "url": "/ricky-rain-frog/"
   },
   "uk:119": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/119/15547/A2SUN__32587.1.jpg",
    "in_stock": true,
    "name": "Amuseables Sun",
@@ -4084,7 +4084,7 @@
    "url": "/roarwell-sea-lion/"
   },
   "uk:2040": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2040/27801/AS2FB__87866.1.jpg",
    "in_stock": true,
    "name": "Amuseables Jellycat Football",
@@ -5151,7 +5151,7 @@
    "url": "/bashful-luxe-bunny-rosa/"
   },
   "uk:312": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/312/23672/BAS3WIL__53180.1.jpg",
    "in_stock": true,
    "name": "Bashful Luxe Bunny Willow",
