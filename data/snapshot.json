@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-22T13:29:05+00:00",
+ "fetched_at": "2026-09-23T01:00:40+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5030,7 +5030,7 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
    "in_stock": true,
    "name": "Bashful Tulip Pink Bunny",
@@ -5041,7 +5041,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "uk:296": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/296/23613/BAS3BC__36889.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -5074,7 +5074,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "uk:301": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/301/26367/BAS3BLU__26275.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
@@ -5085,7 +5085,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "uk:302": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/302/16326/BAS3BS__22358.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
@@ -5679,9 +5679,9 @@
    "url": "/mitzi-reindeers-dream-book/"
   },
   "uk:511": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/511/17186/BK4TTF__06689.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "A Tale Of Two Friends Book",
    "price": "13.5",
    "sku": "BK4TTF",
@@ -8528,9 +8528,9 @@
    "url": "/amuseables-pair-of-olives/"
   },
   "us:1751": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1751/49591/GRU3DG__33196.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Derreck Dog",
    "price": "55",
    "sku": "GRU3DG",
@@ -9628,7 +9628,7 @@
    "url": "/amuseables-watering-can/"
   },
   "us:1951": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1951/51777/A4CARR__92536.1.jpg",
    "in_stock": true,
    "name": "Amuseables Carrot",
@@ -11267,7 +11267,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "us:302": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/302/51606/BAS3BLU__38288.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
