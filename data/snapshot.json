@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-24T09:00:40+00:00",
+ "fetched_at": "2026-09-24T13:37:10+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -663,7 +663,7 @@
    "url": "/smudge-elephant-blankie/"
   },
   "uk:1288": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1288/20512/SMG4SE__25063.1.jpg",
    "in_stock": true,
    "name": "Smudge Elephant Soother",
@@ -1785,7 +1785,7 @@
    "url": "/bashful-beige-bunny-petal/"
   },
   "uk:1676": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1676/23995/BPS3EC__70501.1.jpg",
    "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry'",
@@ -1917,7 +1917,7 @@
    "url": "/amuseables-collette-tarte-au-citron/"
   },
   "uk:1715": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1715/24291/A2PAN__07996.1.jpg",
    "in_stock": true,
    "name": "Amuseables Fran Pancakes",
@@ -3171,9 +3171,9 @@
    "url": "/hoppleston-luxe-bunny-original/"
   },
   "uk:1948": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1948/28505/RR4P__47151.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ricky Rain Frog Pouch",
    "price": "30",
    "sku": "RR4P",
