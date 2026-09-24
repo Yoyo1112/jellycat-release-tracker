@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-24T05:03:48+00:00",
+ "fetched_at": "2026-09-24T09:00:40+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5459,9 +5459,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "uk:407": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/407/16817/BB444T__21795.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Tiger Board Book",
    "price": "10",
    "sku": "BB444T",
