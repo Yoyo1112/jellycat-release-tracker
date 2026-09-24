@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-23T13:43:10+00:00",
+ "fetched_at": "2026-09-24T01:00:44+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5074,7 +5074,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "uk:301": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/301/26367/BAS3BLU__26275.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
@@ -8440,9 +8440,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "us:1736": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1736/49514/BAS3BEBB__62852.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "50",
    "sku": "BAS3BEBB",
@@ -11267,7 +11267,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "us:302": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/302/51606/BAS3BLU__38288.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
@@ -12092,7 +12092,7 @@
    "url": "/gordy-guinea-pig/"
   },
   "us:784": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/784/50154/JELC3M__66939.1.jpg",
    "in_stock": true,
    "name": "Jellycat Jack",
