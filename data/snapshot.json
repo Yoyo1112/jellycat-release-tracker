@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-24T01:00:44+00:00",
+ "fetched_at": "2026-09-24T05:03:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -2335,9 +2335,9 @@
    "url": "/personalised-blossom-cream-bunny-berry-blankie/"
   },
   "uk:1791": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1791/24632/PERSSTH4MS__19293.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Soother",
    "price": "35",
    "sku": "PERSSTH4MS",
@@ -2599,9 +2599,9 @@
    "url": "/bashful-luxe-bunny-hopscone-with-personalised-cream-jumper/"
   },
   "uk:1830": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1830/25448/JUMPCBPS3EC__77650.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Cream Jumper",
    "price": "39",
    "sku": "JUMPCBPS3EC",
@@ -2632,9 +2632,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-navy-jumper/"
   },
   "uk:1833": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1833/25513/JUMPRBPS3EC__24149.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Red Jumper",
    "price": "39",
    "sku": "JUMPRBPS3EC",
@@ -2654,9 +2654,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-red-jumper/"
   },
   "uk:1835": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1835/25443/JUMPNBPS3EC__50272.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Navy Jumper",
    "price": "39",
    "sku": "JUMPNBPS3EC",
@@ -4513,9 +4513,9 @@
    "url": "/growlston-gargoyle/"
   },
   "uk:2081": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2081/28383/GH3B__36713.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ghost Bob",
    "price": "23",
    "sku": "GH3B",
@@ -5459,9 +5459,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "uk:407": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/407/16817/BB444T__21795.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Tiger Board Book",
    "price": "10",
    "sku": "BB444T",
