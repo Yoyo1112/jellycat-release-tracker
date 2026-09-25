@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-25T05:06:47+00:00",
+ "fetched_at": "2026-09-25T09:00:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2599,9 +2599,9 @@
    "url": "/bashful-luxe-bunny-hopscone-with-personalised-cream-jumper/"
   },
   "uk:1830": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1830/25448/JUMPCBPS3EC__77650.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Cream Jumper",
    "price": "39",
    "sku": "JUMPCBPS3EC",
@@ -2632,9 +2632,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-navy-jumper/"
   },
   "uk:1833": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1833/25513/JUMPRBPS3EC__24149.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Red Jumper",
    "price": "39",
    "sku": "JUMPRBPS3EC",
@@ -2654,9 +2654,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-red-jumper/"
   },
   "uk:1835": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1835/25443/JUMPNBPS3EC__50272.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Navy Jumper",
    "price": "39",
    "sku": "JUMPNBPS3EC",
@@ -4997,7 +4997,7 @@
    "url": "/amuseables-sports-golf-ball/"
   },
   "uk:289": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/289/16054/AS6T__96244.1.jpg",
    "in_stock": true,
    "name": "Amuseables Sports Tennis Ball",
