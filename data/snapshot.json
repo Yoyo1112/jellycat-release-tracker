@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-25T13:56:31+00:00",
+ "fetched_at": "2026-09-26T01:00:37+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -4513,9 +4513,9 @@
    "url": "/growlston-gargoyle/"
   },
   "uk:2081": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2081/28383/GH3B__36713.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ghost Bob",
    "price": "23",
    "sku": "GH3B",
