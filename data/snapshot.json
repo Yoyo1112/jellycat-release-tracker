@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-26T09:00:36+00:00",
+ "fetched_at": "2026-09-26T13:13:17+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1169,9 +1169,9 @@
    "url": "/amuseables-lemon/"
   },
   "uk:1503": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1503/20494/SMG2RT__60180.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Rabbit Tote Bag",
    "price": "75",
    "sku": "SMG2RT",
