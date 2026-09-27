@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-27T05:27:35+00:00",
+ "fetched_at": "2026-09-27T09:00:38+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -4964,9 +4964,9 @@
    "url": "/amuseables-coffee-to-go-bag-charm/"
   },
   "uk:274": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/274/23498/AS2BK__26770.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sports Basketball",
    "price": "50",
    "sku": "AS2BK",
