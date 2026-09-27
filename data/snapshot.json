@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-26T13:13:17+00:00",
+ "fetched_at": "2026-09-27T01:00:42+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5613,9 +5613,9 @@
    "url": "/haschen-schnuck-bleibt-wach-buch/"
   },
   "uk:490": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/490/17123/BK4MER__04174.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Merry Mouse's Christmas Eve Book",
    "price": "10",
    "sku": "BK4MER",
@@ -5668,9 +5668,9 @@
    "url": "/the-playful-polar-bears-book/"
   },
   "uk:505": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/505/17168/BK4RD__29063.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Mitzi Reindeer's Dream Book",
    "price": "11.5",
    "sku": "BK4RD",
@@ -7329,9 +7329,9 @@
    "url": "/persimmon-dragon/"
   },
   "us:1475": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1475/52316/SKY2DD__70361.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Sky Dragon",
    "price": "70",
    "sku": "SKY_DRAGON",
