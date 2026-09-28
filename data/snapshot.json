@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-28T09:00:40+00:00",
+ "fetched_at": "2026-09-28T16:49:37+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2093,9 +2093,9 @@
    "url": "/personalised-bashful-beige-bunny-birthday/"
   },
   "uk:1743": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1743/24374/GRU3DG__16919.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Derreck Dog",
    "price": "40",
    "sku": "GRU3DG",
@@ -4154,7 +4154,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2048/28049/A4CUCHBC__03603.1.jpg",
    "in_stock": true,
    "name": "Amuseables ​Hosomaki Bag Charm",
-   "price": "25",
+   "price": "20",
    "sku": "A4CUCHBC",
    "status": "Live",
    "store": "uk",
@@ -4231,7 +4231,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2056/27913/CLY4CBCH__38508.1.jpg",
    "in_stock": false,
    "name": "Clyde Capybara Bag Charm",
-   "price": "28",
+   "price": "23",
    "sku": "CLY4CBCH",
    "status": "Live",
    "store": "uk",
@@ -4385,7 +4385,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2069/28022/APN4BCH__35716.1.jpg",
    "in_stock": true,
    "name": "Amuseables Peanut Bag Charm",
-   "price": "23",
+   "price": "20",
    "sku": "APN4BCH",
    "status": "Live",
    "store": "uk",
@@ -4660,7 +4660,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2098/28523/A4BCBC__88898.1.jpg",
    "in_stock": false,
    "name": "Amuseables Birthday Cake Bag Charm",
-   "price": "28",
+   "price": "30",
    "sku": "A4BCBC",
    "status": "Coming Soon",
    "store": "uk",
@@ -4704,7 +4704,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2101/28551/BAS4BCPBC__32672.1.jpg",
    "in_stock": false,
    "name": "Rufferty Puppy Key Chain Bag Charm",
-   "price": "28",
+   "price": "23",
    "sku": "BAS4BCPBC",
    "status": "Coming Soon",
    "store": "uk",
@@ -5030,7 +5030,7 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
    "in_stock": true,
    "name": "Bashful Tulip Pink Bunny",
@@ -6966,7 +6966,7 @@
    "url": "/amuseables-burger/"
   },
   "us:1360": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1360/46079/STH4B__94333.1.jpg",
    "in_stock": true,
    "name": "Bashful Bunny Soother",
@@ -8685,7 +8685,7 @@
    "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1771/49721/MP4CL__30465.1.jpg",
    "in_stock": true,
-   "name": "Amuseables Cloud Musical Pull",
+   "name": "Amuseables Stratto Cloud Musical Pull",
    "price": "45",
    "sku": "MP4CL",
    "status": "Live",
