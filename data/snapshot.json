@@ -1,6 +1,6 @@
 {
  "count": 1118,
- "fetched_at": "2026-09-28T01:00:40+00:00",
+ "fetched_at": "2026-09-28T05:35:25+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -344,9 +344,9 @@
    "url": "/personalised-bashful-luxe-bunny-rosa-blankie/"
   },
   "uk:1116": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1116/19715/PERSBLNK4WIL__84635.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Willow Blankie",
    "price": "95",
    "sku": "PERSBLNK4WIL",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
