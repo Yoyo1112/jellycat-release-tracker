@@ -1,6 +1,6 @@
 {
  "count": 1300,
- "fetched_at": "2026-09-29T01:00:42+00:00",
+ "fetched_at": "2026-09-29T05:53:12+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -344,9 +344,9 @@
    "url": "/personalised-bashful-luxe-bunny-rosa-blankie/"
   },
   "uk:1116": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1116/19715/PERSBLNK4WIL__84635.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Luxe Bunny Willow Blankie",
    "price": "95",
    "sku": "PERSBLNK4WIL",
@@ -718,9 +718,9 @@
    "url": "/amuseables-sun-soother/"
   },
   "uk:132": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/132/15412/A2BSXMAS__45678.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Blue Spruce Christmas Tree",
    "price": "200",
    "sku": "AMUSEABLE_BLUE_SPRUCE_CHRISTMAS_TREE",
@@ -1169,9 +1169,9 @@
    "url": "/amuseables-lemon/"
   },
   "uk:1503": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1503/20494/SMG2RT__60180.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Rabbit Tote Bag",
    "price": "75",
    "sku": "SMG2RT",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1851,9 +1851,9 @@
    "url": "/amuseables-happy-raindrop/"
   },
   "uk:1697": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1697/24119/A4SCLBC__82925.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Storm Cloud Bag Charm",
    "price": "23",
    "sku": "A4SCLBC",
@@ -2203,9 +2203,9 @@
    "url": "/amuseables-cloud-soother/"
   },
   "uk:1760": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1760/24463/STH4MS__18948.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Cream Bunny 'Berry' Soother",
    "price": "30",
    "sku": "STH4MS",
@@ -2324,9 +2324,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -2335,9 +2335,9 @@
    "url": "/personalised-blossom-cream-bunny-berry-blankie/"
   },
   "uk:1791": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1791/24632/PERSSTH4MS__19293.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Blossom Cream Bunny 'Berry' Soother",
    "price": "35",
    "sku": "PERSSTH4MS",
@@ -4513,9 +4513,9 @@
    "url": "/growlston-gargoyle/"
   },
   "uk:2081": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2081/28383/GH3B__36713.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ghost Bob",
    "price": "23",
    "sku": "GH3B",
@@ -5404,9 +5404,9 @@
    "url": "/if-i-were-a-hedgehog-board-book/"
   },
   "uk:400": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/400/16790/BB444OC__62853.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were An Octopus Board Book",
    "price": "10",
    "sku": "BB444OC",
@@ -5613,9 +5613,9 @@
    "url": "/haschen-schnuck-bleibt-wach-buch/"
   },
   "uk:490": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/490/17123/BK4MER__04174.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Merry Mouse's Christmas Eve Book",
    "price": "10",
    "sku": "BK4MER",
@@ -5668,9 +5668,9 @@
    "url": "/the-playful-polar-bears-book/"
   },
   "uk:505": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/505/17168/BK4RD__29063.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Mitzi Reindeer's Dream Book",
    "price": "11.5",
    "sku": "BK4RD",
