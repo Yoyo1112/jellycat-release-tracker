@@ -1,6 +1,6 @@
 {
- "count": 1300,
- "fetched_at": "2026-09-29T05:53:12+00:00",
+ "count": 1301,
+ "fetched_at": "2026-09-29T09:00:42+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1169,9 +1169,9 @@
    "url": "/amuseables-lemon/"
   },
   "uk:1503": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1503/20494/SMG2RT__60180.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Rabbit Tote Bag",
    "price": "75",
    "sku": "SMG2RT",
@@ -2753,9 +2753,9 @@
    "url": "/ooky-jack-o-lantern/"
   },
   "uk:1848": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Broox Bat",
    "price": "30",
    "sku": "BAT3B",
@@ -2828,6 +2828,17 @@
    "status": "Live",
    "store": "uk",
    "url": "/sacha-and-the-most-wonderful-thing-book/"
+  },
+  "uk:1883": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1883/26000/BK4PPP__10580.1.png",
+   "in_stock": true,
+   "name": "Peanut Penguin’s Perfect Present Book",
+   "price": "10",
+   "sku": "BK4PPP",
+   "status": "Live",
+   "store": "uk",
+   "url": "/peanut-penguins-perfect-present-book/"
   },
   "uk:1892": {
    "badge": "Best Seller",
@@ -5404,9 +5415,9 @@
    "url": "/if-i-were-a-hedgehog-board-book/"
   },
   "uk:400": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/400/16790/BB444OC__62853.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were An Octopus Board Book",
    "price": "10",
    "sku": "BB444OC",
