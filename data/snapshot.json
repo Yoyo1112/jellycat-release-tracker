@@ -1,6 +1,6 @@
 {
  "count": 1301,
- "fetched_at": "2026-09-29T09:00:42+00:00",
+ "fetched_at": "2026-09-30T01:00:44+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1994,9 +1994,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "uk:1725": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1725/24248/BAS3BEBB__56478.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "40",
    "sku": "BAS3BEBB",
@@ -2082,9 +2082,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -5041,7 +5041,7 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
    "in_stock": true,
    "name": "Bashful Tulip Pink Bunny",
@@ -9331,9 +9331,9 @@
    "url": "/malachy-dragon/"
   },
   "us:1759": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1759/49627/A4SDG__40374.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sourdough",
    "price": "40",
    "sku": "A4SDG",
@@ -9661,9 +9661,9 @@
    "url": "/budgeby-parrot/"
   },
   "us:1798": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1798/49813/WHL3SH__60321.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Gobfrey Whale Shark",
    "price": "38",
    "sku": "WHL3SH",
@@ -12730,7 +12730,7 @@
    "url": "/bashful-dino/"
   },
   "us:306": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/306/41629/BAS3FXC__35561.1.jpg",
    "in_stock": true,
    "name": "Bashful Fox Cub",
