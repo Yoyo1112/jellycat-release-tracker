@@ -1,6 +1,6 @@
 {
  "count": 1301,
- "fetched_at": "2026-09-30T05:43:54+00:00",
+ "fetched_at": "2026-09-30T09:00:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5041,7 +5041,7 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
    "in_stock": true,
    "name": "Bashful Tulip Pink Bunny",
@@ -5052,7 +5052,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "uk:296": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/296/23613/BAS3BC__36889.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -5085,7 +5085,7 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "uk:301": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/301/26367/BAS3BLU__26275.1.jpg",
    "in_stock": true,
    "name": "Bashful Blush Bunny",
@@ -5096,7 +5096,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "uk:302": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/302/16326/BAS3BS__22358.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
@@ -5206,7 +5206,7 @@
    "url": "/bartholomew-bear-ring-rattle/"
   },
   "uk:321": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/321/27457/BARM3BR__56241.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear",
@@ -12642,7 +12642,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "us:297": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/297/48859/BAS3BC__02362.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -12697,7 +12697,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "us:303": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/303/41572/BAS3BS__59061.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
