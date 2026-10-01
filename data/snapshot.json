@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-01T01:00:39+00:00",
+ "fetched_at": "2026-10-01T06:09:49+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -465,9 +465,9 @@
    "url": "/personalised-bashful-blush-bunny-soother/"
   },
   "uk:1142": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1142/19826/PERSSTH4BS__66101.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Silver Bunny Soother",
    "price": "33",
    "sku": "PERSSTH4BS",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -2324,9 +2324,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -6548,7 +6548,7 @@
    "url": "/larry-lobster/"
   },
   "us:1009": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1009/44515/MP4B__11778.1.jpg",
    "in_stock": true,
    "name": "Bashful Bunny Musical Pull",
