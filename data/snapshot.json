@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-02T09:01:15+00:00",
+ "fetched_at": "2026-10-02T14:47:57+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -520,9 +520,9 @@
    "url": "/ricky-rain-frog/"
   },
   "uk:119": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/119/15547/A2SUN__32587.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sun",
    "price": "28",
    "sku": "AMUSEABLE_SUN",
@@ -773,9 +773,9 @@
    "url": "/tumblie-sheep-dog/"
   },
   "uk:137": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/137/26286/A2CL__35278.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Cloud",
    "price": "26",
    "sku": "A2CL",
@@ -7032,7 +7032,7 @@
    "url": "/personalised-bartholomew-bear-soother/"
   },
   "us:114": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/114/40944/A6BE__18474.1.jpg",
    "in_stock": true,
    "name": "Amuseables Happy Boiled Egg",
@@ -9430,7 +9430,7 @@
    "url": "/ewert-sheepdog/"
   },
   "us:1756": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1756/49607/BAS3ELE__32363.1.jpg",
    "in_stock": true,
    "name": "Bashful Luxe Elephant Thuddeus",
@@ -12939,7 +12939,7 @@
    "url": "/amuseables-diamond-ring-with-personalised-bag/"
   },
   "us:301": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/301/41557/BAS3BCP__92284.1.jpg",
    "in_stock": true,
    "name": "Bashful Black & Cream Puppy",
@@ -12961,7 +12961,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "us:303": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/303/41572/BAS3BS__59061.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
