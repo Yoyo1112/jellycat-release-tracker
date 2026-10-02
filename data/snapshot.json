@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-01T15:35:55+00:00",
+ "fetched_at": "2026-10-02T01:00:40+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5580,9 +5580,9 @@
    "url": "/if-i-were-an-owl-board-book/"
   },
   "uk:403": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/403/16799/BB444PDA__40302.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Panda Board Book",
    "price": "10",
    "sku": "BB444PDA",
@@ -12906,7 +12906,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "us:297": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/297/48859/BAS3BC__02362.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -12939,7 +12939,7 @@
    "url": "/amuseables-diamond-ring-with-personalised-bag/"
   },
   "us:301": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/301/41557/BAS3BCP__92284.1.jpg",
    "in_stock": true,
    "name": "Bashful Black & Cream Puppy",
@@ -12961,7 +12961,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "us:303": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/303/41572/BAS3BS__59061.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
