@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-02T05:53:22+00:00",
+ "fetched_at": "2026-10-02T09:01:15+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -6548,7 +6548,7 @@
    "url": "/larry-lobster/"
   },
   "us:1009": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1009/44515/MP4B__11778.1.jpg",
    "in_stock": true,
    "name": "Bashful Bunny Musical Pull",
@@ -7032,7 +7032,7 @@
    "url": "/personalised-bartholomew-bear-soother/"
   },
   "us:114": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/114/40944/A6BE__18474.1.jpg",
    "in_stock": true,
    "name": "Amuseables Happy Boiled Egg",
