@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-03T01:00:40+00:00",
+ "fetched_at": "2026-10-03T05:28:35+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -465,9 +465,9 @@
    "url": "/personalised-bashful-blush-bunny-soother/"
   },
   "uk:1142": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1142/19826/PERSSTH4BS__66101.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Silver Bunny Soother",
    "price": "33",
    "sku": "PERSSTH4BS",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1631,9 +1631,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -2324,9 +2324,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -4381,9 +4381,9 @@
    "url": "/rockleton/"
   },
   "uk:2068": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2068/27984/RES3DOG__43523.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Scruffles Rescue Dog",
    "price": "55",
    "sku": "RES3DOG",
@@ -7505,7 +7505,7 @@
    "url": "/amuseables-burger/"
   },
   "us:1360": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1360/46079/STH4B__94333.1.jpg",
    "in_stock": true,
    "name": "Bashful Bunny Soother",
