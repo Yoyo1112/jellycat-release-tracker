@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-03T13:30:50+00:00",
+ "fetched_at": "2026-10-04T01:00:41+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -9254,9 +9254,9 @@
    "url": "/amuseables-collette-tarte-au-citron/"
   },
   "us:1734": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1734/49486/A6TAF__38110.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Fleurette Tarte Aux Fraises",
    "price": "30",
    "sku": "A6TAF",
