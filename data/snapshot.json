@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-06T09:00:39+00:00",
+ "fetched_at": "2026-10-06T15:17:59+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1004,7 +1004,7 @@
    "url": "/audrey-hootsoftly/"
   },
   "uk:1452": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1452/23574/BAR4BP__06522.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear Backpack",
@@ -1191,7 +1191,7 @@
    "url": "/timmy-turtle-bag-charm/"
   },
   "uk:1516": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1516/23566/BAR2BT__44139.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear Tote Bag",
@@ -1279,7 +1279,7 @@
    "url": "/amuseables-mona-macaron/"
   },
   "uk:1535": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1535/23440/A6MACF__73109.1.jpg",
    "in_stock": true,
    "name": "Amuseables Mia Macaron",
@@ -1697,7 +1697,7 @@
    "url": "/jellycat-25th-anniversary-stickers/"
   },
   "uk:1663": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1663/24047/A2EGGT__68973.1.jpg",
    "in_stock": true,
    "name": "Amuseables Egglantine Egg On Toast",
@@ -1785,7 +1785,7 @@
    "url": "/bashful-beige-bunny-petal/"
   },
   "uk:1676": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1676/23995/BPS3EC__70501.1.jpg",
    "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry'",
@@ -1917,7 +1917,7 @@
    "url": "/amuseables-collette-tarte-au-citron/"
   },
   "uk:1715": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1715/24291/A2PAN__07996.1.jpg",
    "in_stock": true,
    "name": "Amuseables Fran Pancakes",
@@ -1983,7 +1983,7 @@
    "url": "/amuseables-ravioli/"
   },
   "uk:1723": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1723/24240/A6TAF__60895.1.jpg",
    "in_stock": true,
    "name": "Amuseables Fleurette Tarte Aux Fraises",
@@ -2126,7 +2126,7 @@
    "url": "/malachy-dragon/"
   },
   "uk:1751": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1751/24366/A4SDG__29685.1.jpg",
    "in_stock": true,
    "name": "Amuseables Sourdough",
@@ -3369,7 +3369,7 @@
    "url": "/amuseables-mirielle-st-honore/"
   },
   "uk:1966": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1966/27173/APEACH4BC__42300.1.jpg",
    "in_stock": true,
    "name": "Amuseables Peach Bag Charm",
@@ -3699,7 +3699,7 @@
    "url": "/amuseables-space-comet/"
   },
   "uk:2003": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2003/27341/A6BERS__13536.1.jpg",
    "in_stock": true,
    "name": "Amuseables Boiled Egg ‘Scientist’",
@@ -3732,7 +3732,7 @@
    "url": "/amuseables-peanut-star-student-outfit/"
   },
   "uk:2006": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2006/27346/AL3GRE__42390.1.jpg",
    "in_stock": true,
    "name": "Zyllan Alien",
@@ -3820,7 +3820,7 @@
    "url": "/munro-scottie-dog-space-outfit/"
   },
   "uk:2014": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2014/27323/A4BULB__83766.1.jpg",
    "in_stock": true,
    "name": "Amuseables Lightbulb",
@@ -3919,7 +3919,7 @@
    "url": "/zodihop-luxe-bunny-with-personalised-red-jumper/"
   },
   "uk:2023": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2023/27690/BAR3LH__54222.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear Bouffant",
@@ -3996,7 +3996,7 @@
    "url": "/amuseables-sun-bag-charm/"
   },
   "uk:2030": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2030/27729/A2SUNRS__94795.1.jpg",
    "in_stock": true,
    "name": "Amuseables Sun 'Roller Skates'",
@@ -4029,7 +4029,7 @@
    "url": "/puddlesea-bunny-original/"
   },
   "uk:2033": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2033/27745/CR2CRB__29168.1.jpg",
    "in_stock": true,
    "name": "Pinchsnap Crab",
@@ -4414,7 +4414,7 @@
    "url": "/amuseables-sports-walston-whistle/"
   },
   "uk:2071": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2071/28314/AS6RC__43910.1.png",
    "in_stock": true,
    "name": "Amuseables Sports Fowla Red Card",
@@ -4613,7 +4613,7 @@
   },
   "uk:2093": {
    "badge": "New In",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2093/28545/A6STA__32277.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2093/28952/A6STA__75496.1.jpg",
    "in_stock": true,
    "name": "Amuseables Silver Star",
    "price": "25",
@@ -6010,7 +6010,7 @@
   },
   "uk:716": {
    "badge": "Out of Stock",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/716/18036/FW6CAT__46249.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/716/28956/FW6CAT__14592.1.jpg",
    "in_stock": false,
    "name": "Fuddlewuddle Cat",
    "price": "27",
@@ -6515,7 +6515,7 @@
    "url": "/little-pup/"
   },
   "uk:968": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/968/19067/L4PGB__80495.1.jpg",
    "in_stock": true,
    "name": "Little Pig Bag",
@@ -12258,7 +12258,7 @@
   },
   "us:2093": {
    "badge": "New In",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2093/53769/A6STA__05869.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2093/54147/A6STA__46083.1.jpg",
    "in_stock": true,
    "name": "Amuseables Silver Star",
    "price": "35",
@@ -12929,7 +12929,7 @@
   },
   "us:299": {
    "badge": "Personalize Me",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/299/51752/BAGSA2DIR__58117.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/299/54116/BAGSA2DIR__64698.1.png",
    "in_stock": true,
    "name": "Amuseables Diamond Ring with Personalized Bag",
    "price": "50",
@@ -12961,7 +12961,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "us:303": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/303/41572/BAS3BS__59061.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
