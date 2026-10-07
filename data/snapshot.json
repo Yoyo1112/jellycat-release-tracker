@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-07T01:00:41+00:00",
+ "fetched_at": "2026-10-07T06:11:39+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -223,9 +223,9 @@
    "url": "/personalised-bashful-luxe-bunny-luna-medium/"
   },
   "uk:1097": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1097/19632/PERSBAS3ROS__46401.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Rosa Medium",
    "price": "45",
    "sku": "PERSBAS3ROS",
@@ -443,9 +443,9 @@
    "url": "/personalised-bartholomew-bear-soother/"
   },
   "uk:114": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/114/24865/A2MOON__39526.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Moon",
    "price": "28",
    "sku": "AMUSEABLE_MOON",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1114,9 +1114,9 @@
    "url": "/timmy-turtle-bag/"
   },
   "uk:1490": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1490/26381/A6PEACH__82484.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Peach",
    "price": "23",
    "sku": "A6PEACH",
@@ -1213,9 +1213,9 @@
    "url": "/bashful-unicorn-2024/"
   },
   "uk:1522": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1522/19266/MUM3B__21192.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Mummy Bob",
    "price": "33",
    "sku": "MUM3B",
@@ -1477,9 +1477,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-cream-jumper/"
   },
   "uk:1609": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1609/21187/JUMPCBAS3ROS__17652.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3ROS",
@@ -1521,9 +1521,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-navy-jumper/"
   },
   "uk:1614": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1614/21207/JUMPNBAS3ROS__71045.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3ROS",
@@ -1565,9 +1565,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-red-jumper/"
   },
   "uk:1619": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1619/28757/JUMPRBAS3ROS__99358.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3ROS",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1631,9 +1631,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -1851,9 +1851,9 @@
    "url": "/amuseables-happy-raindrop/"
   },
   "uk:1697": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1697/24119/A4SCLBC__82925.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Storm Cloud Bag Charm",
    "price": "23",
    "sku": "A4SCLBC",
@@ -2324,9 +2324,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -2599,9 +2599,9 @@
    "url": "/bashful-luxe-bunny-hopscone-with-personalised-cream-jumper/"
   },
   "uk:1830": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1830/25448/JUMPCBPS3EC__77650.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Cream Jumper",
    "price": "39",
    "sku": "JUMPCBPS3EC",
@@ -2632,9 +2632,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-navy-jumper/"
   },
   "uk:1833": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1833/25513/JUMPRBPS3EC__24149.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Red Jumper",
    "price": "39",
    "sku": "JUMPRBPS3EC",
@@ -2654,9 +2654,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-red-jumper/"
   },
   "uk:1835": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1835/25443/JUMPNBPS3EC__50272.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Blush Bunny 'Cherry' with Personalised Navy Jumper",
    "price": "39",
    "sku": "JUMPNBPS3EC",
@@ -2753,9 +2753,9 @@
    "url": "/ooky-jack-o-lantern/"
   },
   "uk:1848": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Broox Bat",
    "price": "30",
    "sku": "BAT3B",
@@ -3182,9 +3182,9 @@
    "url": "/hoppleston-luxe-bunny-original/"
   },
   "uk:1948": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1948/28505/RR4P__47151.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ricky Rain Frog Pouch",
    "price": "30",
    "sku": "RR4P",
@@ -4381,9 +4381,9 @@
    "url": "/rockleton/"
   },
   "uk:2068": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2068/27984/RES3DOG__43523.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Scruffles Rescue Dog",
    "price": "55",
    "sku": "RES3DOG",
@@ -5283,9 +5283,9 @@
    "url": "/bashful-luxe-bunny-luna/"
   },
   "uk:308": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/308/23654/BAS3ROS__97052.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa",
    "price": "40",
    "sku": "BASHFUL_LUXE_ROSA",
@@ -5459,9 +5459,9 @@
    "url": "/if-i-were-a-bunny-board-book/"
   },
   "uk:385": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/385/16745/BB444BEE__41642.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Bee Board Book",
    "price": "10",
    "sku": "BB444BEE",
@@ -5547,9 +5547,9 @@
    "url": "/if-i-were-a-hedgehog-board-book/"
   },
   "uk:400": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/400/16790/BB444OC__62853.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were An Octopus Board Book",
    "price": "10",
    "sku": "BB444OC",
@@ -5580,9 +5580,9 @@
    "url": "/if-i-were-an-owl-board-book/"
   },
   "uk:403": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/403/16799/BB444PDA__40302.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Panda Board Book",
    "price": "10",
    "sku": "BB444PDA",
@@ -5602,9 +5602,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "uk:407": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/407/16817/BB444T__21795.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Tiger Board Book",
    "price": "10",
    "sku": "BB444T",
@@ -5613,9 +5613,9 @@
    "url": "/if-i-were-a-tiger-board-book/"
   },
   "uk:414": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/414/16843/BB4ELUS__67203.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were An Elephant Board Book",
    "price": "10",
    "sku": "BB4ELUS",
@@ -5822,9 +5822,9 @@
    "url": "/mitzi-reindeers-dream-book/"
   },
   "uk:511": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/511/17186/BK4TTF__06689.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "A Tale Of Two Friends Book",
    "price": "13.5",
    "sku": "BK4TTF",
