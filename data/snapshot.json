@@ -1,6 +1,6 @@
 {
- "count": 1325,
- "fetched_at": "2026-10-08T09:00:45+00:00",
+ "count": 1331,
+ "fetched_at": "2026-10-08T15:42:59+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1059,9 +1059,9 @@
    "url": "/persimmon-dragon/"
   },
   "uk:1477": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1477/27098/SKY2DD__29771.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Sky Dragon",
    "price": "58",
    "sku": "SKY_DRAGON",
@@ -1366,6 +1366,17 @@
    "store": "uk",
    "url": "/amuseables-peanut-reindeer/"
   },
+  "uk:1562": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1562/27553/BASS6BPD__51837.1.png",
+   "in_stock": true,
+   "name": "Bashful Puppy Decoration",
+   "price": "18",
+   "sku": "BASS6BPD",
+   "status": "Live",
+   "store": "uk",
+   "url": "/bashful-puppy-decoration/"
+  },
   "uk:158": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/158/15520/A2RB__36251.1.jpg",
@@ -1620,9 +1631,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1631,9 +1642,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -1950,9 +1961,9 @@
    "url": "/amuseables-rene-waffle/"
   },
   "uk:1718": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1718/24283/A4CNB__08333.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cinnamon Bun",
    "price": "25",
    "sku": "A4CNB",
@@ -2324,9 +2335,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -2784,6 +2795,17 @@
    "status": "Live",
    "store": "uk",
    "url": "/plum-robin/"
+  },
+  "uk:1862": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1862/25887/BAS6BD__36054.1.png",
+   "in_stock": true,
+   "name": "Bashful Beige Bunny Decoration",
+   "price": "20",
+   "sku": "BAS6BD",
+   "status": "Live",
+   "store": "uk",
+   "url": "/bashful-beige-bunny-decoration/"
   },
   "uk:1871": {
    "badge": "Out of Stock",
@@ -4943,7 +4965,7 @@
   },
   "uk:2127": {
    "badge": "Available 14th October",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2127/28975/A4MITTE__00017.1.png",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2127/28981/A4MITTE__06634.1.jpg",
    "in_stock": true,
    "name": "Amuseables Fitzsnug Mitten",
    "price": "30",
@@ -5580,9 +5602,9 @@
    "url": "/if-i-were-an-owl-board-book/"
   },
   "uk:403": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/403/16799/BB444PDA__40302.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Panda Board Book",
    "price": "10",
    "sku": "BB444PDA",
@@ -5700,6 +5722,17 @@
    "store": "uk",
    "url": "/odell-der-furchtlose-oktopus-buch/"
   },
+  "uk:479": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/479/17090/BK4LEF__92079.1.jpg",
+   "in_stock": true,
+   "name": "Leffy's Christmas Gift Book",
+   "price": "13.5",
+   "sku": "BK4LEF",
+   "status": "Live",
+   "store": "uk",
+   "url": "/leffys-christmas-gift-book/"
+  },
   "uk:481": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/481/17096/BK4LMF__06667.1.jpg",
@@ -5798,6 +5831,17 @@
    "status": "Live",
    "store": "uk",
    "url": "/otto-klein-aber-oho-buch/"
+  },
+  "uk:501": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/501/17156/BK4OSC__32771.1.jpg",
+   "in_stock": true,
+   "name": "Otto's Snowy Christmas Book",
+   "price": "11.5",
+   "sku": "BK4OSC",
+   "status": "Live",
+   "store": "uk",
+   "url": "/ottos-snowy-christmas-book/"
   },
   "uk:503": {
    "badge": "",
@@ -6063,6 +6107,17 @@
    "store": "uk",
    "url": "/higgledy-piggledy-old-spot/"
   },
+  "uk:780": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/780/18278/J3SA__84984.1.jpg",
+   "in_stock": true,
+   "name": "Jolly Santa",
+   "price": "45",
+   "sku": "JOLLY_SANTA",
+   "status": "Live",
+   "store": "uk",
+   "url": "/jolly-santa/"
+  },
   "uk:782": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/782/18284/JELC1D__45492.1.jpg",
@@ -6086,9 +6141,9 @@
    "url": "/jellycat-jack/"
   },
   "uk:796": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/796/18341/JUMPCBARM3BR__29680.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear with Personalised Cream Jumper",
    "price": "36",
    "sku": "JUMPCBARM3BR",
@@ -6207,9 +6262,9 @@
    "url": "/bashful-pink-bunny-with-personalised-cream-jumper/"
   },
   "uk:846": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/846/18558/JUMPNBARM3BR__21952.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear with Personalised Navy Jumper",
    "price": "36",
    "sku": "JUMPNBARM3BR",
@@ -6328,9 +6383,9 @@
    "url": "/bashful-pink-bunny-with-personalised-navy-jumper/"
   },
   "uk:894": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/894/28787/JUMPRBARM3BR__54963.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBARM3BR",
@@ -10156,9 +10211,9 @@
    "url": "/muswell-mole/"
   },
   "us:1831": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1831/50014/BK4OAA__79916.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Odell's Amazing Arms Book",
    "price": "18",
    "sku": "BK4OAA",
@@ -12432,6 +12487,17 @@
    "store": "us",
    "url": "/leola-bear-musical-pull/"
   },
+  "us:2114": {
+   "badge": "Exclusive Member Access",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2114/53985/AS2BP__78085.1.jpg",
+   "in_stock": true,
+   "name": "Amuseables Sports Sparely Bowling Pin",
+   "price": "55",
+   "sku": "AS2BP",
+   "status": "Live",
+   "store": "us",
+   "url": "/amuseables-sports-sparely-bowling-pin/"
+  },
   "us:2115": {
    "badge": "Available October 14th",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2115/54040/A6ATR__42232.1.png",
@@ -12566,7 +12632,7 @@
   },
   "us:2126": {
    "badge": "Available October 14th",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2126/54080/A4MITTE__06533.1.png",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2126/54170/A4MITTE__98661.1.jpg",
    "in_stock": false,
    "name": "Amuseables Fitzsnug Mitten",
    "price": "43",
