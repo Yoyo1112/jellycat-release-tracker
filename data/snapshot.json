@@ -1,6 +1,6 @@
 {
  "count": 1325,
- "fetched_at": "2026-10-08T01:00:40+00:00",
+ "fetched_at": "2026-10-08T06:19:40+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -718,9 +718,9 @@
    "url": "/amuseables-sun-soother/"
   },
   "uk:132": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/132/15412/A2BSXMAS__45678.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Blue Spruce Christmas Tree",
    "price": "200",
    "sku": "AMUSEABLE_BLUE_SPRUCE_CHRISTMAS_TREE",
@@ -1620,9 +1620,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -2324,9 +2324,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -6482,9 +6482,9 @@
    "url": "/little-goat/"
   },
   "uk:959": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/959/19040/L3P__81705.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Little Pig",
    "price": "20",
    "sku": "L3P",
@@ -13665,9 +13665,9 @@
    "url": "/bartholomew-bear-comforter/"
   },
   "us:605": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/605/42901/CMF4BCP__62308.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Rufferty Black & Cream Puppy Comforter",
    "price": "28",
    "sku": "CMF4BCP",
