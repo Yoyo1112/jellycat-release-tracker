@@ -1,6 +1,6 @@
 {
  "count": 1331,
- "fetched_at": "2026-10-08T15:42:59+00:00",
+ "fetched_at": "2026-10-09T01:00:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1059,7 +1059,7 @@
    "url": "/persimmon-dragon/"
   },
   "uk:1477": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1477/27098/SKY2DD__29771.1.jpg",
    "in_stock": true,
    "name": "Sky Dragon",
@@ -13005,7 +13005,7 @@
    "url": "/amuseables-diamond-ring-with-personalised-bag/"
   },
   "us:301": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/301/41557/BAS3BCP__92284.1.jpg",
    "in_stock": true,
    "name": "Bashful Black & Cream Puppy",
