@@ -1,6 +1,6 @@
 {
- "count": 1331,
- "fetched_at": "2026-10-09T09:00:42+00:00",
+ "count": 1335,
+ "fetched_at": "2026-10-09T15:22:18+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1631,9 +1631,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1642,9 +1642,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -2335,9 +2335,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -2731,9 +2731,9 @@
    "url": "/amuseables-happy-boiled-egg-bag-charm/"
   },
   "uk:1840": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1840/25423/JUMPRBMP3MS__15416.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Cream Bunny 'Berry' with Personalised Red Jumper",
    "price": "39",
    "sku": "JUMPRBMP3MS",
@@ -3567,9 +3567,9 @@
    "url": "/leola-bear-with-personalised-navy-jumper/"
   },
   "uk:1982": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1982/27128/JUMPRBARM2BP__82035.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Leola Bear with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBARM2BP",
@@ -4984,6 +4984,28 @@
    "status": "Live",
    "store": "uk",
    "url": "/amuseables-boiled-egg-geek/"
+  },
+  "uk:2132": {
+   "badge": "New In",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2132/29001/PERSBLNK4BARL__06215.1.jpg",
+   "in_stock": true,
+   "name": "Personalised Leola Bear Blankie",
+   "price": "75",
+   "sku": "PERSBLNK4BARL",
+   "status": "Live",
+   "store": "uk",
+   "url": "/personalised-leola-bear-blankie/"
+  },
+  "uk:2133": {
+   "badge": "New In",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2133/29000/PERSSTH4BARL__56353.1.jpg",
+   "in_stock": true,
+   "name": "Personalised Leola Bear Soother",
+   "price": "33",
+   "sku": "PERSSTH4BARL",
+   "status": "Live",
+   "store": "uk",
+   "url": "/personalised-leola-bear-soother/"
   },
   "uk:214": {
    "badge": "Out of Stock",
@@ -12652,6 +12674,28 @@
    "store": "us",
    "url": "/amuseables-boiled-egg-chic/"
   },
+  "us:2132": {
+   "badge": "New In",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2132/54186/PERSBLNK4BARL__50445.1.jpg",
+   "in_stock": true,
+   "name": "Personalized Leola Bear Blankie",
+   "price": "0",
+   "sku": "PERSBLNK4BARL",
+   "status": "Live",
+   "store": "us",
+   "url": "/personalised-leola-bear-blankie/"
+  },
+  "us:2133": {
+   "badge": "New In",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2133/54181/PERSSTH4BARL__35910.1.jpg",
+   "in_stock": true,
+   "name": "Personalized Leola Bear Soother",
+   "price": "0",
+   "sku": "PERSSTH4BARL",
+   "status": "Live",
+   "store": "us",
+   "url": "/personalised-leola-bear-soother/"
+  },
   "us:214": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/214/48628/A6BEG__28629.1.jpg",
@@ -13060,7 +13104,7 @@
    "url": "/bashful-dino/"
   },
   "us:306": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/306/41629/BAS3FXC__35561.1.jpg",
    "in_stock": true,
    "name": "Bashful Fox Cub",
