@@ -1,6 +1,6 @@
 {
  "count": 1331,
- "fetched_at": "2026-10-09T06:21:33+00:00",
+ "fetched_at": "2026-10-09T09:00:42+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -366,7 +366,7 @@
    "url": "/amuseables-avocado/"
   },
   "uk:113": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/113/15704/A6BE__23374.1.jpg",
    "in_stock": true,
    "name": "Amuseables Happy Boiled Egg",
@@ -5206,7 +5206,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "uk:296": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/296/23613/BAS3BC__36889.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -7087,7 +7087,7 @@
    "url": "/personalised-bartholomew-bear-soother/"
   },
   "us:114": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/114/40944/A6BE__18474.1.jpg",
    "in_stock": true,
    "name": "Amuseables Happy Boiled Egg",
@@ -13313,9 +13313,9 @@
    "url": "/if-i-were-a-puppy-board-book/"
   },
   "us:395": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/395/42036/BB444HEDG__73978.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Hedgehog Book",
    "price": "15",
    "sku": "BB444HEDG",
