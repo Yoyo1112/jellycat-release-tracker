@@ -1,6 +1,6 @@
 {
  "count": 1335,
- "fetched_at": "2026-10-10T01:00:47+00:00",
+ "fetched_at": "2026-10-10T06:03:35+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -575,9 +575,9 @@
    "url": "/amuseables-birthday-cake/"
   },
   "uk:1267": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1267/20390/SETBK4WIBF__62050.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Lapin Timide Veut Grandir Livre and Bashful Cream Bunny Medium",
    "price": "36.5",
    "sku": "SETBK4WIBF",
@@ -1631,9 +1631,9 @@
    "url": "/personalised-bashful-luxe-bunny-scarlett-medium/"
   },
   "uk:1625": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1625/21322/PERSBLNK2FXC__15662.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Fox Cub Blankie",
    "price": "75",
    "sku": "PERSBLNK2FXC",
@@ -1642,9 +1642,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -2049,9 +2049,9 @@
    "url": "/yummy-mouse/"
   },
   "uk:1734": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1734/24339/BAS3PUP__04814.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Puppy Orlando",
    "price": "33",
    "sku": "BASHFUL_LUXE_PUPPY_ORLANDO",
@@ -2071,9 +2071,9 @@
    "url": "/amuseables-pair-of-olives/"
   },
   "uk:1738": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1738/24439/JUMPCBAS3PUP__49221.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Puppy Orlando with Personalised Cream Jumper",
    "price": "44",
    "sku": "JUMPCBAS3PUP",
@@ -2082,9 +2082,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-cream-jumper/"
   },
   "uk:1739": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1739/24507/JUMPNBAS3PUP__11501.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Puppy Orlando with Personalised Navy Jumper",
    "price": "44",
    "sku": "JUMPNBAS3PUP",
@@ -2335,9 +2335,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1790": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Blossom Cream Bunny 'Berry' Blankie",
    "price": "80",
    "sku": "PERSBLNK2MS",
@@ -2731,9 +2731,9 @@
    "url": "/amuseables-happy-boiled-egg-bag-charm/"
   },
   "uk:1840": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1840/25423/JUMPRBMP3MS__15416.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Cream Bunny 'Berry' with Personalised Red Jumper",
    "price": "39",
    "sku": "JUMPRBMP3MS",
@@ -4403,9 +4403,9 @@
    "url": "/rockleton/"
   },
   "uk:2068": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2068/27984/RES3DOG__43523.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Scruffles Rescue Dog",
    "price": "55",
    "sku": "RES3DOG",
@@ -4986,9 +4986,9 @@
    "url": "/amuseables-boiled-egg-geek/"
   },
   "uk:2132": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2132/29001/PERSBLNK4BARL__06215.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Leola Bear Blankie",
    "price": "75",
    "sku": "PERSBLNK4BARL",
@@ -4997,9 +4997,9 @@
    "url": "/personalised-leola-bear-blankie/"
   },
   "uk:2133": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2133/29000/PERSSTH4BARL__56353.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Leola Bear Soother",
    "price": "33",
    "sku": "PERSSTH4BARL",
@@ -9826,9 +9826,9 @@
    "url": "/amuseables-pammie-palm-tree/"
   },
   "us:1792": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1792/49797/A6CRL__01703.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Coral",
    "price": "28",
    "sku": "A6CRL",
