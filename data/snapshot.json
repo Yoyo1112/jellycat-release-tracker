@@ -1,6 +1,6 @@
 {
  "count": 1335,
- "fetched_at": "2026-10-10T06:03:35+00:00",
+ "fetched_at": "2026-10-10T09:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2049,9 +2049,9 @@
    "url": "/yummy-mouse/"
   },
   "uk:1734": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1734/24339/BAS3PUP__04814.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Puppy Orlando",
    "price": "33",
    "sku": "BASHFUL_LUXE_PUPPY_ORLANDO",
@@ -2071,9 +2071,9 @@
    "url": "/amuseables-pair-of-olives/"
   },
   "uk:1738": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1738/24439/JUMPCBAS3PUP__49221.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Puppy Orlando with Personalised Cream Jumper",
    "price": "44",
    "sku": "JUMPCBAS3PUP",
@@ -2082,9 +2082,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-cream-jumper/"
   },
   "uk:1739": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1739/24507/JUMPNBAS3PUP__11501.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Puppy Orlando with Personalised Navy Jumper",
    "price": "44",
    "sku": "JUMPNBAS3PUP",
@@ -4403,9 +4403,9 @@
    "url": "/rockleton/"
   },
   "uk:2068": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2068/27984/RES3DOG__43523.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Scruffles Rescue Dog",
    "price": "55",
    "sku": "RES3DOG",
@@ -10354,9 +10354,9 @@
    "url": "/broox-bat/"
   },
   "us:1844": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1844/50705/A6TFA__62466.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Toffee Apple",
    "price": "30",
    "sku": "A6TFA",
