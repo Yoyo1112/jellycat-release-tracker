@@ -1,6 +1,6 @@
 {
  "count": 1335,
- "fetched_at": "2026-10-10T14:31:42+00:00",
+ "fetched_at": "2026-10-11T01:00:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1961,9 +1961,9 @@
    "url": "/amuseables-rene-waffle/"
   },
   "uk:1718": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1718/24283/A4CNB__08333.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Cinnamon Bun",
    "price": "25",
    "sku": "A4CNB",
@@ -2764,9 +2764,9 @@
    "url": "/ooky-jack-o-lantern/"
   },
   "uk:1848": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Broox Bat",
    "price": "30",
    "sku": "BAT3B",
