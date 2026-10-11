@@ -1,6 +1,6 @@
 {
  "count": 1335,
- "fetched_at": "2026-10-11T06:01:03+00:00",
+ "fetched_at": "2026-10-11T09:00:40+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1851,9 +1851,9 @@
    "url": "/amuseables-pink-orchid/"
   },
   "uk:1695": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1695/24189/A4HRD__07581.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Happy Raindrop",
    "price": "20",
    "sku": "A4HRD",
@@ -2951,9 +2951,9 @@
    "url": "/festival-horse/"
   },
   "uk:1910": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1910/26510/JUNG2H__69636.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Canterneigh Pony",
    "price": "45",
    "sku": "JUNG2H",
