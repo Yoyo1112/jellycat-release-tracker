@@ -1,6 +1,6 @@
 {
- "count": 1335,
- "fetched_at": "2026-10-12T06:11:27+00:00",
+ "count": 1336,
+ "fetched_at": "2026-10-12T09:00:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2005,9 +2005,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "uk:1725": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1725/24248/BAS3BEBB__56478.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "40",
    "sku": "BAS3BEBB",
@@ -2093,9 +2093,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -5006,6 +5006,17 @@
    "status": "Live",
    "store": "uk",
    "url": "/personalised-leola-bear-soother/"
+  },
+  "uk:2135": {
+   "badge": "Available 26th October",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2135/29018/A4PEA__05056.1.jpg",
+   "in_stock": false,
+   "name": "Amuseables Crunchfall Pecan Pie",
+   "price": "28",
+   "sku": "A4PEA",
+   "status": "Coming Soon",
+   "store": "uk",
+   "url": "/amuseables-crunchfall-pecan-pie/"
   },
   "uk:214": {
    "badge": "Out of Stock",
