@@ -1,6 +1,6 @@
 {
  "count": 1348,
- "fetched_at": "2026-10-22T01:00:52+00:00",
+ "fetched_at": "2026-10-22T05:03:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -729,9 +729,9 @@
    "url": "/amuseables-blue-spruce-christmas-tree/"
   },
   "uk:1354": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1354/20764/STH4B__16750.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Bunny Soother",
    "price": "28",
    "sku": "BASHFUL_BUNNY_SOOTHERS",
@@ -2764,9 +2764,9 @@
    "url": "/blossom-beige-bunny-petal-with-personalised-red-jumper/"
   },
   "uk:1842": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1842/25493/OOK3JOL__63600.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ooky Jack O Lantern",
    "price": "23",
    "sku": "OOK3JOL",
@@ -13566,9 +13566,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "us:410": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/410/42099/BB444ZEB__06021.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I were a Zebra Board Book",
    "price": "15",
    "sku": "BB444ZEB",
