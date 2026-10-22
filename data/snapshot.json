@@ -1,6 +1,6 @@
 {
  "count": 1348,
- "fetched_at": "2026-10-22T05:03:48+00:00",
+ "fetched_at": "2026-10-22T09:00:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2764,9 +2764,9 @@
    "url": "/blossom-beige-bunny-petal-with-personalised-red-jumper/"
   },
   "uk:1842": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1842/25493/OOK3JOL__63600.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ooky Jack O Lantern",
    "price": "23",
    "sku": "OOK3JOL",
