@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-23T05:03:47+00:00",
+ "fetched_at": "2026-10-23T09:00:50+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -520,9 +520,9 @@
    "url": "/ricky-rain-frog/"
   },
   "uk:119": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/119/15547/A2SUN__32587.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sun",
    "price": "28",
    "sku": "AMUSEABLE_SUN",
@@ -5943,9 +5943,9 @@
    "url": "/otto-klein-aber-oho-buch/"
   },
   "uk:501": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/501/17156/BK4OSC__32771.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Otto's Snowy Christmas Book",
    "price": "11.5",
    "sku": "BK4OSC",
