@@ -1,6 +1,6 @@
 {
  "count": 1349,
- "fetched_at": "2026-10-24T01:00:45+00:00",
+ "fetched_at": "2026-10-24T04:48:39+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1422,9 +1422,9 @@
    "url": "/bashful-fox-cub-blankie/"
   },
   "uk:1596": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1596/23698/BLNK2GF__55199.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Giraffe Blankie",
    "price": "70",
    "sku": "BLNK2GF",
@@ -2764,9 +2764,9 @@
    "url": "/blossom-beige-bunny-petal-with-personalised-red-jumper/"
   },
   "uk:1842": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1842/25493/OOK3JOL__63600.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ooky Jack O Lantern",
    "price": "23",
    "sku": "OOK3JOL",
@@ -2775,9 +2775,9 @@
    "url": "/ooky-jack-o-lantern/"
   },
   "uk:1848": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Broox Bat",
    "price": "30",
    "sku": "BAT3B",
@@ -5580,9 +5580,9 @@
    "url": "/if-i-were-a-bunny-board-book/"
   },
   "uk:385": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/385/16745/BB444BEE__41642.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Bee Board Book",
    "price": "10",
    "sku": "BB444BEE",
@@ -5734,9 +5734,9 @@
    "url": "/if-i-were-a-tiger-board-book/"
   },
   "uk:414": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/414/16843/BB4ELUS__67203.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were An Elephant Board Book",
    "price": "10",
    "sku": "BB4ELUS",
@@ -5888,9 +5888,9 @@
    "url": "/haschen-schnuck-bleibt-wach-buch/"
   },
   "uk:490": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/490/17123/BK4MER__04174.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Merry Mouse's Christmas Eve Book",
    "price": "10",
    "sku": "BK4MER",
@@ -5965,9 +5965,9 @@
    "url": "/mitzi-reindeers-dream-book/"
   },
   "uk:511": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/511/17186/BK4TTF__06689.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "A Tale Of Two Friends Book",
    "price": "13.5",
    "sku": "BK4TTF",
@@ -9903,9 +9903,9 @@
    "url": "/budgeby-parrot/"
   },
   "us:1798": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1798/49813/WHL3SH__60321.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Gobfrey Whale Shark",
    "price": "38",
    "sku": "WHL3SH",
