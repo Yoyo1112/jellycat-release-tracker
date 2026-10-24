@@ -1,6 +1,6 @@
 {
- "count": 1350,
- "fetched_at": "2026-10-23T13:35:56+00:00",
+ "count": 1349,
+ "fetched_at": "2026-10-24T01:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1015,7 +1015,7 @@
    "url": "/bartholomew-bear-backpack/"
   },
   "uk:1454": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1454/23636/BAS3JUN__40899.1.jpg",
    "in_stock": true,
    "name": "Bashful Luxe Bunny Juniper",
@@ -1081,9 +1081,9 @@
    "url": "/brooke-otter/"
   },
   "uk:1483": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1483/25062/A6CHR__94500.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cherry",
    "price": "23",
    "sku": "A6CHR",
@@ -1377,6 +1377,17 @@
    "store": "uk",
    "url": "/bashful-puppy-decoration/"
   },
+  "uk:1569": {
+   "badge": "Out of Stock",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1569/17054/BK4ELD__75667.1.jpg",
+   "in_stock": false,
+   "name": "Eldo Elf and the Patchwork Bashful Bunny Book",
+   "price": "10",
+   "sku": "BK4ELD",
+   "status": "Live",
+   "store": "uk",
+   "url": "/eldo-elf-and-the-patchwork-bashful-bunny-book/"
+  },
   "uk:158": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/158/15520/A2RB__36251.1.jpg",
@@ -1642,9 +1653,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -2126,9 +2137,9 @@
    "url": "/wonda-wombat/"
   },
   "uk:1750": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1750/24511/OLV2DD__71572.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Malachy Dragon",
    "price": "58",
    "sku": "OLV2DD",
@@ -2368,7 +2379,7 @@
    "url": "/amuseables-parmesan/"
   },
   "uk:1795": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1795/24673/A2CAM__42031.1.jpg",
    "in_stock": true,
    "name": "Amuseables Camembert",
@@ -2763,17 +2774,6 @@
    "store": "uk",
    "url": "/ooky-jack-o-lantern/"
   },
-  "uk:1843": {
-   "badge": "Out of Stock",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1843/25477/A6SKPL__52410.1.jpg",
-   "in_stock": false,
-   "name": "Amuseables Skull Planter",
-   "price": "30",
-   "sku": "A6SKPL",
-   "status": "Live",
-   "store": "uk",
-   "url": "/amuseables-skull-planter/"
-  },
   "uk:1848": {
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
@@ -2817,17 +2817,6 @@
    "status": "Live",
    "store": "uk",
    "url": "/bashful-beige-bunny-decoration/"
-  },
-  "uk:1864": {
-   "badge": "Out of Stock",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1864/25823/A4MTNR__99313.1.png",
-   "in_stock": false,
-   "name": "Amuseables Mitten",
-   "price": "30",
-   "sku": "A4MTNR",
-   "status": "Live",
-   "store": "uk",
-   "url": "/amuseables-mitten/"
   },
   "uk:1871": {
    "badge": "Out of Stock",
@@ -6086,9 +6075,9 @@
    "url": "/crispin-crab/"
   },
   "uk:596": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/596/17585/CHP3SG__27775.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Chip Seagull",
    "price": "30",
    "sku": "CHP3SG",
@@ -7802,9 +7791,9 @@
    "url": "/yummy-bear/"
   },
   "us:1439": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1439/46417/YUM6DK__22491.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Duckling",
    "price": "23",
    "sku": "YUM6DK",
