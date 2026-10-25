@@ -1,6 +1,6 @@
 {
  "count": 1349,
- "fetched_at": "2026-10-25T04:57:04+00:00",
+ "fetched_at": "2026-10-25T09:00:44+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2137,9 +2137,9 @@
    "url": "/wonda-wombat/"
   },
   "uk:1750": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1750/24511/OLV2DD__71572.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Malachy Dragon",
    "price": "58",
    "sku": "OLV2DD",
