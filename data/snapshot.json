@@ -1,6 +1,6 @@
 {
  "count": 1349,
- "fetched_at": "2026-10-25T01:00:42+00:00",
+ "fetched_at": "2026-10-25T04:57:04+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -190,9 +190,9 @@
    "url": "/personalised-bashful-silver-bunny-medium/"
   },
   "uk:1085": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1085/27440/PERSBAS3BTP__59318.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Tulip Bunny Medium",
    "price": "30",
    "sku": "PERSBAS3BTP",
@@ -564,9 +564,9 @@
    "url": "/lapin-timide-et-ses-petites-aventures-and-bashful-beige-bunny/"
   },
   "uk:125": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/125/28685/A2BC__61634.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Birthday Cake",
    "price": "30",
    "sku": "A2BC",
@@ -2137,9 +2137,9 @@
    "url": "/wonda-wombat/"
   },
   "uk:1750": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1750/24511/OLV2DD__71572.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Malachy Dragon",
    "price": "58",
    "sku": "OLV2DD",
@@ -5294,9 +5294,9 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny",
    "price": "25",
    "sku": "BASHFUL_BUNNY_TULIP_PINK",
@@ -6306,9 +6306,9 @@
    "url": "/bashful-silver-bunny-with-personalised-cream-jumper/"
   },
   "uk:806": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/806/27438/JUMPCBAS3BTP__63358.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny with Personalised Cream Jumper",
    "price": "36",
    "sku": "JUMPCBAS3BTP",
@@ -6427,9 +6427,9 @@
    "url": "/bashful-silver-bunny-with-personalised-navy-jumper/"
   },
   "uk:856": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/856/27433/JUMPNBAS3BTP__97461.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny with Personalised Navy Jumper",
    "price": "36",
    "sku": "JUMPNBAS3BTP",
@@ -6548,9 +6548,9 @@
    "url": "/bashful-silver-bunny-with-personalised-red-jumper/"
   },
   "uk:904": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/904/28817/JUMPRBAS3BTP__51297.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBAS3BTP",
