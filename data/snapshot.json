@@ -1,6 +1,6 @@
 {
  "count": 1349,
- "fetched_at": "2026-10-24T12:46:41+00:00",
+ "fetched_at": "2026-10-25T01:00:42+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -498,9 +498,9 @@
    "url": "/amuseables-pretzel/"
   },
   "uk:118": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/118/28501/A2RBC__79639.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "30",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -2137,9 +2137,9 @@
    "url": "/wonda-wombat/"
   },
   "uk:1750": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1750/24511/OLV2DD__71572.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Malachy Dragon",
    "price": "58",
    "sku": "OLV2DD",
@@ -12303,7 +12303,7 @@
   "us:2089": {
    "badge": "Coming Soon",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2089/53749/A4DBBC__11846.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Disco Ball Bag Charm",
    "price": "45",
    "sku": "A4DBBC",
@@ -13577,9 +13577,9 @@
    "url": "/if-i-were-a-seahorse-board-book/"
   },
   "us:410": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/410/42099/BB444ZEB__06021.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I were a Zebra Board Book",
    "price": "15",
    "sku": "BB444ZEB",
