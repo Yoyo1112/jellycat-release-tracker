@@ -1,6 +1,6 @@
 {
  "count": 1349,
- "fetched_at": "2026-10-26T01:00:49+00:00",
+ "fetched_at": "2026-10-26T05:00:34+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1873,9 +1873,9 @@
    "url": "/amuseables-happy-raindrop/"
   },
   "uk:1697": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1697/24119/A4SCLBC__82925.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Storm Cloud Bag Charm",
    "price": "23",
    "sku": "A4SCLBC",
@@ -2016,9 +2016,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "uk:1725": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1725/24248/BAS3BEBB__56478.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "40",
    "sku": "BAS3BEBB",
@@ -2104,9 +2104,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -4073,9 +4073,9 @@
    "url": "/pinchsnap-crab/"
   },
   "uk:2034": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2034/27756/KO4C__61716.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Fancy Carp",
    "price": "30",
    "sku": "KO4C",
@@ -7296,9 +7296,9 @@
    "url": "/ricky-rain-frog-bag-charm/"
   },
   "us:119": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/119/53704/A2RBC__54437.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "38",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
