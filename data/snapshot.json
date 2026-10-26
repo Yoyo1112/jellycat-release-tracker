@@ -1,6 +1,6 @@
 {
  "count": 1349,
- "fetched_at": "2026-10-26T05:00:34+00:00",
+ "fetched_at": "2026-10-26T09:00:50+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1873,9 +1873,9 @@
    "url": "/amuseables-happy-raindrop/"
   },
   "uk:1697": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1697/24119/A4SCLBC__82925.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Storm Cloud Bag Charm",
    "price": "23",
    "sku": "A4SCLBC",
@@ -2775,9 +2775,9 @@
    "url": "/ooky-jack-o-lantern/"
   },
   "uk:1848": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Broox Bat",
    "price": "30",
    "sku": "BAT3B",
@@ -13335,9 +13335,9 @@
    "url": "/bartholomew-bear-bag-charm/"
   },
   "us:319": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/319/48824/BAR4RR__55388.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear Ring Rattle",
    "price": "23",
    "sku": "BAR4RR",
