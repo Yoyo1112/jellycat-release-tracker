@@ -1,6 +1,6 @@
 {
  "count": 1349,
- "fetched_at": "2026-10-25T13:14:35+00:00",
+ "fetched_at": "2026-10-26T01:00:49+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -13368,9 +13368,9 @@
    "url": "/bartholomew-bear/"
   },
   "us:324": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/324/51480/BARM2BR__55068.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear ‘Bathrobe’",
    "price": "50",
    "sku": "BARM2BR",
