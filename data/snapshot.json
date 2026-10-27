@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-27T09:00:46+00:00",
+ "fetched_at": "2026-10-27T14:40:21+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -6779,9 +6779,9 @@
    "url": "/munro-scottie-dog-bag-charm/"
   },
   "us:1040": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1040/44655/OD2OC__39803.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Odell Octopus",
    "price": "33",
    "sku": "OCTOPUS_ODELL",
@@ -6812,9 +6812,9 @@
    "url": "/personalised-bashful-cream-bunny-huge/"
   },
   "us:1073": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1073/51583/PERSBAH2BN__68507.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Bashful Beige Bunny Huge",
    "price": "88",
    "sku": "PERSBAH2BN",
@@ -7296,9 +7296,9 @@
    "url": "/ricky-rain-frog-bag-charm/"
   },
   "us:119": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/119/53704/A2RBC__54437.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "38",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -8484,9 +8484,9 @@
    "url": "/eldo-elf/"
   },
   "us:1595": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1595/50973/PNS3SB__59983.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Peanut Penguin Snowboarding",
    "price": "33",
    "sku": "PNS3SB",
@@ -11245,9 +11245,9 @@
    "url": "/wheat-flufflet-bunny-little/"
   },
   "us:1982": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1982/52331/BP4MAG__91043.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Thistlepop Blossom Bunny Bag Charm",
    "price": "30",
    "sku": "BP4MAG",
@@ -13379,9 +13379,9 @@
    "url": "/bartholomew-bear/"
   },
   "us:324": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/324/51480/BARM2BR__55068.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bartholomew Bear ‘Bathrobe’",
    "price": "50",
    "sku": "BARM2BR",
