@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-28T09:00:50+00:00",
+ "fetched_at": "2026-10-28T15:13:12+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -80,7 +80,7 @@
    "url": "/munro-scottie-dog-bag-charm/"
   },
   "uk:1039": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1039/19366/OD2OC__35790.1.jpg",
    "in_stock": true,
    "name": "Odell Octopus",
@@ -410,9 +410,9 @@
    "url": "/personalised-amuseables-sun-soother/"
   },
   "uk:1134": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1134/19795/PERSSO4WIL__13357.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Willow Soother",
    "price": "55",
    "sku": "PERSSO4WIL",
@@ -498,9 +498,9 @@
    "url": "/amuseables-pretzel/"
   },
   "uk:118": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/118/28501/A2RBC__79639.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "30",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -630,7 +630,7 @@
    "url": "/smudge-bear/"
   },
   "uk:1282": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1282/20469/SMG2EL__51618.1.jpg",
    "in_stock": true,
    "name": "Smudge Elephant",
@@ -685,9 +685,9 @@
    "url": "/snow-dragon/"
   },
   "uk:1302": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1302/20608/SO4WIL__21417.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Soother",
    "price": "50",
    "sku": "BASHFUL_LUXE_BUNNY_SOOTHERS",
@@ -718,9 +718,9 @@
    "url": "/amuseables-sun-soother/"
   },
   "uk:132": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/132/15412/A2BSXMAS__45678.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Blue Spruce Christmas Tree",
    "price": "200",
    "sku": "AMUSEABLE_BLUE_SPRUCE_CHRISTMAS_TREE",
@@ -1422,9 +1422,9 @@
    "url": "/bashful-fox-cub-blankie/"
   },
   "uk:1596": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1596/23698/BLNK2GF__55199.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Giraffe Blankie",
    "price": "70",
    "sku": "BLNK2GF",
@@ -1499,9 +1499,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-cream-jumper/"
   },
   "uk:1609": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1609/21187/JUMPCBAS3ROS__17652.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3ROS",
@@ -1543,9 +1543,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-navy-jumper/"
   },
   "uk:1614": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1614/21207/JUMPNBAS3ROS__71045.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3ROS",
@@ -1587,9 +1587,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-red-jumper/"
   },
   "uk:1619": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1619/28757/JUMPRBAS3ROS__99358.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3ROS",
@@ -1653,9 +1653,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -2852,9 +2852,9 @@
    "url": "/amuseables-letter-to-santa/"
   },
   "uk:1881": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1881/25996/BK4SAC__97660.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Sacha and the Most Wonderful Thing Book",
    "price": "10",
    "sku": "BK4SAC",
@@ -2863,9 +2863,9 @@
    "url": "/sacha-and-the-most-wonderful-thing-book/"
   },
   "uk:1883": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1883/26000/BK4PPP__10580.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Peanut Penguin’s Perfect Present Book",
    "price": "10",
    "sku": "BK4PPP",
@@ -5118,7 +5118,7 @@
    "url": "/amuseables-coffee-bean/"
   },
   "uk:220": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/220/23414/A6COFC__90352.1.jpg",
    "in_stock": true,
    "name": "Amuseables Coffee Cup",
@@ -5404,9 +5404,9 @@
    "url": "/bashful-luxe-bunny-luna/"
   },
   "uk:308": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/308/23654/BAS3ROS__97052.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Rosa",
    "price": "40",
    "sku": "BASHFUL_LUXE_ROSA",
@@ -5415,9 +5415,9 @@
    "url": "/bashful-luxe-bunny-rosa/"
   },
   "uk:312": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/312/23672/BAS3WIL__53180.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Willow",
    "price": "40",
    "sku": "BASHFUL_LUXE_WILLOW",
@@ -6207,9 +6207,9 @@
    "url": "/higgledy-piggledy-old-spot/"
   },
   "uk:780": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/780/18278/J3SA__84984.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Jolly Santa",
    "price": "45",
    "sku": "JOLLY_SANTA",
