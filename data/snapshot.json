@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-28T05:56:20+00:00",
+ "fetched_at": "2026-10-28T09:00:50+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -234,9 +234,9 @@
    "url": "/personalised-bashful-luxe-bunny-rosa-medium/"
   },
   "uk:1101": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1101/19653/PERSBAS3VB__97471.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Viola Bunny Medium",
    "price": "30",
    "sku": "PERSBAS3VB",
@@ -2049,9 +2049,9 @@
    "url": "/mooliet-cow/"
   },
   "uk:1729": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1729/24308/YUM6MS__59097.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Mouse",
    "price": "18",
    "sku": "YUM6MS",
@@ -5547,9 +5547,9 @@
    "url": "/bashful-twinkle-bunny/"
   },
   "uk:374": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/374/16525/BAS3VB__16775.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Viola Bunny",
    "price": "25",
    "sku": "BASHFUL_BUNNY_VIOLA",
@@ -6328,9 +6328,9 @@
    "url": "/bashful-lilac-bunny-with-personalised-cream-jumper/"
   },
   "uk:833": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/833/18506/JUMPCBAS3VB__62025.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Viola Bunny with Personalised Cream Jumper",
    "price": "36",
    "sku": "JUMPCBAS3VB",
@@ -6449,9 +6449,9 @@
    "url": "/bashful-lilac-bunny-with-personalised-navy-jumper/"
   },
   "uk:881": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/881/18715/JUMPNBAS3VB__66342.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Viola Bunny with Personalised Navy Jumper",
    "price": "36",
    "sku": "JUMPNBAS3VB",
@@ -6570,9 +6570,9 @@
    "url": "/bashful-lilac-bunny-with-personalised-red-jumper/"
   },
   "uk:931": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/931/18931/JUMPRBAS3VB__26823.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Viola Bunny with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBAS3VB",
