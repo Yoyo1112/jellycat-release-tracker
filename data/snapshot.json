@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-27T14:40:21+00:00",
+ "fetched_at": "2026-10-28T01:00:51+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -916,9 +916,9 @@
    "url": "/yummy-bunny/"
   },
   "uk:1433": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1433/21096/YUM6DK__25040.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Duckling",
    "price": "18",
    "sku": "YUM6DK",
@@ -1972,9 +1972,9 @@
    "url": "/amuseables-rene-waffle/"
   },
   "uk:1718": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1718/24283/A4CNB__08333.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cinnamon Bun",
    "price": "25",
    "sku": "A4CNB",
@@ -2016,9 +2016,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "uk:1725": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1725/24248/BAS3BEBB__56478.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "40",
    "sku": "BAS3BEBB",
@@ -2049,9 +2049,9 @@
    "url": "/mooliet-cow/"
   },
   "uk:1729": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1729/24308/YUM6MS__59097.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Yummy Mouse",
    "price": "18",
    "sku": "YUM6MS",
@@ -2104,9 +2104,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -5701,9 +5701,9 @@
    "url": "/if-i-were-an-owl-board-book/"
   },
   "uk:403": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/403/16799/BB444PDA__40302.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Panda Board Book",
    "price": "10",
    "sku": "BB444PDA",
@@ -6779,9 +6779,9 @@
    "url": "/munro-scottie-dog-bag-charm/"
   },
   "us:1040": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1040/44655/OD2OC__39803.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Odell Octopus",
    "price": "33",
    "sku": "OCTOPUS_ODELL",
@@ -6790,9 +6790,9 @@
    "url": "/odell-octopus/"
   },
   "us:1059": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1059/48401/OT3SD__62145.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Otto Sausage Dog",
    "price": "35",
    "sku": "OTTO_SAUSAGE_DOG",
@@ -7153,9 +7153,9 @@
    "url": "/personalised-bashful-beige-bunny-soother/"
   },
   "us:1139": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1139/45091/PERSSTH4BAR__97357.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Bartholomew Bear Soother",
    "price": "41",
    "sku": "PERSSTH4BAR",
@@ -7296,9 +7296,9 @@
    "url": "/ricky-rain-frog-bag-charm/"
   },
   "us:119": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/119/53704/A2RBC__54437.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "38",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -8484,9 +8484,9 @@
    "url": "/eldo-elf/"
   },
   "us:1595": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1595/50973/PNS3SB__59983.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Peanut Penguin Snowboarding",
    "price": "33",
    "sku": "PNS3SB",
@@ -9210,9 +9210,9 @@
    "url": "/glenny-goat/"
   },
   "us:1715": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1715/49412/HAP3BEE__87313.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Albee Bee",
    "price": "30",
    "sku": "HAP3BEE",
@@ -11245,9 +11245,9 @@
    "url": "/wheat-flufflet-bunny-little/"
   },
   "us:1982": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1982/52331/BP4MAG__91043.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Thistlepop Blossom Bunny Bag Charm",
    "price": "30",
    "sku": "BP4MAG",
@@ -12103,7 +12103,7 @@
    "url": "/amuseables-sports-fowla-red-card/"
   },
   "us:2070": {
-   "badge": "Best Seller",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2070/53319/AS2FMEX__93360.1.png",
    "in_stock": true,
    "name": "Amuseables Mexico Soccer Ball",
@@ -12136,7 +12136,7 @@
    "url": "/amuseables-football-usa/"
   },
   "us:2073": {
-   "badge": "",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2073/53331/AS2FCAN__70688.1.png",
    "in_stock": true,
    "name": "Amuseables Canada Soccer Ball",
@@ -12147,7 +12147,7 @@
    "url": "/amuseables-football-canada/"
   },
   "us:2074": {
-   "badge": "",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2074/53350/BARB4HB__66773.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear Handbag",
@@ -13379,9 +13379,9 @@
    "url": "/bartholomew-bear/"
   },
   "us:324": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/324/51480/BARM2BR__55068.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear ‘Bathrobe’",
    "price": "50",
    "sku": "BARM2BR",
