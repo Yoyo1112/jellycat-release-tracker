@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-29T09:00:50+00:00",
+ "fetched_at": "2026-10-29T15:18:10+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -476,7 +476,7 @@
    "url": "/personalised-bashful-silver-bunny-soother/"
   },
   "uk:1149": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1149/19857/PNM3PN__14406.1.jpg",
    "in_stock": true,
    "name": "Peanut Penguin",
@@ -509,9 +509,9 @@
    "url": "/amuseables-rainbow-birthday-cake/"
   },
   "uk:1183": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1183/26356/RR3F__33795.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ricky Rain Frog",
    "price": "25",
    "sku": "RICKY_RAIN_FROG",
