@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-29T01:00:44+00:00",
+ "fetched_at": "2026-10-29T06:01:52+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1125,9 +1125,9 @@
    "url": "/amuseables-peach/"
   },
   "uk:1494": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1494/17027/BK4BPLY__72916.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Puppy Loves You Book",
    "price": "18",
    "sku": "BK4BPLY",
@@ -2049,9 +2049,9 @@
    "url": "/mooliet-cow/"
   },
   "uk:1729": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1729/24308/YUM6MS__59097.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Yummy Mouse",
    "price": "18",
    "sku": "YUM6MS",
@@ -5547,9 +5547,9 @@
    "url": "/bashful-twinkle-bunny/"
   },
   "uk:374": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/374/16525/BAS3VB__16775.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Viola Bunny",
    "price": "25",
    "sku": "BASHFUL_BUNNY_VIOLA",
@@ -12048,9 +12048,9 @@
    "url": "/bartholomew-bear-sun-outfit/"
   },
   "us:2065": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2065/53283/R3RMON__09719.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Rockleton",
    "price": "75",
    "sku": "R3RMON",
@@ -13038,9 +13038,9 @@
    "url": "/amuseables-coffee-to-go-bag-charm/"
   },
   "us:275": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/275/48744/AS2BK__23392.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sports Basketball",
    "price": "60",
    "sku": "AS2BK",
@@ -13093,9 +13093,9 @@
    "url": "/amuseables-sports-tennis-bag-charm/"
   },
   "us:285": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/285/48784/AS4UKFBC__23178.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sports Soccer Bag Charm",
    "price": "30",
    "sku": "AS4UKFBC",
@@ -13940,9 +13940,9 @@
    "url": "/bartholomew-bear-comforter/"
   },
   "us:605": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/605/42901/CMF4BCP__62308.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Rufferty Black & Cream Puppy Comforter",
    "price": "28",
    "sku": "CMF4BCP",
