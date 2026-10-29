@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-28T15:13:12+00:00",
+ "fetched_at": "2026-10-29T01:00:44+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1499,9 +1499,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-cream-jumper/"
   },
   "uk:1609": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1609/21187/JUMPCBAS3ROS__17652.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Rosa with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3ROS",
@@ -1543,9 +1543,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-navy-jumper/"
   },
   "uk:1614": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1614/21207/JUMPNBAS3ROS__71045.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Rosa with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3ROS",
@@ -1587,9 +1587,9 @@
    "url": "/bashful-luxe-bunny-luna-with-personalised-red-jumper/"
   },
   "uk:1619": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1619/28757/JUMPRBAS3ROS__99358.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Rosa with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3ROS",
@@ -5404,9 +5404,9 @@
    "url": "/bashful-luxe-bunny-luna/"
   },
   "uk:308": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/308/23654/BAS3ROS__97052.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Rosa",
    "price": "40",
    "sku": "BASHFUL_LUXE_ROSA",
@@ -5734,9 +5734,9 @@
    "url": "/if-i-were-a-tiger-board-book/"
   },
   "uk:414": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/414/16843/BB4ELUS__67203.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were An Elephant Board Book",
    "price": "10",
    "sku": "BB4ELUS",
@@ -6889,9 +6889,9 @@
    "url": "/personalised-bashful-silver-bunny-medium/"
   },
   "us:1086": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1086/52652/PERSBAS3BTP__56712.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Bashful Tulip Pink Bunny Medium",
    "price": "41",
    "sku": "PERSBAS3BTP",
@@ -7329,9 +7329,9 @@
    "url": "/amuseables-sun/"
   },
   "us:1209": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1209/45398/SETBB444BB__00566.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were a Bunny Book & Bashful Beige Bunny Small",
    "price": "39",
    "sku": "SETBB444BB",
@@ -8319,9 +8319,9 @@
    "url": "/amuseables-mona-macaron/"
   },
   "us:1533": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1533/48686/A6MACF__64844.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Mia Macaron",
    "price": "25",
    "sku": "A6MACF",
@@ -9375,9 +9375,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "us:1736": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1736/49514/BAS3BEBB__62852.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "50",
    "sku": "BAS3BEBB",
@@ -9507,9 +9507,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-red-jumper/"
   },
   "us:1750": {
-   "badge": "Out of Stock",
+   "badge": "Personalize Me",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1750/49658/PERSBAS3BEBB__23361.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalized Bashful Beige Bunny 'Birthday'",
    "price": "58",
    "sku": "PERSBAS3BEBB",
@@ -11311,9 +11311,9 @@
    "url": "/sky-dragon-bag-charm/"
   },
   "us:1988": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1988/52695/A4TEAB__46847.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Steepy Tea Bag",
    "price": "33",
    "sku": "A4TEAB",
@@ -12048,9 +12048,9 @@
    "url": "/bartholomew-bear-sun-outfit/"
   },
   "us:2065": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2065/53283/R3RMON__09719.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Rockleton",
    "price": "75",
    "sku": "R3RMON",
@@ -13038,9 +13038,9 @@
    "url": "/amuseables-coffee-to-go-bag-charm/"
   },
   "us:275": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/275/48744/AS2BK__23392.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Sports Basketball",
    "price": "60",
    "sku": "AS2BK",
@@ -13093,9 +13093,9 @@
    "url": "/amuseables-sports-tennis-bag-charm/"
   },
   "us:285": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/285/48784/AS4UKFBC__23178.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Sports Soccer Bag Charm",
    "price": "30",
    "sku": "AS4UKFBC",
@@ -13170,9 +13170,9 @@
    "url": "/bashful-blue-bunny/"
   },
   "us:296": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/296/51993/BAS3BTP__27398.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny",
    "price": "33",
    "sku": "BASHFUL_BUNNY_TULIP_PINK",
@@ -13940,9 +13940,9 @@
    "url": "/bartholomew-bear-comforter/"
   },
   "us:605": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/605/42901/CMF4BCP__62308.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Rufferty Black & Cream Puppy Comforter",
    "price": "28",
    "sku": "CMF4BCP",
@@ -14358,9 +14358,9 @@
    "url": "/bashful-silver-bunny-with-personalised-navy-jumper/"
   },
   "us:857": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/857/52648/JUMPNBAS3BTP__08793.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny with Personalized Navy Jumper",
    "price": "45",
    "sku": "JUMPNBAS3BTP",
@@ -14556,9 +14556,9 @@
    "url": "/bashful-silver-bunny-with-personalised-red-jumper/"
   },
   "us:905": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/905/52658/JUMPRBAS3BTP__87607.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny with Personalized Red Jumper",
    "price": "45",
    "sku": "JUMPRBAS3BTP",
