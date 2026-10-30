@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-30T01:00:49+00:00",
+ "fetched_at": "2026-10-30T06:02:04+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -9287,9 +9287,9 @@
    "url": "/amuseables-cherries-bag-charm/"
   },
   "us:1726": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1726/49519/A4CNB__89999.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Cinnamon Bun",
    "price": "30",
    "sku": "A4CNB",
