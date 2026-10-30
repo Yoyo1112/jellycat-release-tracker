@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-30T09:00:47+00:00",
+ "fetched_at": "2026-10-30T15:06:56+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -498,9 +498,9 @@
    "url": "/amuseables-pretzel/"
   },
   "uk:118": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/118/28501/A2RBC__79639.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "30",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -9287,9 +9287,9 @@
    "url": "/amuseables-cherries-bag-charm/"
   },
   "us:1726": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1726/49519/A4CNB__89999.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cinnamon Bun",
    "price": "30",
    "sku": "A4CNB",
@@ -12070,9 +12070,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "us:2067": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2067/53253/YEN2YET__06443.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bretti Yeti",
    "price": "65",
    "sku": "YEN2YET",
