@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-29T15:18:10+00:00",
+ "fetched_at": "2026-10-30T01:00:49+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -509,9 +509,9 @@
    "url": "/amuseables-rainbow-birthday-cake/"
   },
   "uk:1183": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1183/26356/RR3F__33795.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ricky Rain Frog",
    "price": "25",
    "sku": "RICKY_RAIN_FROG",
@@ -1125,9 +1125,9 @@
    "url": "/amuseables-peach/"
   },
   "uk:1494": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1494/17027/BK4BPLY__72916.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Puppy Loves You Book",
    "price": "18",
    "sku": "BK4BPLY",
@@ -3787,9 +3787,9 @@
    "url": "/zumblebi-alien/"
   },
   "uk:2008": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2008/27356/BAS3COS__74209.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Zodihop Luxe Bunny",
    "price": "40",
    "sku": "BAS3COS",
@@ -3875,9 +3875,9 @@
    "url": "/fuddlewuddle-elephant/"
   },
   "uk:2016": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2016/27604/JUMPCBAS3COS__73962.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Zodihop Luxe Bunny with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3COS",
@@ -3919,9 +3919,9 @@
    "url": "/personalised-cream-bunny-with-star/"
   },
   "uk:2020": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2020/27600/JUMPNBAS3COS__04438.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Zodihop Luxe Bunny with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3COS",
@@ -3930,9 +3930,9 @@
    "url": "/zodihop-luxe-bunny-with-personalised-navy-jumper/"
   },
   "uk:2021": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2021/27625/PERSBAS3COS__02108.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Zodihop Luxe Bunny",
    "price": "45",
    "sku": "PERSBAS3COS",
@@ -3941,9 +3941,9 @@
    "url": "/personalised-zodihop-luxe-bunny/"
   },
   "uk:2022": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2022/27612/JUMPRBAS3COS__25767.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Zodihop Luxe Bunny with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3COS",
@@ -6241,7 +6241,7 @@
   },
   "uk:796": {
    "badge": "Personalise Me",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/796/18341/JUMPCBARM3BR__29680.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/796/29101/JUMPCBARM3BR__47410.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear with Personalised Cream Jumper",
    "price": "36",
@@ -6494,7 +6494,7 @@
   },
   "uk:895": {
    "badge": "Personalise Me",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/895/28792/JUMPRBAS3B__52043.1.png",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/895/29095/JUMPRBAS3B__73247.1.png",
    "in_stock": true,
    "name": "Bashful Beige Bunny with Personalised Red Jumper",
    "price": "36",
@@ -11982,7 +11982,7 @@
    "url": "/amuseables-zapperty-lightning-bolt/"
   },
   "us:2059": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2059/53277/A4SMR__14651.1.png",
    "in_stock": true,
    "name": "Amuseables S'mores",
@@ -11993,7 +11993,7 @@
    "url": "/amuseables-smores/"
   },
   "us:2060": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2060/53259/A4WDF__63959.1.png",
    "in_stock": true,
    "name": "Amuseables Mulshi Woodland Floor",
@@ -12004,7 +12004,7 @@
    "url": "/amuseables-mulshi-woodland-floor/"
   },
   "us:2061": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2061/53289/A6PAC__11717.1.png",
    "in_stock": true,
    "name": "Amuseables Ort & Tum Acorns",
@@ -12015,7 +12015,7 @@
    "url": "/amuseables-ort-tum-acorns/"
   },
   "us:2062": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2062/53403/A6PBF__34799.1.jpg",
    "in_stock": true,
    "name": "Amuseables Peanut ‘Yeti’",
@@ -12026,7 +12026,7 @@
    "url": "/amuseables-peanut-yeti-outfit/"
   },
   "us:2063": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2063/53246/BARM2OD__16695.1.png",
    "in_stock": true,
    "name": "Bartholomew Bear ‘Hiking’",
@@ -12059,7 +12059,7 @@
    "url": "/rockleton/"
   },
   "us:2066": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2066/53406/RA3CN__70121.1.jpg",
    "in_stock": true,
    "name": "Trixiwoo Raccoon",
@@ -12092,7 +12092,7 @@
    "url": "/amuseables-sports-warni-yellow-card/"
   },
   "us:2069": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2069/53486/AS6RC__13177.1.png",
    "in_stock": true,
    "name": "Amuseables Sports Fowla Red Card",
@@ -12103,7 +12103,7 @@
    "url": "/amuseables-sports-fowla-red-card/"
   },
   "us:2070": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2070/53319/AS2FMEX__93360.1.png",
    "in_stock": true,
    "name": "Amuseables Mexico Soccer Ball",
@@ -12114,7 +12114,7 @@
    "url": "/amuseables-football-mexico/"
   },
   "us:2071": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2071/53307/AMS4W__46710.1.png",
    "in_stock": true,
    "name": "Amuseables Sports Walston Whistle",
@@ -12136,7 +12136,7 @@
    "url": "/amuseables-football-usa/"
   },
   "us:2073": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2073/53331/AS2FCAN__70688.1.png",
    "in_stock": true,
    "name": "Amuseables Canada Soccer Ball",
@@ -12147,7 +12147,7 @@
    "url": "/amuseables-football-canada/"
   },
   "us:2074": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2074/53350/BARB4HB__66773.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear Handbag",
@@ -12303,7 +12303,7 @@
   "us:2089": {
    "badge": "Coming Soon",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2089/53749/A4DBBC__11846.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Disco Ball Bag Charm",
    "price": "45",
    "sku": "A4DBBC",
@@ -14028,9 +14028,9 @@
    "url": "/fuddlewuddle-lion/"
   },
   "us:726": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/726/48997/FW6PP__72710.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Fuddlewuddle Puppy",
    "price": "35",
    "sku": "FW6PP",
@@ -14095,7 +14095,7 @@
   },
   "us:797": {
    "badge": "Personalize Me",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/797/43627/JUMPCBARM3BR__68384.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/797/54360/JUMPCBARM3BR__40438.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear with Personalized Cream Jumper",
    "price": "45",
@@ -14502,7 +14502,7 @@
   },
   "us:896": {
    "badge": "Personalize Me",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/896/51578/JUMPRBAS3B__70958.1.jpg",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/896/54354/JUMPRBAS3B__14936.1.png",
    "in_stock": true,
    "name": "Bashful Beige Bunny with Personalized Red Jumper",
    "price": "45",
