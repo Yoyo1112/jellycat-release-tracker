@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-31T09:00:43+00:00",
+ "fetched_at": "2026-10-31T14:36:11+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2049,9 +2049,9 @@
    "url": "/mooliet-cow/"
   },
   "uk:1729": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1729/24308/YUM6MS__59097.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Mouse",
    "price": "18",
    "sku": "YUM6MS",
@@ -7923,9 +7923,9 @@
    "url": "/if-i-were-a-squirrel-board-book/"
   },
   "us:1459": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1459/42489/BK4WTS__25717.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Warm in the Storm Book",
    "price": "16",
    "sku": "BK4WTS",
@@ -9551,9 +9551,9 @@
    "url": "/bashful-luxe-elephant-thuddeus/"
   },
   "us:1757": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1757/49639/WOM3BAT__45862.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Wonda Wombat",
    "price": "55",
    "sku": "WOM3BAT",
@@ -13522,9 +13522,9 @@
    "url": "/if-i-were-a-puppy-board-book/"
   },
   "us:395": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/395/42036/BB444HEDG__73978.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Hedgehog Book",
    "price": "15",
    "sku": "BB444HEDG",
