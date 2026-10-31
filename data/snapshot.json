@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-31T01:00:41+00:00",
+ "fetched_at": "2026-10-31T05:57:38+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -641,9 +641,9 @@
    "url": "/smudge-elephant/"
   },
   "uk:1286": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1286/20484/SMG2R__18967.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Rabbit",
    "price": "18",
    "sku": "SMUDGE_RABBIT",
@@ -2137,9 +2137,9 @@
    "url": "/wonda-wombat/"
   },
   "uk:1750": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1750/24511/OLV2DD__71572.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Malachy Dragon",
    "price": "58",
    "sku": "OLV2DD",
@@ -3545,9 +3545,9 @@
    "url": "/sky-dragon-bag-charm/"
   },
   "uk:1979": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1979/27456/A4TEAB__11681.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Steepy Tea Bag",
    "price": "25",
    "sku": "A4TEAB",
@@ -5261,9 +5261,9 @@
    "url": "/amuseables-sports-golf-ball/"
   },
   "uk:289": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/289/16054/AS6T__96244.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Sports Tennis Ball",
    "price": "25",
    "sku": "AS6T",
@@ -5932,9 +5932,9 @@
    "url": "/otto-klein-aber-oho-buch/"
   },
   "uk:501": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/501/17156/BK4OSC__32771.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Otto's Snowy Christmas Book",
    "price": "11.5",
    "sku": "BK4OSC",
