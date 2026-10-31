@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-30T15:06:56+00:00",
+ "fetched_at": "2026-10-31T01:00:41+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -949,9 +949,9 @@
    "url": "/personalised-smudge-elephant-blankie/"
   },
   "uk:1443": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1443/21334/PERSSMG4SE__86103.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Smudge Elephant Soother",
    "price": "55",
    "sku": "PERSSMG4SE",
@@ -7560,9 +7560,9 @@
    "url": "/smudge-elephant-blankie/"
   },
   "us:1294": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1294/45827/SMG4SE__28527.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Elephant Soother",
    "price": "60",
    "sku": "SMG4SE",
@@ -7923,9 +7923,9 @@
    "url": "/if-i-were-a-squirrel-board-book/"
   },
   "us:1459": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1459/42489/BK4WTS__25717.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Warm in the Storm Book",
    "price": "16",
    "sku": "BK4WTS",
@@ -8847,9 +8847,9 @@
    "url": "/personalised-smudge-elephant-blankie/"
   },
   "us:1650": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1650/46625/PERSSMG4SE__71257.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Smudge Elephant Soother",
    "price": "68",
    "sku": "PERSSMG4SE",
@@ -9287,9 +9287,9 @@
    "url": "/amuseables-cherries-bag-charm/"
   },
   "us:1726": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1726/49519/A4CNB__89999.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Cinnamon Bun",
    "price": "30",
    "sku": "A4CNB",
@@ -12070,9 +12070,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "us:2067": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2067/53253/YEN2YET__06443.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bretti Yeti",
    "price": "65",
    "sku": "YEN2YET",
