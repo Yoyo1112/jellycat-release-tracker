@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-10-31T14:36:11+00:00",
+ "fetched_at": "2026-11-01T01:00:43+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -509,9 +509,9 @@
    "url": "/amuseables-rainbow-birthday-cake/"
   },
   "uk:1183": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1183/26356/RR3F__33795.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ricky Rain Frog",
    "price": "25",
    "sku": "RICKY_RAIN_FROG",
@@ -5228,9 +5228,9 @@
    "url": "/amuseables-coffee-to-go-bag-charm/"
   },
   "uk:274": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/274/23498/AS2BK__26770.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sports Basketball",
    "price": "50",
    "sku": "AS2BK",
@@ -5580,9 +5580,9 @@
    "url": "/if-i-were-a-bunny-board-book/"
   },
   "uk:385": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/385/16745/BB444BEE__41642.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Bee Board Book",
    "price": "10",
    "sku": "BB444BEE",
@@ -6614,9 +6614,9 @@
    "url": "/little-chick/"
   },
   "uk:952": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/952/19016/L3F__25136.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Little Fox",
    "price": "20",
    "sku": "L3F",
@@ -9551,9 +9551,9 @@
    "url": "/bashful-luxe-elephant-thuddeus/"
   },
   "us:1757": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1757/49639/WOM3BAT__45862.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Wonda Wombat",
    "price": "55",
    "sku": "WOM3BAT",
