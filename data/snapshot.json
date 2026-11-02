@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-11-02T01:00:46+00:00",
+ "fetched_at": "2026-11-02T06:27:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1015,9 +1015,9 @@
    "url": "/bartholomew-bear-backpack/"
   },
   "uk:1454": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1454/23636/BAS3JUN__40899.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper",
    "price": "40",
    "sku": "BAS3JUN",
@@ -1290,9 +1290,9 @@
    "url": "/amuseables-mia-macaron/"
   },
   "uk:1537": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1537/18422/JUMPCBAS3JUN__62697.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3JUN",
@@ -1301,9 +1301,9 @@
    "url": "/bashful-luxe-bunny-juniper-with-personalised-cream-jumper/"
   },
   "uk:1540": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1540/18639/JUMPNBAS3JUN__75799.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3JUN",
@@ -1312,9 +1312,9 @@
    "url": "/bashful-luxe-bunny-juniper-with-personalised-navy-jumper/"
   },
   "uk:1543": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1543/18847/JUMPRBAS3JUN__44527.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Juniper with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3JUN",
@@ -1334,9 +1334,9 @@
    "url": "/bashful-luxe-bunny-nimbus-with-personalised-red-jumper/"
   },
   "uk:1547": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1547/19600/PERSBAS3JUN__75937.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Luxe Bunny Juniper",
    "price": "45",
    "sku": "PERSBAS3JUN",
@@ -6075,9 +6075,9 @@
    "url": "/crispin-crab/"
   },
   "uk:596": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/596/17585/CHP3SG__27775.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Chip Seagull",
    "price": "30",
    "sku": "CHP3SG",
