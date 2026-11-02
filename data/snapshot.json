@@ -1,6 +1,6 @@
 {
  "count": 1350,
- "fetched_at": "2026-11-01T15:18:03+00:00",
+ "fetched_at": "2026-11-02T01:00:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -7923,9 +7923,9 @@
    "url": "/if-i-were-a-squirrel-board-book/"
   },
   "us:1459": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1459/42489/BK4WTS__25717.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Warm in the Storm Book",
    "price": "16",
    "sku": "BK4WTS",
@@ -8198,9 +8198,9 @@
    "url": "/amuseables-lemon/"
   },
   "us:1512": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1512/45711/SETBK4WTS__16382.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Warm in the Storm Book & Bashful Fox Cub Medium",
    "price": "49",
    "sku": "SETBK4WTS",
