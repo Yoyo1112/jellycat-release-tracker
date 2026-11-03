@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-03T09:00:54+00:00",
+ "fetched_at": "2026-11-03T16:20:37+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -509,9 +509,9 @@
    "url": "/amuseables-rainbow-birthday-cake/"
   },
   "uk:1183": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1183/26356/RR3F__33795.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ricky Rain Frog",
    "price": "25",
    "sku": "RICKY_RAIN_FROG",
@@ -696,9 +696,9 @@
    "url": "/bashful-luxe-bunny-soothers/"
   },
   "uk:1304": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1304/20584/SO4MOON__26492.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Moon Soother",
    "price": "28",
    "sku": "SO4MOON",
@@ -1081,9 +1081,9 @@
    "url": "/persimmon-dragon/"
   },
   "uk:1477": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1477/27098/SKY2DD__29771.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Sky Dragon",
    "price": "58",
    "sku": "SKY_DRAGON",
@@ -1202,9 +1202,9 @@
    "url": "/smudge-rabbit-backpack/"
   },
   "uk:1503": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1503/20494/SMG2RT__60180.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Rabbit Tote Bag",
    "price": "75",
    "sku": "SMG2RT",
@@ -2280,9 +2280,9 @@
    "url": "/blossom-cream-bunny-berry-musical-pull/"
   },
   "uk:1758": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1758/24496/SO4CL__01819.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cloud Soother",
    "price": "28",
    "sku": "SO4CL",
@@ -2390,9 +2390,9 @@
    "url": "/squawkatoo/"
   },
   "uk:1787": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1787/24615/PAR3P__99096.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Budgeby Parrot",
    "price": "30",
    "sku": "PAR3P",
@@ -2566,9 +2566,9 @@
    "url": "/bartholomew-bear-pouch/"
   },
   "uk:1814": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1814/24720/ALL2GAT__51416.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Allexi Alligator",
    "price": "75",
    "sku": "ALL2GAT",
@@ -2599,9 +2599,9 @@
    "url": "/hopscone-luxe-bunny/"
   },
   "uk:1819": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1819/24779/BK4OAA__49309.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Odell's Amazing Arms Book",
    "price": "10",
    "sku": "BK4OAA",
@@ -2621,9 +2621,9 @@
    "url": "/peanut-penguin-pouch/"
   },
   "uk:1821": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1821/24797/BK4MUZ__81770.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Muswell Mole and the Buried Treasure Book",
    "price": "10",
    "sku": "BK4MUZ",
@@ -2951,9 +2951,9 @@
    "url": "/amuseables-letter-to-santa/"
   },
   "uk:1879": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1879/25901/A4CFN__31287.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cheese Fondue",
    "price": "35",
    "sku": "A4CFN",
@@ -3655,9 +3655,9 @@
    "url": "/sky-dragon-bag-charm/"
   },
   "uk:1979": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1979/27456/A4TEAB__11681.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Steepy Tea Bag",
    "price": "25",
    "sku": "A4TEAB",
@@ -3897,9 +3897,9 @@
    "url": "/zumblebi-alien/"
   },
   "uk:2008": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2008/27356/BAS3COS__74209.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Zodihop Luxe Bunny",
    "price": "40",
    "sku": "BAS3COS",
@@ -3985,9 +3985,9 @@
    "url": "/fuddlewuddle-elephant/"
   },
   "uk:2016": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2016/27604/JUMPCBAS3COS__73962.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Zodihop Luxe Bunny with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3COS",
@@ -4029,9 +4029,9 @@
    "url": "/personalised-cream-bunny-with-star/"
   },
   "uk:2020": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2020/27600/JUMPNBAS3COS__04438.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Zodihop Luxe Bunny with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3COS",
@@ -4040,9 +4040,9 @@
    "url": "/zodihop-luxe-bunny-with-personalised-navy-jumper/"
   },
   "uk:2021": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2021/27625/PERSBAS3COS__02108.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Zodihop Luxe Bunny",
    "price": "45",
    "sku": "PERSBAS3COS",
@@ -4051,9 +4051,9 @@
    "url": "/personalised-zodihop-luxe-bunny/"
   },
   "uk:2022": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2022/27612/JUMPRBAS3COS__25767.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Zodihop Luxe Bunny with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3COS",
@@ -4161,9 +4161,9 @@
    "url": "/bartholomew-bear-seafarer-outfit/"
   },
   "uk:2032": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2032/27807/BAS3PWBL__68298.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Puddlesea Bunny",
    "price": "33",
    "sku": "BAS3PWBL",
@@ -4249,9 +4249,9 @@
    "url": "/amuseables-jellycat-football/"
   },
   "uk:2041": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2041/27808/PERSBAS3PWBL__68258.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Puddlesea Bunny",
    "price": "38",
    "sku": "PERSBAS3PWBL",
@@ -4260,9 +4260,9 @@
    "url": "/personalised-puddlesea-bunny/"
   },
   "uk:2042": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2042/27820/JUMPNBAS3PWBL__54502.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Puddlesea Bunny with Personalised Navy Jumper",
    "price": "44",
    "sku": "JUMPNBAS3PWBL",
@@ -4271,9 +4271,9 @@
    "url": "/puddlesea-bunny-with-personalised-navy-jumper/"
   },
   "uk:2043": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2043/27814/JUMPCBAS3PWBL__97497.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Puddlesea Bunny with Personalised Cream Jumper",
    "price": "44",
    "sku": "JUMPCBAS3PWBL",
@@ -4282,9 +4282,9 @@
    "url": "/puddlesea-bunny-with-personalised-cream-jumper/"
   },
   "uk:2044": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2044/27826/JUMPRBAS3PWBL__18696.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Puddlesea Bunny with Personalised Red Jumper",
    "price": "44",
    "sku": "JUMPRBAS3PWBL",
@@ -5690,9 +5690,9 @@
    "url": "/bashful-red-love-heart-bunny/"
   },
   "uk:384": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/384/16742/BB444BB__59402.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Bunny Board Book - Beige",
    "price": "10",
    "sku": "BB444BB",
@@ -6020,9 +6020,9 @@
    "url": "/lapin-timide-et-ses-petites-aventures-livre/"
   },
   "uk:483": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/483/17102/BK4LOTBF__30641.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Lottie Fairy Bunny Book",
    "price": "10",
    "sku": "BK4LOTBF",
@@ -6053,9 +6053,9 @@
    "url": "/mami-hat-dich-lieb-lammchen-schnuck-buch/"
   },
   "uk:486": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/486/17111/BK4MB__70132.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "The Magic Bunny Book",
    "price": "10",
    "sku": "BK4MB",
@@ -6394,9 +6394,9 @@
    "url": "/cosmo-monster/"
   },
   "uk:627": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/627/17708/DAR2G__55659.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Dara Giraffe",
    "price": "65",
    "sku": "DAR2G",
@@ -7945,9 +7945,9 @@
    "url": "/bashful-bunny-soothers/"
   },
   "us:1361": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1361/46083/STH4BAR__57804.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bartholomew Bear Soother",
    "price": "33",
    "sku": "STH4BAR",
@@ -9485,9 +9485,9 @@
    "url": "/if-i-were-a-calf-board-book/"
   },
   "us:1710": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1710/49377/BK4CK__32552.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ginger, the Courageous Kitten Book",
    "price": "18",
    "sku": "BK4CK",
@@ -9650,9 +9650,9 @@
    "url": "/amuseables-ravioli/"
   },
   "us:1733": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1733/51530/A6TAC__65759.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Collette Tarte Au Citron",
    "price": "30",
    "sku": "A6TAC",
