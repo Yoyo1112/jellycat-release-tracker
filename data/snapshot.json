@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-02T18:31:59+00:00",
+ "fetched_at": "2026-11-03T01:00:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1455,9 +1455,9 @@
    "url": "/bashful-fox-cub-blankie/"
   },
   "uk:1596": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1596/23698/BLNK2GF__55199.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Giraffe Blankie",
    "price": "70",
    "sku": "BLNK2GF",
@@ -2071,9 +2071,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "uk:1725": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1725/24248/BAS3BEBB__56478.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "40",
    "sku": "BAS3BEBB",
@@ -2159,9 +2159,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -2225,9 +2225,9 @@
    "url": "/amuseables-sourdough/"
   },
   "uk:1752": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1752/24418/SH3DG__48674.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ewert Sheepdog",
    "price": "40",
    "sku": "SH3DG",
@@ -4513,9 +4513,9 @@
    "url": "/bretti-yeti/"
   },
   "uk:2067": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2067/28108/R3RMON__88380.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Rockleton",
    "price": "60",
    "sku": "R3RMON",
@@ -5415,9 +5415,9 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Tulip Pink Bunny",
    "price": "25",
    "sku": "BASHFUL_BUNNY_TULIP_PINK",
@@ -6328,9 +6328,9 @@
    "url": "/crispin-crab/"
   },
   "uk:596": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/596/17585/CHP3SG__27775.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Chip Seagull",
    "price": "30",
    "sku": "CHP3SG",
@@ -12455,7 +12455,7 @@
    "url": "/bartholomew-bear-handbag/"
   },
   "us:2075": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2075/53567/A2DOUH__03092.1.jpg",
    "in_stock": true,
    "name": "Amuseables Glazespun Doughnut",
@@ -12466,7 +12466,7 @@
    "url": "/amuseables-glazespun-doughnut/"
   },
   "us:2076": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2076/53558/A4CAND__75018.1.jpg",
    "in_stock": true,
    "name": "Amuseables Flickerty Candle",
@@ -12477,7 +12477,7 @@
    "url": "/amuseables-flickerty-candle/"
   },
   "us:2077": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2077/53574/A4HALD__25493.1.jpg",
    "in_stock": true,
    "name": "Amuseables Vampop Drink",
@@ -12488,7 +12488,7 @@
    "url": "/amuseables-vampop-drink/"
   },
   "us:2078": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2078/53561/A4GAR__97885.1.jpg",
    "in_stock": true,
    "name": "Amuseables Garlic",
@@ -12499,7 +12499,7 @@
    "url": "/amuseables-garlic/"
   },
   "us:2079": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2079/53570/GH3B__99782.1.jpg",
    "in_stock": true,
    "name": "Ghost Bob",
@@ -12521,7 +12521,7 @@
    "url": "/growlston-gargoyle/"
   },
   "us:2081": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2081/53577/BAS3BCPW__27627.1.jpg",
    "in_stock": true,
    "name": "Rufferty Puppy 'Wizard'",
@@ -12543,7 +12543,7 @@
    "url": "/bashful-bunny-junior/"
   },
   "us:2083": {
-   "badge": "New In",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2083/53654/JEL6J__62129.1.jpg",
    "in_stock": true,
    "name": "Jellycat Jack Junior",
