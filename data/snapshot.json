@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-04T01:00:52+00:00",
+ "fetched_at": "2026-11-04T06:42:21+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -718,9 +718,9 @@
    "url": "/amuseables-sun-soother/"
   },
   "uk:1307": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1307/20604/SO4TP__19963.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Toffee Puppy Soother",
    "price": "22",
    "sku": "SO4TP",
@@ -1048,9 +1048,9 @@
    "url": "/if-i-were-a-squirrel-board-book/"
   },
   "uk:1460": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1460/17210/BK4WTS__49125.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Warm in the Storm Book",
    "price": "10",
    "sku": "BK4WTS",
@@ -1127,7 +1127,7 @@
   "uk:1487": {
    "badge": "Adjustable Strap",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1487/23834/TIM4BT__15772.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Timmy Turtle Bag",
    "price": "60",
    "sku": "TIM4BT",
@@ -1191,9 +1191,9 @@
    "url": "/amuseables-lemon/"
   },
   "uk:1502": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1502/20490/SMG2RBP__77185.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Rabbit Backpack",
    "price": "55",
    "sku": "SMG2RBP",
@@ -1246,9 +1246,9 @@
    "url": "/bashful-unicorn-2024/"
   },
   "uk:1522": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1522/19266/MUM3B__21192.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Mummy Bob",
    "price": "33",
    "sku": "MUM3B",
@@ -1455,9 +1455,9 @@
    "url": "/bashful-fox-cub-blankie/"
   },
   "uk:1596": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1596/23698/BLNK2GF__55199.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Giraffe Blankie",
    "price": "70",
    "sku": "BLNK2GF",
@@ -1686,9 +1686,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -1818,9 +1818,9 @@
    "url": "/blossom-cream-bunny-berry-bag-charm/"
   },
   "uk:1673": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1673/24027/BK4SMB__83105.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Rabbit and the Falling Star Book",
    "price": "13.5",
    "sku": "BK4SMB",
@@ -2027,9 +2027,9 @@
    "url": "/amuseables-rene-waffle/"
   },
   "uk:1718": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1718/24283/A4CNB__08333.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Cinnamon Bun",
    "price": "25",
    "sku": "A4CNB",
@@ -2181,9 +2181,9 @@
    "url": "/derreck-dog/"
   },
   "uk:1745": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1745/24410/BK44FARM__86180.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Farm Tails Book",
    "price": "18",
    "sku": "BK44FARM",
@@ -2225,9 +2225,9 @@
    "url": "/amuseables-sourdough/"
   },
   "uk:1752": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1752/24418/SH3DG__48674.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ewert Sheepdog",
    "price": "40",
    "sku": "SH3DG",
@@ -2357,9 +2357,9 @@
    "url": "/amuseables-pammie-palm-tree/"
   },
   "uk:1780": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1780/24619/A2TRES__58414.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Treasure Chest",
    "price": "50",
    "sku": "A2TRES",
@@ -2973,9 +2973,9 @@
    "url": "/sacha-and-the-most-wonderful-thing-book/"
   },
   "uk:1883": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1883/26000/BK4PPP__10580.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Peanut Penguin’s Perfect Present Book",
    "price": "10",
    "sku": "BK4PPP",
@@ -5789,9 +5789,9 @@
    "url": "/if-i-were-a-hedgehog-board-book/"
   },
   "uk:396": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/396/23682/BB444HM__83958.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Hello Moon Fabric Book",
    "price": "18",
    "sku": "BB444HM",
@@ -5877,9 +5877,9 @@
    "url": "/if-i-were-a-zebra-board-book/"
   },
   "uk:410": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/410/16832/BB44DCK__98659.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I were a Duckling Board Book",
    "price": "10",
    "sku": "BB44DCK",
@@ -5899,9 +5899,9 @@
    "url": "/if-i-were-an-elephant-board-book/"
   },
   "uk:452": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/452/16988/BK444KTN__48839.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Kitten Tails Activity Book",
    "price": "16",
    "sku": "BK444KTN",
@@ -5932,9 +5932,9 @@
    "url": "/leo-der-mutige-lowe-buch/"
   },
   "uk:463": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/463/17033/BK4CATS__47437.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "All Kinds of Cats Book",
    "price": "10",
    "sku": "BK4CATS",
@@ -6086,9 +6086,9 @@
    "url": "/haschen-schnuck-bleibt-wach-buch/"
   },
   "uk:490": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/490/17123/BK4MER__04174.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Merry Mouse's Christmas Eve Book",
    "price": "10",
    "sku": "BK4MER",
@@ -6108,9 +6108,9 @@
    "url": "/the-naughty-penguins-book/"
   },
   "uk:498": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/498/17147/BK4OD__74259.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Otto the Loyal Long Dog Book",
    "price": "11.5",
    "sku": "BK4OD",
@@ -6141,9 +6141,9 @@
    "url": "/otto-klein-aber-oho-buch/"
   },
   "uk:501": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/501/17156/BK4OSC__32771.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Otto's Snowy Christmas Book",
    "price": "11.5",
    "sku": "BK4OSC",
@@ -6185,9 +6185,9 @@
    "url": "/sweetcorn-book/"
   },
   "uk:510": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/510/17183/BK4TSD__98229.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "The Sky Dragon Book",
    "price": "11.5",
    "sku": "BK4TSD",
@@ -6196,9 +6196,9 @@
    "url": "/the-sky-dragon-book/"
   },
   "uk:511": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/511/17186/BK4TTF__06689.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "A Tale Of Two Friends Book",
    "price": "13.5",
    "sku": "BK4TTF",
@@ -6207,9 +6207,9 @@
    "url": "/a-tale-of-two-friends-book/"
   },
   "uk:513": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/513/17192/BK4WHO__35561.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Who Can I Find Book",
    "price": "10",
    "sku": "BK4WHO",
@@ -6306,9 +6306,9 @@
    "url": "/bashful-black-cream-puppy-ring-rattle/"
   },
   "uk:573": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/573/17505/BSPO2U__48106.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Big Spottie Unicorn",
    "price": "68",
    "sku": "BSPO2U",
@@ -6493,9 +6493,9 @@
    "url": "/jolly-santa/"
   },
   "uk:782": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/782/18284/JELC1D__45492.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Jellycat Head Giant",
    "price": "200",
    "sku": "JELC1D",
@@ -6515,9 +6515,9 @@
    "url": "/jellycat-jack/"
   },
   "uk:785": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/785/18302/JELC4BG__42492.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Jellycat Bag",
    "price": "40",
    "sku": "JELC4BG",
@@ -6966,9 +6966,9 @@
    "url": "/little-pig-bag/"
   },
   "uk:970": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/970/19073/L4PUB__74108.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Little Pup Bag",
    "price": "35",
    "sku": "L4PUB",
