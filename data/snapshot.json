@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-04T09:00:45+00:00",
+ "fetched_at": "2026-11-04T16:25:27+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2071,9 +2071,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "uk:1725": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1725/24248/BAS3BEBB__56478.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "40",
    "sku": "BAS3BEBB",
@@ -2159,9 +2159,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -2225,7 +2225,7 @@
    "url": "/amuseables-sourdough/"
   },
   "uk:1752": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1752/24418/SH3DG__48674.1.jpg",
    "in_stock": true,
    "name": "Ewert Sheepdog",
@@ -2357,7 +2357,7 @@
    "url": "/amuseables-pammie-palm-tree/"
   },
   "uk:1780": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1780/24619/A2TRES__58414.1.jpg",
    "in_stock": true,
    "name": "Amuseables Treasure Chest",
@@ -2390,9 +2390,9 @@
    "url": "/squawkatoo/"
   },
   "uk:1787": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1787/24615/PAR3P__99096.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Budgeby Parrot",
    "price": "30",
    "sku": "PAR3P",
@@ -4722,7 +4722,7 @@
    "url": "/amuseables-perta-snow-boot/"
   },
   "uk:2090": {
-   "badge": "Coming Soon",
+   "badge": "Available 17th November",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2090/28528/A4DBBC__97849.1.jpg",
    "in_stock": false,
    "name": "Amuseables Disco Ball Bag Charm",
@@ -4810,7 +4810,7 @@
    "url": "/ulrich-wolf/"
   },
   "uk:2098": {
-   "badge": "Coming Soon",
+   "badge": "Available 17th November",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2098/28523/A4BCBC__88898.1.jpg",
    "in_stock": false,
    "name": "Amuseables Birthday Cake Bag Charm",
@@ -4843,7 +4843,7 @@
    "url": "/amuseables-bean/"
   },
   "uk:2100": {
-   "badge": "Coming Soon",
+   "badge": "Available 17th November",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2100/28541/A4MOONBC__12050.1.jpg",
    "in_stock": false,
    "name": "Amuseables Moon Bag Charm",
@@ -4854,7 +4854,7 @@
    "url": "/amuseables-moon-bag-charm/"
   },
   "uk:2101": {
-   "badge": "Coming Soon",
+   "badge": "Available 17th November",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2101/28551/BAS4BCPBC__32672.1.jpg",
    "in_stock": false,
    "name": "Rufferty Puppy Bag Charm",
@@ -5360,9 +5360,9 @@
    "url": "/amuseables-sports-american-football/"
   },
   "uk:281": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/281/23526/AS4BSBC__18343.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Sports Baseball Bag Charm",
    "price": "25",
    "sku": "AS4BSBC",
@@ -6394,9 +6394,9 @@
    "url": "/cosmo-monster/"
   },
   "uk:627": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/627/17708/DAR2G__55659.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Dara Giraffe",
    "price": "65",
    "sku": "DAR2G",
@@ -6493,7 +6493,7 @@
    "url": "/jolly-santa/"
   },
   "uk:782": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/782/18284/JELC1D__45492.1.jpg",
    "in_stock": true,
    "name": "Jellycat Head Giant",
@@ -6966,7 +6966,7 @@
    "url": "/little-pig-bag/"
   },
   "uk:970": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/970/19073/L4PUB__74108.1.jpg",
    "in_stock": true,
    "name": "Little Pup Bag",
@@ -9650,9 +9650,9 @@
    "url": "/amuseables-ravioli/"
   },
   "us:1733": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1733/51530/A6TAC__65759.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Collette Tarte Au Citron",
    "price": "30",
    "sku": "A6TAC",
@@ -12345,9 +12345,9 @@
    "url": "/bartholomew-bear-sun-outfit/"
   },
   "us:2065": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2065/53283/R3RMON__09719.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Rockleton",
    "price": "75",
    "sku": "R3RMON",
@@ -14226,9 +14226,9 @@
    "url": "/bartholomew-bear-comforter/"
   },
   "us:605": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/605/42901/CMF4BCP__62308.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Rufferty Black & Cream Puppy Comforter",
    "price": "28",
    "sku": "CMF4BCP",
