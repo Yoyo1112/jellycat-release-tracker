@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-04T06:42:21+00:00",
+ "fetched_at": "2026-11-04T09:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -6306,9 +6306,9 @@
    "url": "/bashful-black-cream-puppy-ring-rattle/"
   },
   "uk:573": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/573/17505/BSPO2U__48106.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Big Spottie Unicorn",
    "price": "68",
    "sku": "BSPO2U",
