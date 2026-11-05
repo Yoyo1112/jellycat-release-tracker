@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-04T16:25:27+00:00",
+ "fetched_at": "2026-11-05T01:00:50+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -124,9 +124,9 @@
    "url": "/personalised-bashful-cream-bunny-huge/"
   },
   "uk:1072": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1072/26327/PERSBAH2BN__89822.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Beige Bunny Huge",
    "price": "75",
    "sku": "PERSBAH2BN",
@@ -927,9 +927,9 @@
    "url": "/yummy-bunny/"
   },
   "uk:1433": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1433/21096/YUM6DK__25040.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Yummy Duckling",
    "price": "18",
    "sku": "YUM6DK",
@@ -6053,9 +6053,9 @@
    "url": "/mami-hat-dich-lieb-lammchen-schnuck-buch/"
   },
   "uk:486": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/486/17111/BK4MB__70132.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "The Magic Bunny Book",
    "price": "10",
    "sku": "BK4MB",
@@ -6196,9 +6196,9 @@
    "url": "/the-sky-dragon-book/"
   },
   "uk:511": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/511/17186/BK4TTF__06689.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "A Tale Of Two Friends Book",
    "price": "13.5",
    "sku": "BK4TTF",
@@ -6394,9 +6394,9 @@
    "url": "/cosmo-monster/"
   },
   "uk:627": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/627/17708/DAR2G__55659.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Dara Giraffe",
    "price": "65",
    "sku": "DAR2G",
@@ -6493,9 +6493,9 @@
    "url": "/jolly-santa/"
   },
   "uk:782": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/782/18284/JELC1D__45492.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Jellycat Head Giant",
    "price": "200",
    "sku": "JELC1D",
@@ -7087,9 +7087,9 @@
    "url": "/odell-octopus/"
   },
   "us:1059": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1059/48401/OT3SD__62145.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Otto Sausage Dog",
    "price": "35",
    "sku": "OTTO_SAUSAGE_DOG",
@@ -7615,9 +7615,9 @@
    "url": "/sacha-snow-tiger/"
   },
   "us:120": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/120/40787/A2SUN__43942.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sun",
    "price": "35",
    "sku": "AMUSEABLE_SUN",
@@ -9650,9 +9650,9 @@
    "url": "/amuseables-ravioli/"
   },
   "us:1733": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1733/51530/A6TAC__65759.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Collette Tarte Au Citron",
    "price": "30",
    "sku": "A6TAC",
@@ -10783,9 +10783,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-cream-jumper/"
   },
   "us:1853": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1853/50671/JUMPNBPS3EC__93673.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Blush Bunny 'Cherry' with Personalized Navy Jumper",
    "price": "45",
    "sku": "JUMPNBPS3EC",
@@ -10838,9 +10838,9 @@
    "url": "/blossom-silver-bunny-bloom-with-personalised-navy-jumper/"
   },
   "us:1858": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1858/50721/JUMPRBPS3EC__41331.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Blush Bunny 'Cherry' with Personalized Red Jumper",
    "price": "45",
    "sku": "JUMPRBPS3EC",
@@ -12345,9 +12345,9 @@
    "url": "/bartholomew-bear-sun-outfit/"
   },
   "us:2065": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2065/53283/R3RMON__09719.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Rockleton",
    "price": "75",
    "sku": "R3RMON",
