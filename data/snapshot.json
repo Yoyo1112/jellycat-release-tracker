@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-05T07:01:49+00:00",
+ "fetched_at": "2026-11-05T09:00:49+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -4700,9 +4700,9 @@
    "url": "/jellycat-jack-junior/"
   },
   "uk:2088": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2088/28524/A2HAT__63681.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pomilly",
    "price": "40",
    "sku": "A2HAT",
