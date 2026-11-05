@@ -1,6 +1,6 @@
 {
- "count": 1376,
- "fetched_at": "2026-11-05T09:00:49+00:00",
+ "count": 1377,
+ "fetched_at": "2026-11-05T16:33:23+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -773,9 +773,9 @@
    "url": "/bashful-black-cream-puppy-soother/"
   },
   "uk:1369": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1369/29077/TM6SD__98281.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Tumblie Sheep Dog",
    "price": "28",
    "sku": "TM6SD",
@@ -2434,9 +2434,9 @@
    "url": "/personalised-blossom-cream-bunny-berry-soother/"
   },
   "uk:1793": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1793/24669/A2PARM__53599.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Parmesan",
    "price": "20",
    "sku": "A2PARM",
@@ -3259,9 +3259,9 @@
    "url": "/amuseables-watering-can/"
   },
   "uk:1942": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1942/26951/BARM2FL__81995.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bartholomew Bear ‘Daffodil’",
    "price": "50",
    "sku": "BARM2FL",
@@ -3281,9 +3281,9 @@
    "url": "/springlowe-luxe-bunny-big/"
   },
   "uk:1944": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1944/27899/A4SHMBC__60727.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Siofra Shamrock Bag Charm",
    "price": "28",
    "sku": "A4SHMBC",
@@ -4414,9 +4414,9 @@
    "url": "/amuseables-smores/"
   },
   "uk:2059": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2059/28126/A4WDF__43260.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Mulshi Woodland Floor",
    "price": "30",
    "sku": "A4WDF",
@@ -5019,9 +5019,9 @@
    "url": "/amuseables-molasi-cookie/"
   },
   "uk:2121": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2121/28859/BAS3HEX__11784.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny",
    "price": "40",
    "sku": "BAS3HEX",
@@ -5140,9 +5140,9 @@
    "url": "/amuseables-crunchfall-pecan-pie/"
   },
   "uk:2138": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2138/29044/JUMPRBAS3HEX__83767.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3HEX",
@@ -5173,9 +5173,9 @@
    "url": "/amuseables-boiled-egg-graduation/"
   },
   "uk:2140": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2140/29029/JUMPCBAS3HEX__05023.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3HEX",
@@ -5184,9 +5184,9 @@
    "url": "/franilla-luxe-bunny-with-personalised-cream-jumper/"
   },
   "uk:2141": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2141/29039/JUMPNBAS3HEX__63604.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3HEX",
@@ -6282,6 +6282,17 @@
    "status": "Live",
    "store": "uk",
    "url": "/bashful-luxe-bunny-blankie/"
+  },
+  "uk:554": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/554/17420/BP4PAN__95722.1.jpg",
+   "in_stock": true,
+   "name": "Backpack Panda",
+   "price": "28",
+   "sku": "BP4PAN",
+   "status": "Live",
+   "store": "uk",
+   "url": "/backpack-panda/"
   },
   "uk:564": {
    "badge": "New Colour",
@@ -9507,7 +9518,7 @@
    "url": "/glenny-goat/"
   },
   "us:1715": {
-   "badge": "",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1715/49412/HAP3BEE__87313.1.jpg",
    "in_stock": true,
    "name": "Albee Bee",
@@ -9672,7 +9683,7 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "us:1736": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1736/49514/BAS3BEBB__62852.1.jpg",
    "in_stock": true,
    "name": "Bashful Beige Bunny 'Birthday'",
@@ -10684,9 +10695,9 @@
    "url": "/broox-bat/"
   },
   "us:1844": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1844/50705/A6TFA__62466.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Toffee Apple",
    "price": "30",
    "sku": "A6TFA",
