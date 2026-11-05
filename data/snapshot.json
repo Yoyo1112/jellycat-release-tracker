@@ -1,6 +1,6 @@
 {
  "count": 1376,
- "fetched_at": "2026-11-05T01:00:50+00:00",
+ "fetched_at": "2026-11-05T07:01:49+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -630,9 +630,9 @@
    "url": "/smudge-bear/"
   },
   "uk:1282": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1282/20469/SMG2EL__51618.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Elephant",
    "price": "18",
    "sku": "SMUDGE_ELEPHANT",
@@ -1235,9 +1235,9 @@
    "url": "/bartholomew-bear-tote-bag/"
   },
   "uk:1517": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1517/23668/BAS3UC__80069.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Unicorn",
    "price": "275",
    "sku": "BASHFUL_UNICORN_UC",
@@ -5360,9 +5360,9 @@
    "url": "/amuseables-sports-american-football/"
   },
   "uk:281": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/281/23526/AS4BSBC__18343.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sports Baseball Bag Charm",
    "price": "25",
    "sku": "AS4BSBC",
