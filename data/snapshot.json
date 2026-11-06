@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-06T07:01:37+00:00",
+ "fetched_at": "2026-11-06T09:00:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -124,9 +124,9 @@
    "url": "/personalised-bashful-cream-bunny-huge/"
   },
   "uk:1072": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1072/26327/PERSBAH2BN__89822.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Beige Bunny Huge",
    "price": "75",
    "sku": "PERSBAH2BN",
@@ -927,9 +927,9 @@
    "url": "/yummy-bunny/"
   },
   "uk:1433": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1433/21096/YUM6DK__25040.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Duckling",
    "price": "18",
    "sku": "YUM6DK",
@@ -6933,9 +6933,9 @@
    "url": "/little-goat/"
   },
   "uk:959": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/959/19040/L3P__81705.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Little Pig",
    "price": "20",
    "sku": "L3P",
