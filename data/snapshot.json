@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-06T01:00:54+00:00",
+ "fetched_at": "2026-11-06T07:01:37+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -498,9 +498,9 @@
    "url": "/amuseables-pretzel/"
   },
   "uk:118": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/118/28501/A2RBC__79639.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Rainbow Birthday Cake",
    "price": "30",
    "sku": "AMUSEABLES_RAINBOW_BIRTHDAY_CAKE",
@@ -630,9 +630,9 @@
    "url": "/smudge-bear/"
   },
   "uk:1282": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1282/20469/SMG2EL__51618.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Elephant",
    "price": "18",
    "sku": "SMUDGE_ELEPHANT",
@@ -960,9 +960,9 @@
    "url": "/personalised-smudge-elephant-blankie/"
   },
   "uk:1443": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1443/21334/PERSSMG4SE__86103.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Smudge Elephant Soother",
    "price": "55",
    "sku": "PERSSMG4SE",
@@ -1411,9 +1411,9 @@
    "url": "/bashful-puppy-decoration/"
   },
   "uk:1569": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1569/17054/BK4ELD__75667.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Eldo Elf and the Patchwork Bashful Bunny Book",
    "price": "10",
    "sku": "BK4ELD",
@@ -2225,9 +2225,9 @@
    "url": "/amuseables-sourdough/"
   },
   "uk:1752": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1752/24418/SH3DG__48674.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ewert Sheepdog",
    "price": "40",
    "sku": "SH3DG",
@@ -3072,9 +3072,9 @@
    "url": "/festival-horse/"
   },
   "uk:1910": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1910/26510/JUNG2H__69636.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Canterneigh Pony",
    "price": "45",
    "sku": "JUNG2H",
@@ -3259,9 +3259,9 @@
    "url": "/amuseables-watering-can/"
   },
   "uk:1942": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1942/26951/BARM2FL__81995.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear ‘Daffodil’",
    "price": "50",
    "sku": "BARM2FL",
@@ -3281,9 +3281,9 @@
    "url": "/springlowe-luxe-bunny-big/"
   },
   "uk:1944": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1944/27899/A4SHMBC__60727.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Siofra Shamrock Bag Charm",
    "price": "28",
    "sku": "A4SHMBC",
@@ -5998,9 +5998,9 @@
    "url": "/odell-der-furchtlose-oktopus-buch/"
   },
   "uk:479": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/479/17090/BK4LEF__92079.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Leffy's Christmas Gift Book",
    "price": "13.5",
    "sku": "BK4LEF",
@@ -6933,9 +6933,9 @@
    "url": "/little-goat/"
   },
   "uk:959": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/959/19040/L3P__81705.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Little Pig",
    "price": "20",
    "sku": "L3P",
