@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-05T16:33:23+00:00",
+ "fetched_at": "2026-11-06T01:00:54+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -718,9 +718,9 @@
    "url": "/amuseables-sun-soother/"
   },
   "uk:1307": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1307/20604/SO4TP__19963.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Toffee Puppy Soother",
    "price": "22",
    "sku": "SO4TP",
@@ -773,9 +773,9 @@
    "url": "/bashful-black-cream-puppy-soother/"
   },
   "uk:1369": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1369/29077/TM6SD__98281.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Tumblie Sheep Dog",
    "price": "28",
    "sku": "TM6SD",
@@ -1081,9 +1081,9 @@
    "url": "/persimmon-dragon/"
   },
   "uk:1477": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1477/27098/SKY2DD__29771.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Sky Dragon",
    "price": "58",
    "sku": "SKY_DRAGON",
@@ -2434,9 +2434,9 @@
    "url": "/personalised-blossom-cream-bunny-berry-soother/"
   },
   "uk:1793": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1793/24669/A2PARM__53599.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Parmesan",
    "price": "20",
    "sku": "A2PARM",
@@ -4414,9 +4414,9 @@
    "url": "/amuseables-smores/"
   },
   "uk:2059": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2059/28126/A4WDF__43260.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Mulshi Woodland Floor",
    "price": "30",
    "sku": "A4WDF",
@@ -6284,9 +6284,9 @@
    "url": "/bashful-luxe-bunny-blankie/"
   },
   "uk:554": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/554/17420/BP4PAN__95722.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Backpack Panda",
    "price": "28",
    "sku": "BP4PAN",
@@ -6405,9 +6405,9 @@
    "url": "/cosmo-monster/"
   },
   "uk:627": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/627/17708/DAR2G__55659.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Dara Giraffe",
    "price": "65",
    "sku": "DAR2G",
@@ -10695,9 +10695,9 @@
    "url": "/broox-bat/"
   },
   "us:1844": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1844/50705/A6TFA__62466.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Toffee Apple",
    "price": "30",
    "sku": "A6TFA",
