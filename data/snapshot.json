@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-06T16:00:19+00:00",
+ "fetched_at": "2026-11-07T01:00:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1004,9 +1004,9 @@
    "url": "/amuseables-sports-ice-hockey-puck/"
   },
   "uk:1451": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1451/23546/AUD3HOOT__16451.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Audrey Hootsoftly",
    "price": "33",
    "sku": "AUD3HOOT",
@@ -1422,9 +1422,9 @@
    "url": "/eldo-elf-and-the-patchwork-bashful-bunny-book/"
   },
   "uk:158": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/158/15520/A2RB__36251.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rainbow",
    "price": "30",
    "sku": "A2RB",
@@ -2104,9 +2104,9 @@
    "url": "/mooliet-cow/"
   },
   "uk:1729": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1729/24308/YUM6MS__59097.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Mouse",
    "price": "18",
    "sku": "YUM6MS",
@@ -2368,9 +2368,9 @@
    "url": "/amuseables-treasure-chest/"
   },
   "uk:1782": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1782/24595/A6CRL__69717.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Coral",
    "price": "23",
    "sku": "A6CRL",
@@ -3974,9 +3974,9 @@
    "url": "/amuseables-lightbulb/"
   },
   "uk:2015": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2015/27500/FW6EUS__98414.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Fuddlewuddle Elephant",
    "price": "27",
    "sku": "FW6EUS",
@@ -4414,9 +4414,9 @@
    "url": "/amuseables-smores/"
   },
   "uk:2059": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2059/28126/A4WDF__43260.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Mulshi Woodland Floor",
    "price": "30",
    "sku": "A4WDF",
@@ -4502,9 +4502,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "uk:2066": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2066/28114/YEN2YET__39579.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bretti Yeti",
    "price": "50",
    "sku": "YEN2YET",
@@ -4524,9 +4524,9 @@
    "url": "/rockleton/"
   },
   "uk:2068": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2068/27984/RES3DOG__43523.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Scruffles Rescue Dog",
    "price": "55",
    "sku": "RES3DOG",
@@ -5525,9 +5525,9 @@
    "url": "/bashful-luxe-bunny-luna/"
   },
   "uk:308": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/308/23654/BAS3ROS__97052.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Rosa",
    "price": "40",
    "sku": "BASHFUL_LUXE_ROSA",
@@ -5932,9 +5932,9 @@
    "url": "/leo-der-mutige-lowe-buch/"
   },
   "uk:463": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/463/17033/BK4CATS__47437.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "All Kinds of Cats Book",
    "price": "10",
    "sku": "BK4CATS",
@@ -6108,9 +6108,9 @@
    "url": "/the-naughty-penguins-book/"
   },
   "uk:498": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/498/17147/BK4OD__74259.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Otto the Loyal Long Dog Book",
    "price": "11.5",
    "sku": "BK4OD",
@@ -6460,9 +6460,9 @@
    "url": "/fuddlewuddle-dragon/"
   },
   "uk:723": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/723/18060/FW6LN__66620.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Fuddlewuddle Lion",
    "price": "27",
    "sku": "FUDDLEWUDDLE_LION",
@@ -6812,9 +6812,9 @@
    "url": "/bashful-cream-bunny-with-personalised-red-jumper/"
   },
   "uk:897": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/897/28797/JUMPRBAS3BCP__24632.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Rufferty Black & Cream Puppy with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBAS3BCP",
@@ -8627,7 +8627,7 @@
    "url": "/amuseables-mona-macaron/"
   },
   "us:1533": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1533/48686/A6MACF__64844.1.jpg",
    "in_stock": true,
    "name": "Amuseables Mia Macaron",
@@ -11619,7 +11619,7 @@
    "url": "/sky-dragon-bag-charm/"
   },
   "us:1988": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1988/52695/A4TEAB__46847.1.jpg",
    "in_stock": true,
    "name": "Amuseables Steepy Tea Bag",
@@ -13742,7 +13742,7 @@
    "url": "/bashful-fudge-puppy/"
   },
   "us:372": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/372/41768/BAS3TUR__92082.1.jpg",
    "in_stock": true,
    "name": "Bashful Turtle",
