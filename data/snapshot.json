@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-07T06:14:23+00:00",
+ "fetched_at": "2026-11-07T09:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -795,9 +795,9 @@
    "url": "/amuseables-cloud/"
   },
   "uk:1373": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1373/20885/TR2SE__43646.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Truffles Sheep",
    "price": "100",
    "sku": "TR2SE",
