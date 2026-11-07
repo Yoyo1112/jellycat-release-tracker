@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-07T09:00:45+00:00",
+ "fetched_at": "2026-11-07T14:56:56+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2599,9 +2599,9 @@
    "url": "/hopscone-luxe-bunny/"
   },
   "uk:1819": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1819/24779/BK4OAA__49309.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Odell's Amazing Arms Book",
    "price": "10",
    "sku": "BK4OAA",
@@ -7626,9 +7626,9 @@
    "url": "/sacha-snow-tiger/"
   },
   "us:120": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/120/40787/A2SUN__43942.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Sun",
    "price": "35",
    "sku": "AMUSEABLE_SUN",
@@ -10684,9 +10684,9 @@
    "url": "/heccaty-hootnightly/"
   },
   "us:1842": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1842/50697/BAT3B__37327.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Broox Bat",
    "price": "38",
    "sku": "BAT3B",
