@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-08T01:00:44+00:00",
+ "fetched_at": "2026-11-08T06:20:15+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5690,9 +5690,9 @@
    "url": "/bashful-red-love-heart-bunny/"
   },
   "uk:384": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/384/16742/BB444BB__59402.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Bunny Board Book - Beige",
    "price": "10",
    "sku": "BB444BB",
