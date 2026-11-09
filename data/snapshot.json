@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-09T01:00:44+00:00",
+ "fetched_at": "2026-11-09T06:53:50+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -938,9 +938,9 @@
    "url": "/yummy-duckling/"
   },
   "uk:1436": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1436/20852/TIM3TUR__21393.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Timmy Turtle",
    "price": "40",
    "sku": "TIMMY_TURTLE",
@@ -4491,9 +4491,9 @@
    "url": "/fluff-rescue-dog/"
   },
   "uk:2065": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2065/28241/RA3CN__53611.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Trixiwoo Raccoon",
    "price": "40",
    "sku": "RA3CN",
@@ -12675,7 +12675,7 @@
    "url": "/bizzlestomp-bear/"
   },
   "us:2095": {
-   "badge": "Coming Soon",
+   "badge": "Available November 17th",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2095/53774/BAS4BCPBC__16082.1.jpg",
    "in_stock": false,
    "name": "Rufferty Puppy Bag Charm",
