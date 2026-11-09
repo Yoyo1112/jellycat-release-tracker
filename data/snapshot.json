@@ -1,6 +1,6 @@
 {
- "count": 1377,
- "fetched_at": "2026-11-09T09:00:45+00:00",
+ "count": 1380,
+ "fetched_at": "2026-11-09T18:55:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -168,9 +168,9 @@
    "url": "/personalised-bashful-cream-bunny-medium/"
   },
   "uk:1081": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1081/28445/PERSBAS3BLU__41928.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Blush Bunny Medium",
    "price": "30",
    "sku": "PERSBAS3BLU",
@@ -1202,9 +1202,9 @@
    "url": "/smudge-rabbit-backpack/"
   },
   "uk:1503": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1503/20494/SMG2RT__60180.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Rabbit Tote Bag",
    "price": "75",
    "sku": "SMG2RT",
@@ -1818,9 +1818,9 @@
    "url": "/blossom-cream-bunny-berry-bag-charm/"
   },
   "uk:1673": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1673/24027/BK4SMB__83105.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Rabbit and the Falling Star Book",
    "price": "13.5",
    "sku": "BK4SMB",
@@ -2411,6 +2411,17 @@
    "store": "uk",
    "url": "/gobfrey-whale-shark/"
   },
+  "uk:1789": {
+   "badge": "Personalise Me",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1789/24626/PERSSO4CL__92211.1.jpg",
+   "in_stock": true,
+   "name": "Personalised Amuseables Cloud Soother",
+   "price": "33",
+   "sku": "PERSSO4CL",
+   "status": "Live",
+   "store": "uk",
+   "url": "/personalised-amuseables-cloud-soother/"
+  },
   "uk:1790": {
    "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1790/24640/PERSBLNK2MS__98148.1.jpg",
@@ -2500,7 +2511,7 @@
    "url": "/amuseables-apple/"
   },
   "uk:1802": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1802/25612/A4SDT__29195.1.jpg",
    "in_stock": true,
    "name": "Amuseables Sardine Tin",
@@ -3787,7 +3798,7 @@
    "url": "/amuseables-jellysaucer/"
   },
   "uk:1998": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1998/28233/A2HYD__74881.1.jpg",
    "in_stock": true,
    "name": "Amuseables Hydrangea",
@@ -3963,7 +3974,7 @@
    "url": "/munro-scottie-dog-space-outfit/"
   },
   "uk:2014": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2014/27323/A4BULB__83766.1.jpg",
    "in_stock": true,
    "name": "Amuseables Lightbulb",
@@ -4491,9 +4502,9 @@
    "url": "/fluff-rescue-dog/"
   },
   "uk:2065": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2065/28241/RA3CN__53611.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Trixiwoo Raccoon",
    "price": "40",
    "sku": "RA3CN",
@@ -5204,6 +5215,17 @@
    "status": "Live",
    "store": "uk",
    "url": "/peanut-penguin-keychain-bag-charm/"
+  },
+  "uk:2144": {
+   "badge": "Available 16th November",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2144/29114/PEN6J__29289.1.jpg",
+   "in_stock": false,
+   "name": "Shuffly Penguin",
+   "price": "25",
+   "sku": "PEN6J",
+   "status": "Coming Soon",
+   "store": "uk",
+   "url": "/shuffly-penguin/"
   },
   "uk:215": {
    "badge": "Out of Stock",
@@ -6372,9 +6394,9 @@
    "url": "/bashful-bunny-comforters/"
   },
   "uk:603": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/603/17609/CMF4BAR__01089.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear Comforter",
    "price": "23",
    "sku": "CMF4BAR",
@@ -6581,9 +6603,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-cream-jumper/"
   },
   "uk:802": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/802/28320/JUMPCBAS3BLU__38754.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Blush Bunny with Personalised Cream Jumper",
    "price": "36",
    "sku": "JUMPCBAS3BLU",
@@ -6702,9 +6724,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-navy-jumper/"
   },
   "uk:852": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/852/28330/JUMPNBAS3BLU__16426.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Blush Bunny with Personalised Navy Jumper",
    "price": "36",
    "sku": "JUMPNBAS3BLU",
@@ -6823,9 +6845,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-red-jumper/"
   },
   "uk:900": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/900/28802/JUMPRBAS3BLU__28581.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Blush Bunny with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBAS3BLU",
@@ -6955,9 +6977,9 @@
    "url": "/little-panda/"
   },
   "uk:963": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/963/19052/L3PU__06355.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Little Pup",
    "price": "20",
    "sku": "L3PU",
@@ -9496,9 +9518,9 @@
    "url": "/if-i-were-a-calf-board-book/"
   },
   "us:1710": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1710/49377/BK4CK__32552.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ginger, the Courageous Kitten Book",
    "price": "18",
    "sku": "BK4CK",
@@ -13179,6 +13201,17 @@
    "status": "Live",
    "store": "us",
    "url": "/clyde-capybara-clip-on-charm/"
+  },
+  "us:2159": {
+   "badge": "Available November 16th",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2159/54374/PEN6J__01175.1.jpg",
+   "in_stock": false,
+   "name": "Shuffly Penguin",
+   "price": "33",
+   "sku": "PEN6J",
+   "status": "Coming Soon",
+   "store": "us",
+   "url": "/shuffly-penguin/"
   },
   "us:216": {
    "badge": "Out of Stock",
