@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-09T06:53:50+00:00",
+ "fetched_at": "2026-11-09T09:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -168,9 +168,9 @@
    "url": "/personalised-bashful-cream-bunny-medium/"
   },
   "uk:1081": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1081/28445/PERSBAS3BLU__41928.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Blush Bunny Medium",
    "price": "30",
    "sku": "PERSBAS3BLU",
@@ -6581,9 +6581,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-cream-jumper/"
   },
   "uk:802": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/802/28320/JUMPCBAS3BLU__38754.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Blush Bunny with Personalised Cream Jumper",
    "price": "36",
    "sku": "JUMPCBAS3BLU",
@@ -6702,9 +6702,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-navy-jumper/"
   },
   "uk:852": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/852/28330/JUMPNBAS3BLU__16426.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Blush Bunny with Personalised Navy Jumper",
    "price": "36",
    "sku": "JUMPNBAS3BLU",
@@ -6823,9 +6823,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-red-jumper/"
   },
   "uk:900": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/900/28802/JUMPRBAS3BLU__28581.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Blush Bunny with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBAS3BLU",
@@ -12587,7 +12587,7 @@
    "url": "/amuseables-perta-snow-boot/"
   },
   "us:2087": {
-   "badge": "Coming Soon",
+   "badge": "Available November 17th",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2087/53789/A4BCBC__90837.1.jpg",
    "in_stock": false,
    "name": "Amuseables Birthday Cake Bag Charm",
@@ -12609,7 +12609,7 @@
    "url": "/amuseables-birthday-cake-bag/"
   },
   "us:2089": {
-   "badge": "Coming Soon",
+   "badge": "Available November 17th",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2089/53749/A4DBBC__11846.1.jpg",
    "in_stock": false,
    "name": "Amuseables Disco Ball Bag Charm",
@@ -12631,7 +12631,7 @@
    "url": "/amuseables-fitswell-mitten/"
   },
   "us:2091": {
-   "badge": "Coming Soon",
+   "badge": "Available November 17th",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2091/53798/A4MOONBC__02854.1.jpg",
    "in_stock": false,
    "name": "Amuseables Moon Bag Charm",
