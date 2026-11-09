@@ -1,6 +1,6 @@
 {
  "count": 1377,
- "fetched_at": "2026-11-08T15:23:06+00:00",
+ "fetched_at": "2026-11-09T01:00:44+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -432,9 +432,9 @@
    "url": "/personalised-bashful-beige-bunny-soother/"
   },
   "uk:1138": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1138/19810/PERSSTH4BAR__48172.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bartholomew Bear Soother",
    "price": "33",
    "sku": "PERSSTH4BAR",
@@ -6977,9 +6977,9 @@
    "url": "/little-pig-bag/"
   },
   "uk:970": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/970/19073/L4PUB__74108.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Little Pup Bag",
    "price": "35",
    "sku": "L4PUB",
@@ -8198,9 +8198,9 @@
    "url": "/audrey-hootsoftly/"
   },
   "us:1451": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1451/48820/BAR4BP__88551.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear Backpack",
    "price": "65",
    "sku": "BAR4BP",
@@ -13172,7 +13172,7 @@
   "us:2150": {
    "badge": "New Clasp",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2150/54306/CLY4CBCH__65578.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Clyde Capybara Bag Charm",
    "price": "32",
    "sku": "CLY4CBCH",
