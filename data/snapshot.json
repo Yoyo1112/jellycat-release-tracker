@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-09T18:55:46+00:00",
+ "fetched_at": "2026-11-10T01:00:51+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2918,9 +2918,9 @@
    "url": "/plum-robin/"
   },
   "uk:1862": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1862/25887/BAS6BD__36054.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Beige Bunny Decoration",
    "price": "20",
    "sku": "BAS6BD",
