@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-10T09:00:47+00:00",
+ "fetched_at": "2026-11-10T16:28:38+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -377,9 +377,9 @@
    "url": "/amuseables-happy-boiled-egg/"
   },
   "uk:1131": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1131/19782/PERSSO4MOON__91949.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Amuseables Moon Soother",
    "price": "33",
    "sku": "PERSSO4MOON",
@@ -795,9 +795,9 @@
    "url": "/amuseables-cloud/"
   },
   "uk:1373": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1373/20885/TR2SE__43646.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Truffles Sheep",
    "price": "100",
    "sku": "TR2SE",
@@ -916,9 +916,9 @@
    "url": "/amuseables-diamond-ring/"
   },
   "uk:1431": {
-   "badge": "Out of Stock",
-   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1431/21087/YUM6B__02326.1.jpg",
-   "in_stock": false,
+   "badge": "New In",
+   "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1431/21105/YUM6MINB__07286.1.jpg",
+   "in_stock": true,
    "name": "Yummy Bunny",
    "price": "18",
    "sku": "YUMMY_BUNNY",
@@ -5492,7 +5492,7 @@
    "url": "/bashful-blush-bunny/"
   },
   "uk:302": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/302/16326/BAS3BS__22358.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny",
@@ -6108,9 +6108,9 @@
    "url": "/haschen-schnuck-bleibt-wach-buch/"
   },
   "uk:490": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/490/17123/BK4MER__04174.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Merry Mouse's Christmas Eve Book",
    "price": "10",
    "sku": "BK4MER",
@@ -7274,9 +7274,9 @@
    "url": "/personalised-bashful-twinkle-bunny-medium/"
   },
   "us:1102": {
-   "badge": "Out of Stock",
+   "badge": "Personalize Me",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1102/44942/PERSBAS3VB__38185.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalized Bashful Viola Bunny Medium",
    "price": "41",
    "sku": "PERSBAS3VB",
@@ -8099,8 +8099,8 @@
    "url": "/amuseables-daisy/"
   },
   "us:1437": {
-   "badge": "Out of Stock",
-   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1437/46408/YUM6B__21032.1.jpg",
+   "badge": "Returning",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1437/46426/YUM6MINB__15698.1.jpg",
    "in_stock": false,
    "name": "Yummy Bunny",
    "price": "23",
@@ -8253,9 +8253,9 @@
    "url": "/if-i-were-a-squirrel-board-book/"
   },
   "us:1459": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1459/42489/BK4WTS__25717.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Warm in the Storm Book",
    "price": "16",
    "sku": "BK4WTS",
@@ -8528,9 +8528,9 @@
    "url": "/amuseables-lemon/"
   },
   "us:1512": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1512/45711/SETBK4WTS__16382.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Warm in the Storm Book & Bashful Fox Cub Medium",
    "price": "49",
    "sku": "SETBK4WTS",
@@ -9617,9 +9617,9 @@
    "url": "/amuseables-cherries-bag-charm/"
   },
   "us:1726": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1726/49519/A4CNB__89999.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cinnamon Bun",
    "price": "30",
    "sku": "A4CNB",
@@ -9749,9 +9749,9 @@
    "url": "/mooliet-cow/"
   },
   "us:1740": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1740/49533/YUM6MS__44646.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Yummy Mouse",
    "price": "23",
    "sku": "YUM6MS",
@@ -11212,9 +11212,9 @@
    "url": "/ricky-rain-frog-pouch/"
   },
   "us:1947": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1947/51767/A2CRTC__32208.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Carrot Cake",
    "price": "45",
    "sku": "A2CRTC",
@@ -13797,9 +13797,9 @@
    "url": "/bashful-twinkle-bunny/"
   },
   "us:375": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/375/41780/BAS3VB__31343.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Viola Bunny",
    "price": "33",
    "sku": "BASHFUL_BUNNY_VIOLA",
@@ -14787,9 +14787,9 @@
    "url": "/bashful-twinkle-bunny-with-personalised-navy-jumper/"
   },
   "us:882": {
-   "badge": "Out of Stock",
+   "badge": "Personalize Me",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/882/44001/JUMPNBAS3VB__05264.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Viola Bunny with Personalized Navy Jumper",
    "price": "45",
    "sku": "JUMPNBAS3VB",
@@ -14985,9 +14985,9 @@
    "url": "/bashful-twinkle-bunny-with-personalised-red-jumper/"
   },
   "us:932": {
-   "badge": "Out of Stock",
+   "badge": "Personalize Me",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/932/44217/JUMPRBAS3VB__34615.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Viola Bunny with Personalized Red Jumper",
    "price": "45",
    "sku": "JUMPRBAS3VB",
@@ -15029,9 +15029,9 @@
    "url": "/little-bear/"
   },
   "us:953": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/953/44302/L3F__10650.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Little Fox",
    "price": "25",
    "sku": "L3F",
