@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-10T07:30:41+00:00",
+ "fetched_at": "2026-11-10T09:00:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5030,9 +5030,9 @@
    "url": "/amuseables-molasi-cookie/"
   },
   "uk:2121": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2121/28859/BAS3HEX__11784.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny",
    "price": "40",
    "sku": "BAS3HEX",
@@ -5151,9 +5151,9 @@
    "url": "/amuseables-crunchfall-pecan-pie/"
   },
   "uk:2138": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2138/29044/JUMPRBAS3HEX__83767.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3HEX",
@@ -5184,9 +5184,9 @@
    "url": "/amuseables-boiled-egg-graduation/"
   },
   "uk:2140": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2140/29029/JUMPCBAS3HEX__05023.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3HEX",
@@ -5195,9 +5195,9 @@
    "url": "/franilla-luxe-bunny-with-personalised-cream-jumper/"
   },
   "uk:2141": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2141/29039/JUMPNBAS3HEX__63604.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Franilla Luxe Bunny with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3HEX",
