@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-11T09:00:45+00:00",
+ "fetched_at": "2026-11-11T16:19:49+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -443,9 +443,9 @@
    "url": "/personalised-bartholomew-bear-soother/"
   },
   "uk:114": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/114/24865/A2MOON__39526.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Moon",
    "price": "28",
    "sku": "AMUSEABLE_MOON",
@@ -509,9 +509,9 @@
    "url": "/amuseables-rainbow-birthday-cake/"
   },
   "uk:1183": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1183/26356/RR3F__33795.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ricky Rain Frog",
    "price": "25",
    "sku": "RICKY_RAIN_FROG",
@@ -795,9 +795,9 @@
    "url": "/amuseables-cloud/"
   },
   "uk:1373": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1373/20885/TR2SE__43646.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Truffles Sheep",
    "price": "100",
    "sku": "TR2SE",
@@ -982,7 +982,7 @@
    "url": "/amuseables-ginger/"
   },
   "uk:1449": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1449/24325/APM4BC__19536.1.jpg",
    "in_stock": true,
    "name": "Amuseables Pair of Marshmallows Bag Charm",
@@ -1081,9 +1081,9 @@
    "url": "/persimmon-dragon/"
   },
   "uk:1477": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1477/27098/SKY2DD__29771.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Sky Dragon",
    "price": "58",
    "sku": "SKY_DRAGON",
@@ -1235,9 +1235,9 @@
    "url": "/bartholomew-bear-tote-bag/"
   },
   "uk:1517": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1517/23668/BAS3UC__80069.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Unicorn",
    "price": "275",
    "sku": "BASHFUL_UNICORN_UC",
@@ -2225,9 +2225,9 @@
    "url": "/amuseables-sourdough/"
   },
   "uk:1752": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1752/24418/SH3DG__48674.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ewert Sheepdog",
    "price": "40",
    "sku": "SH3DG",
@@ -4736,7 +4736,7 @@
    "badge": "Available 17th November",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2090/28528/A4DBBC__97849.1.jpg",
    "in_stock": false,
-   "name": "Amuseables Disco Ball Bag Charm",
+   "name": "Amuseables Disco Ball Key Chain Bag Charm",
    "price": "40",
    "sku": "A4DBBC",
    "status": "Coming Soon",
@@ -5239,7 +5239,7 @@
    "url": "/amuseables-boiled-egg-groom/"
   },
   "uk:217": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/217/23398/A6CB__44229.1.jpg",
    "in_stock": true,
    "name": "Amuseables Coffee Bean",
@@ -5283,7 +5283,7 @@
    "url": "/amuseables-pink-and-white-marshmallows/"
   },
   "uk:233": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/233/15825/A6PACHOC__44437.1.jpg",
    "in_stock": true,
    "name": "Amuseables Pain Au Chocolat",
@@ -5305,9 +5305,9 @@
    "url": "/amuseables-peanut/"
   },
   "uk:237": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/237/23462/A6PIC__63069.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pickle",
    "price": "20",
    "sku": "A6PIC",
@@ -5448,7 +5448,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "uk:296": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/296/23613/BAS3BC__36889.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
@@ -6526,9 +6526,9 @@
    "url": "/jolly-santa/"
   },
   "uk:782": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/782/18284/JELC1D__45492.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Jellycat Head Giant",
    "price": "200",
    "sku": "JELC1D",
@@ -6592,9 +6592,9 @@
    "url": "/bashful-cream-bunny-with-personalised-cream-jumper/"
   },
   "uk:799": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/799/18354/JUMPCBAS3BCPN__93749.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Rufferty Black & Cream Puppy with Personalised Cream Jumper",
    "price": "36",
    "sku": "JUMPCBAS3BCPN",
@@ -6713,9 +6713,9 @@
    "url": "/bashful-cream-bunny-with-personalised-navy-jumper/"
   },
   "uk:849": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/849/18571/JUMPNBAS3BCP__62705.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Rufferty Black & Cream Puppy with Personalised Navy Jumper",
    "price": "36",
    "sku": "JUMPNBAS3BCP",
@@ -6834,9 +6834,9 @@
    "url": "/bashful-cream-bunny-with-personalised-red-jumper/"
   },
   "uk:897": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/897/28797/JUMPRBAS3BCP__24632.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Rufferty Black & Cream Puppy with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBAS3BCP",
@@ -10563,9 +10563,9 @@
    "url": "/lambeth-lemming/"
   },
   "us:1828": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1828/49958/BK4MUZ__72350.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Muswell Mole and the Buried Treasure Book",
    "price": "18",
    "sku": "BK4MUZ",
@@ -10728,9 +10728,9 @@
    "url": "/amuseables-toffee-apple/"
   },
   "us:1845": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1845/50709/OOK3JOL__38839.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ooky Jack O Lantern",
    "price": "28",
    "sku": "OOK3JOL",
@@ -12323,9 +12323,9 @@
    "url": "/amuseables-smores/"
   },
   "us:2060": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2060/53259/A4WDF__63959.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Mulshi Woodland Floor",
    "price": "38",
    "sku": "A4WDF",
