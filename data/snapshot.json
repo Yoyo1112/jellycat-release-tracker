@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-11T01:00:48+00:00",
+ "fetched_at": "2026-11-11T06:47:27+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -729,9 +729,9 @@
    "url": "/bashful-toffee-puppy-soother/"
   },
   "uk:132": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/132/15412/A2BSXMAS__45678.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Blue Spruce Christmas Tree",
    "price": "200",
    "sku": "AMUSEABLE_BLUE_SPRUCE_CHRISTMAS_TREE",
@@ -10563,9 +10563,9 @@
    "url": "/lambeth-lemming/"
   },
   "us:1828": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1828/49958/BK4MUZ__72350.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Muswell Mole and the Buried Treasure Book",
    "price": "18",
    "sku": "BK4MUZ",
