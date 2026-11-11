@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-10T16:28:38+00:00",
+ "fetched_at": "2026-11-11T01:00:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -113,9 +113,9 @@
    "url": "/otto-sausage-dog/"
   },
   "uk:1071": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1071/19510/PERSBAH2BC__79245.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Cream Bunny Huge",
    "price": "75",
    "sku": "PERSBAH2BC",
@@ -663,9 +663,9 @@
    "url": "/smudge-elephant-blankie/"
   },
   "uk:1288": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1288/20512/SMG4SE__25063.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Elephant Soother",
    "price": "50",
    "sku": "SMG4SE",
@@ -751,9 +751,9 @@
    "url": "/bashful-bunny-soothers/"
   },
   "uk:1355": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1355/20768/STH4BAR__30097.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear Soother",
    "price": "28",
    "sku": "STH4BAR",
@@ -960,9 +960,9 @@
    "url": "/personalised-smudge-elephant-blankie/"
   },
   "uk:1443": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1443/21334/PERSSMG4SE__86103.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Smudge Elephant Soother",
    "price": "55",
    "sku": "PERSSMG4SE",
@@ -2885,9 +2885,9 @@
    "url": "/ooky-jack-o-lantern/"
   },
   "uk:1848": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Broox Bat",
    "price": "30",
    "sku": "BAT3B",
@@ -5712,9 +5712,9 @@
    "url": "/bashful-red-love-heart-bunny/"
   },
   "uk:384": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/384/16742/BB444BB__59402.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Bunny Board Book - Beige",
    "price": "10",
    "sku": "BB444BB",
@@ -5723,9 +5723,9 @@
    "url": "/if-i-were-a-bunny-board-book/"
   },
   "uk:385": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/385/16745/BB444BEE__41642.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Bee Board Book",
    "price": "10",
    "sku": "BB444BEE",
@@ -6229,9 +6229,9 @@
    "url": "/a-tale-of-two-friends-book/"
   },
   "uk:513": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/513/17192/BK4WHO__35561.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Who Can I Find Book",
    "price": "10",
    "sku": "BK4WHO",
@@ -9749,9 +9749,9 @@
    "url": "/mooliet-cow/"
   },
   "us:1740": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1740/49533/YUM6MS__44646.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Mouse",
    "price": "23",
    "sku": "YUM6MS",
@@ -11212,9 +11212,9 @@
    "url": "/ricky-rain-frog-pouch/"
   },
   "us:1947": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1947/51767/A2CRTC__32208.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Carrot Cake",
    "price": "45",
    "sku": "A2CRTC",
@@ -13852,9 +13852,9 @@
    "url": "/if-i-were-a-puppy-board-book/"
   },
   "us:395": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/395/42036/BB444HEDG__73978.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Hedgehog Book",
    "price": "15",
    "sku": "BB444HEDG",
