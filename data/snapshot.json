@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-11T16:19:49+00:00",
+ "fetched_at": "2026-11-12T01:00:43+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -696,9 +696,9 @@
    "url": "/bashful-luxe-bunny-soothers/"
   },
   "uk:1304": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1304/20584/SO4MOON__26492.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Moon Soother",
    "price": "28",
    "sku": "SO4MOON",
@@ -4736,7 +4736,7 @@
    "badge": "Available 17th November",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2090/28528/A4DBBC__97849.1.jpg",
    "in_stock": false,
-   "name": "Amuseables Disco Ball Key Chain Bag Charm",
+   "name": "Amuseables Disco Ball Bag Charm",
    "price": "40",
    "sku": "A4DBBC",
    "status": "Coming Soon",
@@ -5712,9 +5712,9 @@
    "url": "/bashful-red-love-heart-bunny/"
   },
   "uk:384": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/384/16742/BB444BB__59402.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were A Bunny Board Book - Beige",
    "price": "10",
    "sku": "BB444BB",
@@ -10728,9 +10728,9 @@
    "url": "/amuseables-toffee-apple/"
   },
   "us:1845": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1845/50709/OOK3JOL__38839.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ooky Jack O Lantern",
    "price": "28",
    "sku": "OOK3JOL",
