@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-12T09:00:41+00:00",
+ "fetched_at": "2026-11-12T16:53:37+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -113,9 +113,9 @@
    "url": "/otto-sausage-dog/"
   },
   "uk:1071": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1071/19510/PERSBAH2BC__79245.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Cream Bunny Huge",
    "price": "75",
    "sku": "PERSBAH2BC",
@@ -586,9 +586,9 @@
    "url": "/lapin-timide-veut-grandir-when-i-am-big-and-bashful-cream-bunny/"
   },
   "uk:127": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/127/23250/A2BFL__90282.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Bouquet of Flowers",
    "price": "42",
    "sku": "A2BFL",
@@ -1950,9 +1950,9 @@
    "url": "/if-i-were-a-calf-board-book/"
   },
   "uk:1702": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1702/24124/HAP3BEE__67218.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Albee Bee",
    "price": "25",
    "sku": "HAP3BEE",
@@ -2181,9 +2181,9 @@
    "url": "/derreck-dog/"
   },
   "uk:1745": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1745/24410/BK44FARM__86180.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Farm Tails Book",
    "price": "18",
    "sku": "BK44FARM",
@@ -2885,9 +2885,9 @@
    "url": "/ooky-jack-o-lantern/"
   },
   "uk:1848": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1848/25489/BAT3B__52140.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Broox Bat",
    "price": "30",
    "sku": "BAT3B",
@@ -4535,9 +4535,9 @@
    "url": "/rockleton/"
   },
   "uk:2068": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2068/27984/RES3DOG__43523.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Scruffles Rescue Dog",
    "price": "55",
    "sku": "RES3DOG",
@@ -8528,9 +8528,9 @@
    "url": "/amuseables-lemon/"
   },
   "us:1512": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1512/45711/SETBK4WTS__16382.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Warm in the Storm Book & Bashful Fox Cub Medium",
    "price": "49",
    "sku": "SETBK4WTS",
@@ -10189,9 +10189,9 @@
    "url": "/amuseables-pammie-palm-tree/"
   },
   "us:1792": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1792/49797/A6CRL__01703.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Coral",
    "price": "28",
    "sku": "A6CRL",
@@ -10728,9 +10728,9 @@
    "url": "/amuseables-toffee-apple/"
   },
   "us:1845": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1845/50709/OOK3JOL__38839.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ooky Jack O Lantern",
    "price": "28",
    "sku": "OOK3JOL",
@@ -12323,9 +12323,9 @@
    "url": "/amuseables-smores/"
   },
   "us:2060": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2060/53259/A4WDF__63959.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Mulshi Woodland Floor",
    "price": "38",
    "sku": "A4WDF",
@@ -12400,9 +12400,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "us:2067": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2067/53253/YEN2YET__06443.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bretti Yeti",
    "price": "65",
    "sku": "YEN2YET",
