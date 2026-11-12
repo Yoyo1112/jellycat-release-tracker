@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-12T01:00:43+00:00",
+ "fetched_at": "2026-11-12T07:25:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -168,9 +168,9 @@
    "url": "/personalised-bashful-cream-bunny-medium/"
   },
   "uk:1081": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1081/28445/PERSBAS3BLU__41928.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Blush Bunny Medium",
    "price": "30",
    "sku": "PERSBAS3BLU",
@@ -586,9 +586,9 @@
    "url": "/lapin-timide-veut-grandir-when-i-am-big-and-bashful-cream-bunny/"
   },
   "uk:127": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/127/23250/A2BFL__90282.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Bouquet of Flowers",
    "price": "42",
    "sku": "A2BFL",
@@ -2632,9 +2632,9 @@
    "url": "/peanut-penguin-pouch/"
   },
   "uk:1821": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1821/24797/BK4MUZ__81770.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Muswell Mole and the Buried Treasure Book",
    "price": "10",
    "sku": "BK4MUZ",
@@ -5030,9 +5030,9 @@
    "url": "/amuseables-molasi-cookie/"
   },
   "uk:2121": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2121/28859/BAS3HEX__11784.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Franilla Luxe Bunny",
    "price": "40",
    "sku": "BAS3HEX",
@@ -5151,9 +5151,9 @@
    "url": "/amuseables-crunchfall-pecan-pie/"
   },
   "uk:2138": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2138/29044/JUMPRBAS3HEX__83767.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Franilla Luxe Bunny with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3HEX",
@@ -5184,9 +5184,9 @@
    "url": "/amuseables-boiled-egg-graduation/"
   },
   "uk:2140": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2140/29029/JUMPCBAS3HEX__05023.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Franilla Luxe Bunny with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3HEX",
@@ -5195,9 +5195,9 @@
    "url": "/franilla-luxe-bunny-with-personalised-cream-jumper/"
   },
   "uk:2141": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2141/29039/JUMPNBAS3HEX__63604.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Franilla Luxe Bunny with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3HEX",
@@ -5481,9 +5481,9 @@
    "url": "/bashful-black-cream-puppy/"
   },
   "uk:301": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/301/26367/BAS3BLU__26275.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Blush Bunny",
    "price": "25",
    "sku": "BASHFUL_BUNNY_BLUSH",
@@ -6108,9 +6108,9 @@
    "url": "/haschen-schnuck-bleibt-wach-buch/"
   },
   "uk:490": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/490/17123/BK4MER__04174.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Merry Mouse's Christmas Eve Book",
    "price": "10",
    "sku": "BK4MER",
@@ -6526,9 +6526,9 @@
    "url": "/jolly-santa/"
   },
   "uk:782": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/782/18284/JELC1D__45492.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Jellycat Head Giant",
    "price": "200",
    "sku": "JELC1D",
@@ -6603,9 +6603,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-cream-jumper/"
   },
   "uk:802": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/802/28320/JUMPCBAS3BLU__38754.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Blush Bunny with Personalised Cream Jumper",
    "price": "36",
    "sku": "JUMPCBAS3BLU",
@@ -6724,9 +6724,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-navy-jumper/"
   },
   "uk:852": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/852/28330/JUMPNBAS3BLU__16426.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Blush Bunny with Personalised Navy Jumper",
    "price": "36",
    "sku": "JUMPNBAS3BLU",
@@ -6845,9 +6845,9 @@
    "url": "/bashful-black-cream-puppy-with-personalised-red-jumper/"
   },
   "uk:900": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/900/28802/JUMPRBAS3BLU__28581.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Blush Bunny with Personalised Red Jumper",
    "price": "36",
    "sku": "JUMPRBAS3BLU",
@@ -9386,9 +9386,9 @@
    "url": "/bashful-beige-bunny-petal/"
   },
   "us:1692": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1692/49230/BPS3EC__37326.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Blossom Blush Bunny 'Cherry'",
    "price": "25",
    "sku": "BASHFUL_BLOSSOMS_BLUSH_CHERRY",
