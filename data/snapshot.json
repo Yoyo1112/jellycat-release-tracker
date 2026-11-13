@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-12T16:53:37+00:00",
+ "fetched_at": "2026-11-13T01:00:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -509,9 +509,9 @@
    "url": "/amuseables-rainbow-birthday-cake/"
   },
   "uk:1183": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1183/26356/RR3F__33795.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ricky Rain Frog",
    "price": "25",
    "sku": "RICKY_RAIN_FROG",
@@ -4535,9 +4535,9 @@
    "url": "/rockleton/"
   },
   "uk:2068": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2068/27984/RES3DOG__43523.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Scruffles Rescue Dog",
    "price": "55",
    "sku": "RES3DOG",
@@ -8253,9 +8253,9 @@
    "url": "/if-i-were-a-squirrel-board-book/"
   },
   "us:1459": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1459/42489/BK4WTS__25717.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Warm in the Storm Book",
    "price": "16",
    "sku": "BK4WTS",
@@ -10189,9 +10189,9 @@
    "url": "/amuseables-pammie-palm-tree/"
   },
   "us:1792": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1792/49797/A6CRL__01703.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Coral",
    "price": "28",
    "sku": "A6CRL",
@@ -10563,9 +10563,9 @@
    "url": "/lambeth-lemming/"
   },
   "us:1828": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1828/49958/BK4MUZ__72350.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Muswell Mole and the Buried Treasure Book",
    "price": "18",
    "sku": "BK4MUZ",
@@ -10728,9 +10728,9 @@
    "url": "/amuseables-toffee-apple/"
   },
   "us:1845": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1845/50709/OOK3JOL__38839.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ooky Jack O Lantern",
    "price": "28",
    "sku": "OOK3JOL",
@@ -12400,9 +12400,9 @@
    "url": "/trixiwoo-raccoon/"
   },
   "us:2067": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2067/53253/YEN2YET__06443.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bretti Yeti",
    "price": "65",
    "sku": "YEN2YET",
