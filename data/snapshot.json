@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-13T09:00:45+00:00",
+ "fetched_at": "2026-11-13T16:33:26+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1239,7 +1239,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1517/23668/BAS3UC__80069.1.jpg",
    "in_stock": true,
    "name": "Bashful Unicorn",
-   "price": "275",
+   "price": "125",
    "sku": "BASHFUL_UNICORN_UC",
    "status": "Live",
    "store": "uk",
@@ -1268,9 +1268,9 @@
    "url": "/spookipaws-cat/"
   },
   "uk:1530": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1530/20478/SMG2M__61464.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Monkey",
    "price": "18",
    "sku": "SMUDGE_MONKEY",
@@ -1455,9 +1455,9 @@
    "url": "/bashful-fox-cub-blankie/"
   },
   "uk:1596": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1596/23698/BLNK2GF__55199.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Giraffe Blankie",
    "price": "70",
    "sku": "BLNK2GF",
@@ -1686,9 +1686,9 @@
    "url": "/personalised-bashful-fox-cub-blankie/"
   },
   "uk:1626": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1626/21326/PERSBLNK2GF__76195.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Giraffe Blankie",
    "price": "75",
    "sku": "PERSBLNK2GF",
@@ -5210,7 +5210,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2142/29065/PNBC4PNH__19583.1.jpg",
    "in_stock": true,
    "name": "Peanut Penguin Bag Charm",
-   "price": "28",
+   "price": "23",
    "sku": "PNBC4PNH",
    "status": "Live",
    "store": "uk",
@@ -6519,7 +6519,7 @@
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/780/18278/J3SA__84984.1.jpg",
    "in_stock": true,
    "name": "Jolly Santa",
-   "price": "45",
+   "price": "125",
    "sku": "JOLLY_SANTA",
    "status": "Live",
    "store": "uk",
@@ -7648,9 +7648,9 @@
    "url": "/sacha-snow-tiger/"
   },
   "us:120": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/120/40787/A2SUN__43942.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Sun",
    "price": "35",
    "sku": "AMUSEABLE_SUN",
@@ -10024,9 +10024,9 @@
    "url": "/bashful-duckling-soother/"
   },
   "us:1770": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1770/49704/STH4MS__65763.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Blossom Cream Bunny 'Berry' Soother",
    "price": "35",
    "sku": "STH4MS",
@@ -10255,9 +10255,9 @@
    "url": "/personalised-blossom-cream-bunny-berry-blankie/"
   },
   "us:1800": {
-   "badge": "Out of Stock",
+   "badge": "Personalize Me",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1800/49857/PERSSTH4MS__50530.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalized Blossom Cream Bunny 'Berry' Soother",
    "price": "43",
    "sku": "PERSSTH4MS",
@@ -12543,9 +12543,9 @@
    "url": "/ghost-bob/"
   },
   "us:2080": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2080/53580/GAR3GYL__28714.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Growlston Gargoyle",
    "price": "45",
    "sku": "GAR3GYL",
@@ -13709,9 +13709,9 @@
    "url": "/bartholomew-bear/"
   },
   "us:324": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/324/51480/BARM2BR__55068.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bartholomew Bear ‘Bathrobe’",
    "price": "50",
    "sku": "BARM2BR",
