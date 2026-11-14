@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-13T16:33:26+00:00",
+ "fetched_at": "2026-11-14T01:00:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1268,9 +1268,9 @@
    "url": "/spookipaws-cat/"
   },
   "uk:1530": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1530/20478/SMG2M__61464.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Monkey",
    "price": "18",
    "sku": "SMUDGE_MONKEY",
@@ -7648,9 +7648,9 @@
    "url": "/sacha-snow-tiger/"
   },
   "us:120": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/120/40787/A2SUN__43942.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sun",
    "price": "35",
    "sku": "AMUSEABLE_SUN",
@@ -12543,9 +12543,9 @@
    "url": "/ghost-bob/"
   },
   "us:2080": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2080/53580/GAR3GYL__28714.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Growlston Gargoyle",
    "price": "45",
    "sku": "GAR3GYL",
@@ -13709,9 +13709,9 @@
    "url": "/bartholomew-bear/"
   },
   "us:324": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/324/51480/BARM2BR__55068.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear ‘Bathrobe’",
    "price": "50",
    "sku": "BARM2BR",
