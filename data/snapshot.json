@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-15T09:00:44+00:00",
+ "fetched_at": "2026-11-15T15:43:27+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2357,9 +2357,9 @@
    "url": "/amuseables-pammie-palm-tree/"
   },
   "uk:1780": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1780/24619/A2TRES__58414.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Treasure Chest",
    "price": "50",
    "sku": "A2TRES",
@@ -7450,9 +7450,9 @@
    "url": "/personalised-bashful-luxe-bunny-rosa-soother/"
   },
   "us:1134": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1134/45072/PERSSO4SUN__34986.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Amuseables Sun Soother",
    "price": "41",
    "sku": "PERSSO4SUN",
@@ -7945,9 +7945,9 @@
    "url": "/amuseables-moon-soother/"
   },
   "us:1312": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1312/45914/SO4SUN__30236.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Sun Soother",
    "price": "33",
    "sku": "SO4SUN",
