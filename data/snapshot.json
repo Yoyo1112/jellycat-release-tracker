@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-14T15:11:48+00:00",
+ "fetched_at": "2026-11-15T01:00:47+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2225,9 +2225,9 @@
    "url": "/amuseables-sourdough/"
   },
   "uk:1752": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1752/24418/SH3DG__48674.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ewert Sheepdog",
    "price": "40",
    "sku": "SH3DG",
@@ -2280,9 +2280,9 @@
    "url": "/blossom-cream-bunny-berry-musical-pull/"
   },
   "uk:1758": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1758/24496/SO4CL__01819.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Cloud Soother",
    "price": "28",
    "sku": "SO4CL",
@@ -2412,9 +2412,9 @@
    "url": "/gobfrey-whale-shark/"
   },
   "uk:1789": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1789/24626/PERSSO4CL__92211.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Amuseables Cloud Soother",
    "price": "33",
    "sku": "PERSSO4CL",
@@ -8847,9 +8847,9 @@
    "url": "/amuseables-monstera-plant/"
   },
   "us:1600": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1600/46759/SETBK4ECFUS__85770.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Elephants Can't Fly Book & Fuddlewuddle Elephant Medium",
    "price": "53",
    "sku": "SETBK4ECFUS",
@@ -14270,9 +14270,9 @@
    "url": "/bartholomew-bear-comforter/"
   },
   "us:605": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/605/42901/CMF4BCP__62308.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Rufferty Black & Cream Puppy Comforter",
    "price": "28",
    "sku": "CMF4BCP",
