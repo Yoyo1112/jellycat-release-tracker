@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-15T15:43:27+00:00",
+ "fetched_at": "2026-11-16T01:00:44+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1037,9 +1037,9 @@
    "url": "/bashful-luxe-bunny-juniper/"
   },
   "uk:1456": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1456/16814/BB444SQ__47069.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were a Squirrel Board Book",
    "price": "10",
    "sku": "BB444SQ",
@@ -4502,9 +4502,9 @@
    "url": "/fluff-rescue-dog/"
   },
   "uk:2065": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2065/28241/RA3CN__53611.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Trixiwoo Raccoon",
    "price": "40",
    "sku": "RA3CN",
