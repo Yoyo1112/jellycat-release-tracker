@@ -1,6 +1,6 @@
 {
- "count": 1380,
- "fetched_at": "2026-11-16T09:00:48+00:00",
+ "count": 1381,
+ "fetched_at": "2026-11-16T18:41:00+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -245,9 +245,9 @@
    "url": "/personalised-bashful-viola-bunny-medium/"
   },
   "uk:1102": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1102/19658/PERSBAS3WIL__37229.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Luxe Bunny Willow Medium",
    "price": "45",
    "sku": "PERSBAS3WIL",
@@ -630,9 +630,9 @@
    "url": "/smudge-bear/"
   },
   "uk:1282": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1282/20469/SMG2EL__51618.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Elephant",
    "price": "18",
    "sku": "SMUDGE_ELEPHANT",
@@ -641,9 +641,9 @@
    "url": "/smudge-elephant/"
   },
   "uk:1286": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1286/20484/SMG2R__18967.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Rabbit",
    "price": "18",
    "sku": "SMUDGE_RABBIT",
@@ -795,9 +795,9 @@
    "url": "/amuseables-cloud/"
   },
   "uk:1373": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1373/20885/TR2SE__43646.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Truffles Sheep",
    "price": "100",
    "sku": "TR2SE",
@@ -916,9 +916,9 @@
    "url": "/amuseables-diamond-ring/"
   },
   "uk:1431": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1431/21105/YUM6MINB__07286.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Bunny",
    "price": "18",
    "sku": "YUMMY_BUNNY",
@@ -927,9 +927,9 @@
    "url": "/yummy-bunny/"
   },
   "uk:1433": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1433/21096/YUM6DK__25040.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Yummy Duckling",
    "price": "18",
    "sku": "YUM6DK",
@@ -1554,9 +1554,9 @@
    "url": "/bashful-luxe-bunny-scarlett-with-personalised-cream-jumper/"
   },
   "uk:1611": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1611/21195/JUMPCBAS3WIL__55808.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Willow with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3WIL",
@@ -1598,9 +1598,9 @@
    "url": "/bashful-luxe-bunny-scarlett-with-personalised-navy-jumper/"
   },
   "uk:1616": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1616/21215/JUMPNBAS3WIL__76871.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Willow with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3WIL",
@@ -1653,9 +1653,9 @@
    "url": "/bashful-luxe-bunny-scarlett-with-personalised-red-jumper/"
   },
   "uk:1621": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1621/28777/JUMPRBAS3WIL__76736.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Luxe Bunny Willow with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3WIL",
@@ -2874,7 +2874,7 @@
    "url": "/blossom-beige-bunny-petal-with-personalised-red-jumper/"
   },
   "uk:1842": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1842/25493/OOK3JOL__63600.1.jpg",
    "in_stock": true,
    "name": "Ooky Jack O Lantern",
@@ -3952,7 +3952,7 @@
    "url": "/cream-bunny-with-plant/"
   },
   "uk:2012": {
-   "badge": "Best Seller",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2012/27441/BB3STAR__05770.1.jpg",
    "in_stock": true,
    "name": "Cream Bunny with Star",
@@ -4117,9 +4117,9 @@
    "url": "/bartholomew-bear-bouffant-with-personalised-red-jumper/"
   },
   "uk:2027": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2027/27704/RR3FCON__62832.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ricky Rain Frog Smiling",
    "price": "20",
    "sku": "RR3FCON",
@@ -5217,13 +5217,13 @@
    "url": "/peanut-penguin-keychain-bag-charm/"
   },
   "uk:2144": {
-   "badge": "Available 16th November",
+   "badge": "Free sticker with your order",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2144/29114/PEN6J__29289.1.jpg",
    "in_stock": false,
    "name": "Shuffly Penguin",
    "price": "25",
    "sku": "PEN6J",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "uk",
    "url": "/shuffly-penguin/"
   },
@@ -5283,9 +5283,9 @@
    "url": "/amuseables-pink-and-white-marshmallows/"
   },
   "uk:233": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/233/15825/A6PACHOC__44437.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pain Au Chocolat",
    "price": "20",
    "sku": "A6PACHOC",
@@ -6361,9 +6361,9 @@
    "url": "/crispin-crab/"
   },
   "uk:596": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/596/17585/CHP3SG__27775.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Chip Seagull",
    "price": "30",
    "sku": "CHP3SG",
@@ -6614,7 +6614,7 @@
    "url": "/bashful-blush-bunny-with-personalised-cream-jumper/"
   },
   "uk:803": {
-   "badge": "Best Seller",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/803/18370/JUMPCBAS3BS__45441.1.jpg",
    "in_stock": true,
    "name": "Bashful Silver Bunny with Personalised Cream Jumper",
@@ -7384,9 +7384,9 @@
    "url": "/personalised-bashful-luxe-bunny-luna-blankie/"
   },
   "us:1116": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1116/44999/PERSBLNK4ROS__78640.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Bashful Luxe Bunny Rosa Blankie",
    "price": "108",
    "sku": "PERSBLNK4ROS",
@@ -11641,9 +11641,9 @@
    "url": "/sky-dragon-bag-charm/"
   },
   "us:1988": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1988/52695/A4TEAB__46847.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Steepy Tea Bag",
    "price": "33",
    "sku": "A4TEAB",
@@ -12202,9 +12202,9 @@
    "url": "/keli-pelican/"
   },
   "us:2045": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2045/53396/SEA2LN__23005.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Roarwell Sea Lion",
    "price": "60",
    "sku": "SEA2LN",
@@ -13203,13 +13203,13 @@
    "url": "/clyde-capybara-clip-on-charm/"
   },
   "us:2159": {
-   "badge": "Available November 16th",
+   "badge": "Free sticker with your order",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2159/54374/PEN6J__01175.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Shuffly Penguin",
    "price": "33",
    "sku": "PEN6J",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "us",
    "url": "/shuffly-penguin/"
   },
@@ -13223,6 +13223,17 @@
    "status": "Live",
    "store": "us",
    "url": "/amuseables-boiled-egg-groom/"
+  },
+  "us:2160": {
+   "badge": "",
+   "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2160/54375/BPS1STICKUS__90812.1.png",
+   "in_stock": true,
+   "name": "Shuffly Penguin Sticker (Free Gift)",
+   "price": "0",
+   "sku": "BPS1STICKUS",
+   "status": "Live",
+   "store": "us",
+   "url": "/shuffly-penguin-sticker-sheet-us/"
   },
   "us:218": {
    "badge": "Out of Stock",
@@ -14039,9 +14050,9 @@
    "url": "/the-playful-polar-bears-book/"
   },
   "us:506": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/506/42447/BK4RD__97989.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Mitzi Reindeer's Dream Book",
    "price": "18",
    "sku": "BK4RD",
@@ -14149,9 +14160,9 @@
    "url": "/bashful-black-cream-puppy-blankie/"
   },
   "us:539": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/539/42622/BLNK4LUN__05850.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Blankie",
    "price": "100",
    "sku": "BASHFUL_LUXE_BUNNY_BLANKIES",
