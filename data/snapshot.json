@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-16T01:00:44+00:00",
+ "fetched_at": "2026-11-16T06:50:12+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -245,9 +245,9 @@
    "url": "/personalised-bashful-viola-bunny-medium/"
   },
   "uk:1102": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1102/19658/PERSBAS3WIL__37229.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalised Bashful Luxe Bunny Willow Medium",
    "price": "45",
    "sku": "PERSBAS3WIL",
@@ -1081,9 +1081,9 @@
    "url": "/persimmon-dragon/"
   },
   "uk:1477": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1477/27098/SKY2DD__29771.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Sky Dragon",
    "price": "58",
    "sku": "SKY_DRAGON",
@@ -1554,9 +1554,9 @@
    "url": "/bashful-luxe-bunny-scarlett-with-personalised-cream-jumper/"
   },
   "uk:1611": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1611/21195/JUMPCBAS3WIL__55808.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Willow with Personalised Cream Jumper",
    "price": "51",
    "sku": "JUMPCBAS3WIL",
@@ -1598,9 +1598,9 @@
    "url": "/bashful-luxe-bunny-scarlett-with-personalised-navy-jumper/"
   },
   "uk:1616": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1616/21215/JUMPNBAS3WIL__76871.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Willow with Personalised Navy Jumper",
    "price": "51",
    "sku": "JUMPNBAS3WIL",
@@ -1653,9 +1653,9 @@
    "url": "/bashful-luxe-bunny-scarlett-with-personalised-red-jumper/"
   },
   "uk:1621": {
-   "badge": "Personalise Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1621/28777/JUMPRBAS3WIL__76736.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Luxe Bunny Willow with Personalised Red Jumper",
    "price": "51",
    "sku": "JUMPRBAS3WIL",
@@ -4711,9 +4711,9 @@
    "url": "/jellycat-jack-junior/"
   },
   "uk:2088": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2088/28524/A2HAT__63681.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Pomilly",
    "price": "40",
    "sku": "A2HAT",
