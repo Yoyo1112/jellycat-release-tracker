@@ -1,6 +1,6 @@
 {
  "count": 1380,
- "fetched_at": "2026-11-16T06:50:12+00:00",
+ "fetched_at": "2026-11-16T09:00:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -4249,9 +4249,9 @@
    "url": "/roarwell-sea-lion/"
   },
   "uk:2040": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2040/27801/AS2FB__87866.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Jellycat Football",
    "price": "55",
    "sku": "AS2FB",
@@ -4711,9 +4711,9 @@
    "url": "/jellycat-jack-junior/"
   },
   "uk:2088": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2088/28524/A2HAT__63681.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pomilly",
    "price": "40",
    "sku": "A2HAT",
