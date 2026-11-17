@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-17T01:00:45+00:00",
+ "fetched_at": "2026-11-17T08:09:26+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -2016,9 +2016,9 @@
    "url": "/amuseables-vicky-teapot/"
   },
   "uk:1717": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1717/24295/A2WFL__90472.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Rene Waffle",
    "price": "35",
    "sku": "A2WFL",
@@ -5283,9 +5283,9 @@
    "url": "/amuseables-pink-and-white-marshmallows/"
   },
   "uk:233": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/233/15825/A6PACHOC__44437.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Pain Au Chocolat",
    "price": "20",
    "sku": "A6PACHOC",
@@ -6009,9 +6009,9 @@
    "url": "/odell-la-petite-pieuvre-courageuse-livre/"
   },
   "uk:473": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/473/17066/BK4FOG__47418.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Odell, Der Furchtlose Oktopus Buch",
    "price": "13.5",
    "sku": "BK4FOG",
