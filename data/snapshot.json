@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-17T09:00:48+00:00",
+ "fetched_at": "2026-11-17T17:41:11+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -487,9 +487,9 @@
    "url": "/peanut-penguin/"
   },
   "uk:117": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/117/15514/A2PRET__91351.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pretzel",
    "price": "28",
    "sku": "AMUSEABLE_PRETZEL",
@@ -729,9 +729,9 @@
    "url": "/bashful-toffee-puppy-soother/"
   },
   "uk:132": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/132/15412/A2BSXMAS__45678.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Blue Spruce Christmas Tree",
    "price": "200",
    "sku": "AMUSEABLE_BLUE_SPRUCE_CHRISTMAS_TREE",
@@ -1048,9 +1048,9 @@
    "url": "/if-i-were-a-squirrel-board-book/"
   },
   "uk:1460": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1460/17210/BK4WTS__49125.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Warm in the Storm Book",
    "price": "10",
    "sku": "BK4WTS",
@@ -1818,9 +1818,9 @@
    "url": "/blossom-cream-bunny-berry-bag-charm/"
   },
   "uk:1673": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1673/24027/BK4SMB__83105.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Smudge Rabbit and the Falling Star Book",
    "price": "13.5",
    "sku": "BK4SMB",
@@ -1928,9 +1928,9 @@
    "url": "/amuseables-storm-cloud-bag-charm/"
   },
   "uk:1698": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1698/24185/BK4PTS__24776.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "The Pick of the Sticks Book",
    "price": "10",
    "sku": "BK4PTS",
@@ -2071,9 +2071,9 @@
    "url": "/amuseables-fleurette-tarte-aux-fraises/"
   },
   "uk:1725": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1725/24248/BAS3BEBB__56478.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bashful Beige Bunny 'Birthday'",
    "price": "40",
    "sku": "BAS3BEBB",
@@ -2159,9 +2159,9 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-navy-jumper/"
   },
   "uk:1741": {
-   "badge": "Out of Stock",
+   "badge": "Personalise Me",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1741/24430/PERSBAS3BEBB__61499.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Personalised Bashful Beige Bunny 'Birthday'",
    "price": "45",
    "sku": "PERSBAS3BEBB",
@@ -2610,9 +2610,9 @@
    "url": "/hopscone-luxe-bunny/"
   },
   "uk:1819": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1819/24779/BK4OAA__49309.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Odell's Amazing Arms Book",
    "price": "10",
    "sku": "BK4OAA",
@@ -4733,13 +4733,13 @@
    "url": "/amuseables-perta-snow-boot/"
   },
   "uk:2090": {
-   "badge": "Available 17th November",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2090/28528/A4DBBC__97849.1.jpg",
-   "in_stock": false,
-   "name": "Amuseables Disco Ball Bag Charm",
+   "in_stock": true,
+   "name": "Amuseables Disco Ball Key Chain Bag Charm",
    "price": "40",
    "sku": "A4DBBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "uk",
    "url": "/amuseables-disco-ball-bag-charm/"
   },
@@ -4821,13 +4821,13 @@
    "url": "/ulrich-wolf/"
   },
   "uk:2098": {
-   "badge": "Available 17th November",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2098/28523/A4BCBC__88898.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Birthday Cake Bag Charm",
    "price": "30",
    "sku": "A4BCBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "uk",
    "url": "/amuseables-birthday-cake-bag-charm/"
   },
@@ -4854,24 +4854,24 @@
    "url": "/amuseables-bean/"
   },
   "uk:2100": {
-   "badge": "Available 17th November",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2100/28541/A4MOONBC__12050.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Moon Bag Charm",
    "price": "25",
    "sku": "A4MOONBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "uk",
    "url": "/amuseables-moon-bag-charm/"
   },
   "uk:2101": {
-   "badge": "Available 17th November",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2101/28551/BAS4BCPBC__32672.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Rufferty Puppy Bag Charm",
    "price": "23",
    "sku": "BAS4BCPBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "uk",
    "url": "/rufferty-puppy-bag-charm/"
   },
@@ -4909,9 +4909,9 @@
    "url": "/amuseables-sports-ski-club-goggles/"
   },
   "uk:211": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/211/23374/A6BEBR__17109.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Boiled Egg 'Bride'",
    "price": "23",
    "sku": "A6BEBR",
@@ -5173,9 +5173,9 @@
    "url": "/personalised-franilla-luxe-bunny/"
   },
   "uk:214": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/214/28624/A6BEGR__16949.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Boiled Egg 'Graduation'",
    "price": "23",
    "sku": "A6BEGR",
@@ -5217,7 +5217,7 @@
    "url": "/peanut-penguin-keychain-bag-charm/"
   },
   "uk:2144": {
-   "badge": "Free sticker with your order",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2144/29114/PEN6J__29289.1.jpg",
    "in_stock": false,
    "name": "Shuffly Penguin",
@@ -5305,9 +5305,9 @@
    "url": "/amuseables-peanut/"
   },
   "uk:237": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/237/23462/A6PIC__63069.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Pickle",
    "price": "20",
    "sku": "A6PIC",
@@ -5954,9 +5954,9 @@
    "url": "/leo-der-mutige-lowe-buch/"
   },
   "uk:463": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/463/17033/BK4CATS__47437.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "All Kinds of Cats Book",
    "price": "10",
    "sku": "BK4CATS",
@@ -6207,9 +6207,9 @@
    "url": "/sweetcorn-book/"
   },
   "uk:510": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/510/17183/BK4TSD__98229.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "The Sky Dragon Book",
    "price": "11.5",
    "sku": "BK4TSD",
@@ -12609,13 +12609,13 @@
    "url": "/amuseables-perta-snow-boot/"
   },
   "us:2087": {
-   "badge": "Available November 17th",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2087/53789/A4BCBC__90837.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Birthday Cake Bag Charm",
    "price": "43",
    "sku": "A4BCBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "us",
    "url": "/amuseables-birthday-cake-bag-charm/"
   },
@@ -12631,13 +12631,13 @@
    "url": "/amuseables-birthday-cake-bag/"
   },
   "us:2089": {
-   "badge": "Available November 17th",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2089/53749/A4DBBC__11846.1.jpg",
-   "in_stock": false,
-   "name": "Amuseables Disco Ball Bag Charm",
+   "in_stock": true,
+   "name": "Amuseables Disco Ball Key Chain Bag Charm",
    "price": "45",
    "sku": "A4DBBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "us",
    "url": "/amuseables-disco-ball-bag-charm/"
   },
@@ -12653,13 +12653,13 @@
    "url": "/amuseables-fitswell-mitten/"
   },
   "us:2091": {
-   "badge": "Available November 17th",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2091/53798/A4MOONBC__02854.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Moon Bag Charm",
    "price": "33",
    "sku": "A4MOONBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "us",
    "url": "/amuseables-moon-bag-charm/"
   },
@@ -12697,13 +12697,13 @@
    "url": "/bizzlestomp-bear/"
   },
   "us:2095": {
-   "badge": "Available November 17th",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2095/53774/BAS4BCPBC__16082.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Rufferty Puppy Bag Charm",
    "price": "32",
    "sku": "BAS4BCPBC",
-   "status": "Coming Soon",
+   "status": "Live",
    "store": "us",
    "url": "/rufferty-puppy-bag-charm/"
   },
@@ -13720,9 +13720,9 @@
    "url": "/bartholomew-bear/"
   },
   "us:324": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/324/51480/BARM2BR__55068.1.png",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bartholomew Bear ‘Bathrobe’",
    "price": "50",
    "sku": "BARM2BR",
@@ -13863,9 +13863,9 @@
    "url": "/if-i-were-a-puppy-board-book/"
   },
   "us:395": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/395/42036/BB444HEDG__73978.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were A Hedgehog Book",
    "price": "15",
    "sku": "BB444HEDG",
