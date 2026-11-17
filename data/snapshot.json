@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-16T18:41:00+00:00",
+ "fetched_at": "2026-11-17T01:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -443,9 +443,9 @@
    "url": "/personalised-bartholomew-bear-soother/"
   },
   "uk:114": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/114/24865/A2MOON__39526.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Moon",
    "price": "28",
    "sku": "AMUSEABLE_MOON",
@@ -630,9 +630,9 @@
    "url": "/smudge-bear/"
   },
   "uk:1282": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1282/20469/SMG2EL__51618.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Elephant",
    "price": "18",
    "sku": "SMUDGE_ELEPHANT",
@@ -641,9 +641,9 @@
    "url": "/smudge-elephant/"
   },
   "uk:1286": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1286/20484/SMG2R__18967.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Smudge Rabbit",
    "price": "18",
    "sku": "SMUDGE_RABBIT",
@@ -927,9 +927,9 @@
    "url": "/yummy-bunny/"
   },
   "uk:1433": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1433/21096/YUM6DK__25040.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Yummy Duckling",
    "price": "18",
    "sku": "YUM6DK",
@@ -6361,9 +6361,9 @@
    "url": "/crispin-crab/"
   },
   "uk:596": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/596/17585/CHP3SG__27775.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Chip Seagull",
    "price": "30",
    "sku": "CHP3SG",
@@ -13357,9 +13357,9 @@
    "url": "/amuseables-potato/"
   },
   "us:246": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/246/48724/A6TR__36291.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Toilet Roll",
    "price": "33",
    "sku": "A6TR",
