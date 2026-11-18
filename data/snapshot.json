@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-17T17:41:11+00:00",
+ "fetched_at": "2026-11-18T01:00:46+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -5470,9 +5470,9 @@
    "url": "/bashful-pink-bunny/"
   },
   "uk:300": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/300/16311/BAS3BCP__02281.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bashful Black & Cream Puppy",
    "price": "18",
    "sku": "BASHFUL_BLACK_AND_CREAM_PUPPY",
