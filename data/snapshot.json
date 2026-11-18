@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-18T07:43:33+00:00",
+ "fetched_at": "2026-11-18T09:00:48+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -6163,9 +6163,9 @@
    "url": "/otto-klein-aber-oho-buch/"
   },
   "uk:501": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/501/17156/BK4OSC__32771.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Otto's Snowy Christmas Book",
    "price": "11.5",
    "sku": "BK4OSC",
