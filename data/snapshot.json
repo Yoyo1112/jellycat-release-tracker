@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-19T01:00:51+00:00",
+ "fetched_at": "2026-11-19T07:39:52+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -751,9 +751,9 @@
    "url": "/bashful-bunny-soothers/"
   },
   "uk:1355": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1355/20768/STH4BAR__30097.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Bartholomew Bear Soother",
    "price": "28",
    "sku": "STH4BAR",
@@ -1037,9 +1037,9 @@
    "url": "/bashful-luxe-bunny-juniper/"
   },
   "uk:1456": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1456/16814/BB444SQ__47069.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "If I Were a Squirrel Board Book",
    "price": "10",
    "sku": "BB444SQ",
@@ -4372,7 +4372,7 @@
   "uk:2053": {
    "badge": "Adjustable Strap",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2053/27946/A4SCLBG__57682.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Cirrus Storm Cloud Shoulder Bag",
    "price": "45",
    "sku": "A4SCLBG",
@@ -4711,9 +4711,9 @@
    "url": "/jellycat-jack-junior/"
   },
   "uk:2088": {
-   "badge": "Out of Stock",
+   "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2088/28524/A2HAT__63681.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Pomilly",
    "price": "40",
    "sku": "A2HAT",
@@ -10288,9 +10288,9 @@
    "url": "/personalised-bashful-duckling-soother/"
   },
   "us:1803": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1803/49895/A2MOZZ__68638.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Mozzarella",
    "price": "25",
    "sku": "A2MOZZ",
