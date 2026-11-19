@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-19T09:00:50+00:00",
+ "fetched_at": "2026-11-19T17:27:00+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -729,9 +729,9 @@
    "url": "/bashful-toffee-puppy-soother/"
   },
   "uk:132": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/132/15412/A2BSXMAS__45678.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Blue Spruce Christmas Tree",
    "price": "200",
    "sku": "AMUSEABLE_BLUE_SPRUCE_CHRISTMAS_TREE",
@@ -1037,9 +1037,9 @@
    "url": "/bashful-luxe-bunny-juniper/"
   },
   "uk:1456": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1456/16814/BB444SQ__47069.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "If I Were a Squirrel Board Book",
    "price": "10",
    "sku": "BB444SQ",
@@ -1081,9 +1081,9 @@
    "url": "/persimmon-dragon/"
   },
   "uk:1477": {
-   "badge": "Out of Stock",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1477/27098/SKY2DD__29771.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Sky Dragon",
    "price": "58",
    "sku": "SKY_DRAGON",
@@ -1103,9 +1103,9 @@
    "url": "/brooke-otter/"
   },
   "uk:1483": {
-   "badge": "Out of Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1483/25062/A6CHR__94500.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Amuseables Cherry",
    "price": "23",
    "sku": "A6CHR",
@@ -1127,7 +1127,7 @@
   "uk:1487": {
    "badge": "Adjustable Strap",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1487/23834/TIM4BT__15772.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Timmy Turtle Bag",
    "price": "60",
    "sku": "TIM4BT",
@@ -1158,7 +1158,7 @@
    "url": "/bashful-puppy-loves-you-book/"
   },
   "uk:1496": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1496/20462/SMG2BBP__58386.1.jpg",
    "in_stock": true,
    "name": "Smudge Bear Backpack",
@@ -1169,7 +1169,7 @@
    "url": "/smudge-bear-backpack/"
   },
   "uk:1497": {
-   "badge": "Back in Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1497/20466/SMG2BET__15345.1.jpg",
    "in_stock": true,
    "name": "Smudge Bear Tote Bag",
@@ -2225,9 +2225,9 @@
    "url": "/amuseables-sourdough/"
   },
   "uk:1752": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1752/24418/SH3DG__48674.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ewert Sheepdog",
    "price": "40",
    "sku": "SH3DG",
@@ -2896,9 +2896,9 @@
    "url": "/broox-bat/"
   },
   "uk:1856": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1856/25800/A6PCT__74699.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Peanut ‘Cat’",
    "price": "23",
    "sku": "A6PCT",
@@ -5173,9 +5173,9 @@
    "url": "/personalised-franilla-luxe-bunny/"
   },
   "uk:214": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/214/28624/A6BEGR__16949.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Boiled Egg 'Graduation'",
    "price": "23",
    "sku": "A6BEGR",
@@ -5305,7 +5305,7 @@
    "url": "/amuseables-peanut/"
   },
   "uk:237": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/237/23462/A6PIC__63069.1.jpg",
    "in_stock": true,
    "name": "Amuseables Pickle",
@@ -5437,7 +5437,7 @@
    "url": "/bashful-blue-bunny/"
   },
   "uk:295": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/295/26778/BAS3BTP__93393.1.jpg",
    "in_stock": true,
    "name": "Bashful Tulip Pink Bunny",
@@ -7527,9 +7527,9 @@
    "url": "/personalised-bashful-black-cream-puppy-soother/"
   },
   "us:1142": {
-   "badge": "Personalize Me",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1142/45103/PERSSTH4BLU__31923.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Personalized Bashful Blush Bunny Soother",
    "price": "41",
    "sku": "PERSSTH4BLU",
@@ -9364,7 +9364,7 @@
    "url": "/blossom-cream-bunny-berry-bag-charm/"
   },
   "us:1690": {
-   "badge": "Back in Stock",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1690/49214/BMP3MS__86299.1.jpg",
    "in_stock": true,
    "name": "Blossom Cream Bunny 'Berry'",
@@ -10728,9 +10728,9 @@
    "url": "/amuseables-toffee-apple/"
   },
   "us:1845": {
-   "badge": "Out of Stock",
+   "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1845/50709/OOK3JOL__38839.1.jpg",
-   "in_stock": false,
+   "in_stock": true,
    "name": "Ooky Jack O Lantern",
    "price": "28",
    "sku": "OOK3JOL",
@@ -10907,7 +10907,7 @@
    "badge": "",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1871/51082/BAS6BD__37896.1.png",
    "in_stock": true,
-   "name": "Bashful Beige Bunny Decoration",
+   "name": "Bashful Beige Bunny Ornament",
    "price": "25",
    "sku": "BAS6BD",
    "status": "Live",
@@ -10962,7 +10962,7 @@
    "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1884/51178/JELC6D__12029.1.png",
    "in_stock": false,
-   "name": "Jellycat Jack Decoration",
+   "name": "Jellycat Jack Ornament",
    "price": "25",
    "sku": "JELC6D",
    "status": "Live",
@@ -12887,7 +12887,7 @@
    "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2118/54068/BARS6DEC__45858.1.png",
    "in_stock": true,
-   "name": "Bartholomew Bear Jr. Winter Warmer Decoration",
+   "name": "Bartholomew Bear Jr. Winter Warmer Ornament",
    "price": "28",
    "sku": "BARS6DEC",
    "status": "Live",
@@ -12898,7 +12898,7 @@
    "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2119/54060/BARS6DE__25978.1.png",
    "in_stock": true,
-   "name": "Bartholomew Bear Winter Warmer Decoration",
+   "name": "Bartholomew Bear Winter Warmer Ornament",
    "price": "28",
    "sku": "BARS6DE",
    "status": "Live",
@@ -12931,7 +12931,7 @@
    "badge": "New In",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2121/54044/BARL6D__36599.1.png",
    "in_stock": true,
-   "name": "Leola Bear Winter Warmer Decoration",
+   "name": "Leola Bear Winter Warmer Ornament",
    "price": "28",
    "sku": "BARL6D",
    "status": "Live",
@@ -13720,9 +13720,9 @@
    "url": "/bartholomew-bear/"
   },
   "us:324": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/324/51480/BARM2BR__55068.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear ‘Bathrobe’",
    "price": "50",
    "sku": "BARM2BR",
