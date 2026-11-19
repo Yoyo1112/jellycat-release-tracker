@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-19T07:39:52+00:00",
+ "fetched_at": "2026-11-19T09:00:50+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -751,9 +751,9 @@
    "url": "/bashful-bunny-soothers/"
   },
   "uk:1355": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1355/20768/STH4BAR__30097.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear Soother",
    "price": "28",
    "sku": "STH4BAR",
@@ -4711,9 +4711,9 @@
    "url": "/jellycat-jack-junior/"
   },
   "uk:2088": {
-   "badge": "New In",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/2088/28524/A2HAT__63681.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pomilly",
    "price": "40",
    "sku": "A2HAT",
