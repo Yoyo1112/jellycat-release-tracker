@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-20T01:01:00+00:00",
+ "fetched_at": "2026-11-20T07:31:10+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1994,9 +1994,9 @@
    "url": "/amuseables-collette-tarte-au-citron/"
   },
   "uk:1715": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1715/24291/A2PAN__07996.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Fran Pancakes",
    "price": "33",
    "sku": "A2PAN",
