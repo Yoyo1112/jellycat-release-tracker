@@ -1,6 +1,6 @@
 {
  "count": 1381,
- "fetched_at": "2026-11-19T17:27:00+00:00",
+ "fetched_at": "2026-11-20T01:01:00+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -1224,9 +1224,9 @@
    "url": "/timmy-turtle-bag-charm/"
   },
   "uk:1516": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1516/23566/BAR2BT__44139.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Bartholomew Bear Tote Bag",
    "price": "75",
    "sku": "BAR2BT",
@@ -1928,9 +1928,9 @@
    "url": "/amuseables-storm-cloud-bag-charm/"
   },
   "uk:1698": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1698/24185/BK4PTS__24776.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "The Pick of the Sticks Book",
    "price": "10",
    "sku": "BK4PTS",
@@ -8341,7 +8341,7 @@
    "url": "/sky-dragon/"
   },
   "us:1477": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1477/45815/SMG4BBC__62825.1.jpg",
    "in_stock": true,
    "name": "Smudge Bear Bag Charm",
@@ -9837,7 +9837,7 @@
    "url": "/bashful-luxe-puppy-orlando-with-personalised-red-jumper/"
   },
   "us:1750": {
-   "badge": "Personalize Me",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1750/49658/PERSBAS3BEBB__23361.1.jpg",
    "in_stock": true,
    "name": "Personalized Bashful Beige Bunny 'Birthday'",
@@ -10728,9 +10728,9 @@
    "url": "/amuseables-toffee-apple/"
   },
   "us:1845": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1845/50709/OOK3JOL__38839.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Ooky Jack O Lantern",
    "price": "28",
    "sku": "OOK3JOL",
@@ -11168,7 +11168,7 @@
    "url": "/amuseables-sports-cariss-curling-stone/"
   },
   "us:1943": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1943/52355/BAS3BSK__47240.1.jpg",
    "in_stock": true,
    "name": "Bashful Bunny ‘Gold Medal Ski’",
@@ -11509,7 +11509,7 @@
    "url": "/amuseables-peach-bag-charm/"
   },
   "us:1976": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1976/52708/BAR2ONE__41349.1.jpg",
    "in_stock": true,
    "name": "Bartholomew Bear ‘All-in-one’",
@@ -11828,7 +11828,7 @@
    "url": "/zumblebi-alien/"
   },
   "us:2011": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2011/52561/A6PSC__31773.1.jpg",
    "in_stock": true,
    "name": "Amuseables Peanut ‘Space Rodeo’",
@@ -12554,7 +12554,7 @@
    "url": "/growlston-gargoyle/"
   },
   "us:2081": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2081/53577/BAS3BCPW__27627.1.jpg",
    "in_stock": true,
    "name": "Rufferty Puppy 'Wizard'",
@@ -12587,7 +12587,7 @@
    "url": "/jellycat-jack-junior/"
   },
   "us:2085": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2085/53754/A2HAT__80545.1.jpg",
    "in_stock": true,
    "name": "Amuseables Pomilly",
@@ -12675,7 +12675,7 @@
    "url": "/amuseables-mullover-spiced-drink/"
   },
   "us:2093": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2093/54147/A6STA__46083.1.jpg",
    "in_stock": true,
    "name": "Amuseables Silver Star",
@@ -12730,7 +12730,7 @@
    "url": "/rufferty-puppy-handbag/"
   },
   "us:2098": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2098/54239/GRU3WL__34806.1.jpg",
    "in_stock": true,
    "name": "Tawoola Owl",
@@ -12741,7 +12741,7 @@
    "url": "/tawoola-owl/"
   },
   "us:2099": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2099/53730/MUN2JUM__06433.1.jpg",
    "in_stock": true,
    "name": "Munro Scottie Dog 'Winter Jumper'",
@@ -12763,7 +12763,7 @@
    "url": "/ulrich-wolf/"
   },
   "us:2102": {
-   "badge": "New In",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2102/53852/AS2SKGO__24497.1.jpg",
    "in_stock": true,
    "name": "Amuseables Sports Ski Club Goggles",
@@ -13555,7 +13555,7 @@
    "url": "/amuseables-diamond-ring-with-personalised-bag/"
   },
   "us:301": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/301/41557/BAS3BCP__92284.1.jpg",
    "in_stock": true,
    "name": "Bashful Black & Cream Puppy",
@@ -13599,7 +13599,7 @@
    "url": "/bashful-dragon/"
   },
   "us:305": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/305/41605/BAS3DNO__83978.1.jpg",
    "in_stock": true,
    "name": "Bashful Dino",
@@ -14215,7 +14215,7 @@
    "url": "/bashful-lamb-ring-rattle/"
   },
   "us:576": {
-   "badge": "",
+   "badge": "Best Seller",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/576/42791/BUM2BR__14567.1.jpg",
    "in_stock": true,
    "name": "Bumbly Bear",
