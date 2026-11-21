@@ -1,6 +1,6 @@
 {
  "count": 1383,
- "fetched_at": "2026-11-20T17:01:49+00:00",
+ "fetched_at": "2026-11-21T01:00:45+00:00",
  "products": {
   "uk:1008": {
    "badge": "New Colour",
@@ -982,9 +982,9 @@
    "url": "/amuseables-ginger/"
   },
   "uk:1449": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1449/24325/APM4BC__19536.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pair of Marshmallows Bag Charm",
    "price": "25",
    "sku": "APM4BC",
@@ -1389,9 +1389,9 @@
    "url": "/personalised-bashful-luxe-bunny-nimbus/"
   },
   "uk:1554": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-e66ltxu1n1/images/stencil/500x500/products/1554/26029/A1LPRD__05038.1.png",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Peanut Reindeer",
    "price": "50",
    "sku": "PEANUT_REINDEER",
@@ -11454,9 +11454,9 @@
    "url": "/amuseables-peach-shoulder-bag/"
   },
   "us:1970": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1970/52181/A4PICBC__97685.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pickle Bag Charm",
    "price": "33",
    "sku": "A4PICBC",
@@ -11652,9 +11652,9 @@
    "url": "/sky-dragon-bag-charm/"
   },
   "us:1988": {
-   "badge": "Best Seller",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/1988/52695/A4TEAB__46847.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Steepy Tea Bag",
    "price": "33",
    "sku": "A4TEAB",
@@ -12554,9 +12554,9 @@
    "url": "/ghost-bob/"
   },
   "us:2080": {
-   "badge": "",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/2080/53580/GAR3GYL__28714.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Growlston Gargoyle",
    "price": "45",
    "sku": "GAR3GYL",
@@ -13357,9 +13357,9 @@
    "url": "/amuseables-peanut/"
   },
   "us:238": {
-   "badge": "Back in Stock",
+   "badge": "Out of Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/238/48708/A6PIC__68653.1.jpg",
-   "in_stock": true,
+   "in_stock": false,
    "name": "Amuseables Pickle",
    "price": "28",
    "sku": "A6PIC",
@@ -13544,7 +13544,7 @@
    "url": "/bashful-tulip-pink-bunny/"
   },
   "us:297": {
-   "badge": "Best Seller",
+   "badge": "Back in Stock",
    "image": "https://cdn11.bigcommerce.com/s-23s5gfmhr7/images/stencil/500x500/products/297/48859/BAS3BC__02362.1.jpg",
    "in_stock": true,
    "name": "Bashful Cream Bunny",
